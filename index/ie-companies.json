@@ -1,0 +1,1302 @@
+[
+  {
+    "name": "HEAnet",
+    "asn": "AS1213",
+    "count": "1,777,920"
+  },
+  {
+    "name": "Eircom Limited",
+    "asn": "AS5466",
+    "count": "1,111,296"
+  },
+  {
+    "name": "Vodafone Ireland Limited",
+    "asn": "AS15502",
+    "count": "463,872"
+  },
+  {
+    "name": "Imagine Communications Group Limited",
+    "asn": "AS25441",
+    "count": "419,840"
+  },
+  {
+    "name": "Three Ireland (Hutchison) limited",
+    "asn": "AS13280",
+    "count": "159,744"
+  },
+  {
+    "name": "Coolwave Communications Limited",
+    "asn": "AS8918",
+    "count": "155,648"
+  },
+  {
+    "name": "Digiweb ltd",
+    "asn": "AS31122",
+    "count": "153,344"
+  },
+  {
+    "name": "Magnet Networks Limited",
+    "asn": "AS34245",
+    "count": "122,880"
+  },
+  {
+    "name": "University College Dublin",
+    "asn": "AS2850",
+    "count": "65,536"
+  },
+  {
+    "name": "Ripple Communications Ltd",
+    "asn": "AS35226",
+    "count": "40,960"
+  },
+  {
+    "name": "ServeCentric Ltd.",
+    "asn": "AS15612",
+    "count": "32,768"
+  },
+  {
+    "name": "Blacknight Internet Solutions Limited",
+    "asn": "AS39122",
+    "count": "27,392"
+  },
+  {
+    "name": "Vodafone Ireland Limited",
+    "asn": "AS34912",
+    "count": "25,856"
+  },
+  {
+    "name": "Meteor Mobile Communications Limited",
+    "asn": "AS15751",
+    "count": "24,832"
+  },
+  {
+    "name": "Sungard Availability Services (Ireland) Ltd.",
+    "asn": "AS29650",
+    "count": "23,808"
+  },
+  {
+    "name": "Fulnett Limited",
+    "asn": "AS16171",
+    "count": "23,552"
+  },
+  {
+    "name": "Google Ireland Limited",
+    "asn": "AS43515",
+    "count": "21,760"
+  },
+  {
+    "name": "Irish Government",
+    "asn": "AS15806",
+    "count": "20,480"
+  },
+  {
+    "name": "Enet Telecommunications Networks Limited",
+    "asn": "AS207044",
+    "count": "16,384"
+  },
+  {
+    "name": "CORK INTERNET EXCHANGE LIMITED",
+    "asn": "AS47720",
+    "count": "14,848"
+  },
+  {
+    "name": "Leeson Telecom Holdings Ltd",
+    "asn": "AS199256",
+    "count": "13,824"
+  },
+  {
+    "name": "Adelphi Net1 Ltd",
+    "asn": "AS44212",
+    "count": "13,312"
+  },
+  {
+    "name": "AIRSPEED COMMUNICATIONS UNLIMITED COMPANY",
+    "asn": "AS29644",
+    "count": "12,544"
+  },
+  {
+    "name": "Rapid Broadband Ltd",
+    "asn": "AS42090",
+    "count": "12,288"
+  },
+  {
+    "name": "Lighthouse Networks Limited",
+    "asn": "AS43406",
+    "count": "11,520"
+  },
+  {
+    "name": "Sternforth Ltd.",
+    "asn": "AS30900",
+    "count": "11,520"
+  },
+  {
+    "name": "Western Broadband Networks Limited",
+    "asn": "AS39093",
+    "count": "11,264"
+  },
+  {
+    "name": "EOBO Ltd T/A BBnet",
+    "asn": "AS47680",
+    "count": "10,240"
+  },
+  {
+    "name": "Airwire Ltd",
+    "asn": "AS42227",
+    "count": "10,240"
+  },
+  {
+    "name": "Permanet Limited",
+    "asn": "AS48142",
+    "count": "9,216"
+  },
+  {
+    "name": "Aptus Ltd",
+    "asn": "AS49567",
+    "count": "9,216"
+  },
+  {
+    "name": "Digital Realty (UK) Limited",
+    "asn": "AS43006",
+    "count": "8,704"
+  },
+  {
+    "name": "3playplus Ltd.",
+    "asn": "AS43984",
+    "count": "8,448"
+  },
+  {
+    "name": "Bioware Ireland Ltd",
+    "asn": "AS57052",
+    "count": "8,192"
+  },
+  {
+    "name": "Casey CableVision Ltd.",
+    "asn": "AS12388",
+    "count": "8,192"
+  },
+  {
+    "name": "SKYTEL NETWORKS IRELAND LIMITED",
+    "asn": "AS44451",
+    "count": "8,192"
+  },
+  {
+    "name": "Fast Wireless Internet Ltd",
+    "asn": "AS49406",
+    "count": "8,192"
+  },
+  {
+    "name": "catalyst2 Services Limited",
+    "asn": "AS29636",
+    "count": "8,192"
+  },
+  {
+    "name": "Arden Broadband Ltd",
+    "asn": "AS57791",
+    "count": "7,168"
+  },
+  {
+    "name": "Fastcom Broadband Limited",
+    "asn": "AS39449",
+    "count": "7,168"
+  },
+  {
+    "name": "Business Recovery Services Limited",
+    "asn": "AS61194",
+    "count": "6,400"
+  },
+  {
+    "name": "Irish Government",
+    "asn": "AS24675",
+    "count": "6,400"
+  },
+  {
+    "name": "Wifiber Limited",
+    "asn": "AS62455",
+    "count": "6,400"
+  },
+  {
+    "name": "Nucleus VP Group Limited",
+    "asn": "AS58173",
+    "count": "6,144"
+  },
+  {
+    "name": "Nova Networks Ltd",
+    "asn": "AS41736",
+    "count": "6,144"
+  },
+  {
+    "name": "Adobe Systems Software Ireland Ltd",
+    "asn": "AS44786",
+    "count": "5,888"
+  },
+  {
+    "name": "Regional Telecom Ltd",
+    "asn": "AS47942",
+    "count": "5,120"
+  },
+  {
+    "name": "Crossan CableComm Ltd",
+    "asn": "AS44384",
+    "count": "5,120"
+  },
+  {
+    "name": "Ajisko Ltd t/a Integrated Media Solutions",
+    "asn": "AS43192",
+    "count": "4,608"
+  },
+  {
+    "name": "Wireless Connect Ltd.",
+    "asn": "AS62129",
+    "count": "4,608"
+  },
+  {
+    "name": "Js Whizzy Internet Limited",
+    "asn": "AS201000",
+    "count": "4,608"
+  },
+  {
+    "name": "Model Telecom Ltd",
+    "asn": "AS60110",
+    "count": "4,352"
+  },
+  {
+    "name": "EMC Information Systems International",
+    "asn": "AS6812",
+    "count": "4,352"
+  },
+  {
+    "name": "Carnsore Broadband Limited",
+    "asn": "AS206723",
+    "count": "4,352"
+  },
+  {
+    "name": "Digital River Ireland Ltd.",
+    "asn": "AS41265",
+    "count": "4,352"
+  },
+  {
+    "name": "East Cork Broadband Limited",
+    "asn": "AS15405",
+    "count": "4,352"
+  },
+  {
+    "name": "ITS Irish Telecom Services Ltd",
+    "asn": "AS197853",
+    "count": "4,096"
+  },
+  {
+    "name": "Bitbuzz Ltd",
+    "asn": "AS49766",
+    "count": "4,096"
+  },
+  {
+    "name": "Vu2Vu Ireland Limited",
+    "asn": "AS34110",
+    "count": "4,096"
+  },
+  {
+    "name": "INTERNET PROTOCOL TELECOM LTD",
+    "asn": "AS50326",
+    "count": "3,584"
+  },
+  {
+    "name": "Premier Data Networks LTD",
+    "asn": "AS51173",
+    "count": "3,328"
+  },
+  {
+    "name": "Network Ability Limited",
+    "asn": "AS1197",
+    "count": "3,328"
+  },
+  {
+    "name": "Blue Face Ltd.",
+    "asn": "AS39233",
+    "count": "3,328"
+  },
+  {
+    "name": "HIBERNIA SERVICES LIMITED",
+    "asn": "AS51677",
+    "count": "3,328"
+  },
+  {
+    "name": "Welltel (Ireland) Ltd",
+    "asn": "AS200562",
+    "count": "3,072"
+  },
+  {
+    "name": "Premiere Conferencing Ireland Ltd",
+    "asn": "AS39915",
+    "count": "3,072"
+  },
+  {
+    "name": "Airfibre Limited",
+    "asn": "AS56767",
+    "count": "3,072"
+  },
+  {
+    "name": "Raidio Teilifis Eireann",
+    "asn": "AS41073",
+    "count": "3,072"
+  },
+  {
+    "name": "Eircom (UK) Ltd",
+    "asn": "AS39730",
+    "count": "3,072"
+  },
+  {
+    "name": "Airwave Internet",
+    "asn": "AS196737",
+    "count": "3,072"
+  },
+  {
+    "name": "Atlantek Computers Teoranta Ltd",
+    "asn": "AS49221",
+    "count": "3,072"
+  },
+  {
+    "name": "TELCOM LIMITED",
+    "asn": "AS60277",
+    "count": "3,072"
+  },
+  {
+    "name": "Adobe Systems Software Ireland Ltd",
+    "asn": "AS50032",
+    "count": "2,560"
+  },
+  {
+    "name": "Kerry Broadband Ltd",
+    "asn": "AS199346",
+    "count": "2,560"
+  },
+  {
+    "name": "Ninetreehill Broadband Ltd",
+    "asn": "AS50883",
+    "count": "2,304"
+  },
+  {
+    "name": "Real Broadband Ltd",
+    "asn": "AS61145",
+    "count": "2,048"
+  },
+  {
+    "name": "ErgoServices Ltd",
+    "asn": "AS43610",
+    "count": "2,048"
+  },
+  {
+    "name": "VMware International Ltd.",
+    "asn": "AS197953",
+    "count": "2,048"
+  },
+  {
+    "name": "IE Domain Registry Ltd",
+    "asn": "AS42310",
+    "count": "2,048"
+  },
+  {
+    "name": "E-Search DAC",
+    "asn": "AS199373",
+    "count": "2,048"
+  },
+  {
+    "name": "Celtrak Ltd",
+    "asn": "AS47417",
+    "count": "2,048"
+  },
+  {
+    "name": "QuestZones (Europe) Limited",
+    "asn": "AS39319",
+    "count": "2,048"
+  },
+  {
+    "name": "DIDWW Ireland Limited",
+    "asn": "AS51865",
+    "count": "2,048"
+  },
+  {
+    "name": "MTS Media Ltd",
+    "asn": "AS206663",
+    "count": "1,792"
+  },
+  {
+    "name": "Klas Ltd",
+    "asn": "AS43074",
+    "count": "1,792"
+  },
+  {
+    "name": "Asavie Technologies Limited",
+    "asn": "AS200005",
+    "count": "1,792"
+  },
+  {
+    "name": "Internet Neutral Exchange Association Company Limited By Guarantee",
+    "asn": "AS2128",
+    "count": "1,792"
+  },
+  {
+    "name": "Workday Limited",
+    "asn": "AS198301",
+    "count": "1,536"
+  },
+  {
+    "name": "Northwest Broadband Connect Ltd.",
+    "asn": "AS39485",
+    "count": "1,536"
+  },
+  {
+    "name": "Ker Broadband Communications Ltd",
+    "asn": "AS197957",
+    "count": "1,536"
+  },
+  {
+    "name": "Daniel Cid",
+    "asn": "AS205157",
+    "count": "1,536"
+  },
+  {
+    "name": "Ivertec Ltd",
+    "asn": "AS200565",
+    "count": "1,280"
+  },
+  {
+    "name": "RYANAIR LIMITED",
+    "asn": "AS31733",
+    "count": "1,280"
+  },
+  {
+    "name": "Agora Publishing Services (Ireland) Limited",
+    "asn": "AS47931",
+    "count": "1,280"
+  },
+  {
+    "name": "SYNCHRONOSS SOFTWARE IRELAND, LTD",
+    "asn": "AS47870",
+    "count": "1,280"
+  },
+  {
+    "name": "Nordeus Limited",
+    "asn": "AS60423",
+    "count": "1,280"
+  },
+  {
+    "name": "EMC Information Systems International",
+    "asn": "AS200946",
+    "count": "1,280"
+  },
+  {
+    "name": "Susquehanna International Group Ltd",
+    "asn": "AS200824",
+    "count": "1,280"
+  },
+  {
+    "name": "TuxBox",
+    "asn": "AS47490",
+    "count": "1,280"
+  },
+  {
+    "name": "Digital Hub Development Agency",
+    "asn": "AS199588",
+    "count": "1,024"
+  },
+  {
+    "name": "Rolbay UC",
+    "asn": "AS200948",
+    "count": "1,024"
+  },
+  {
+    "name": "Royal Dublin Society",
+    "asn": "AS200947",
+    "count": "1,024"
+  },
+  {
+    "name": "Intellicom Ireland Ltd",
+    "asn": "AS203109",
+    "count": "1,024"
+  },
+  {
+    "name": "j2 Global Ireland Limited",
+    "asn": "AS56638",
+    "count": "1,024"
+  },
+  {
+    "name": "Phone Pulse Ltd",
+    "asn": "AS203754",
+    "count": "1,024"
+  },
+  {
+    "name": "Total Wireless Ltd",
+    "asn": "AS204458",
+    "count": "1,024"
+  },
+  {
+    "name": "TSFY Ltd",
+    "asn": "AS204536",
+    "count": "1,024"
+  },
+  {
+    "name": "Dawn Meats Group Unlimited Company",
+    "asn": "AS205437",
+    "count": "1,024"
+  },
+  {
+    "name": "Thomas John Bolger",
+    "asn": "AS205494",
+    "count": "1,024"
+  },
+  {
+    "name": "Sleepless Server Solutions Ltd.",
+    "asn": "AS200807",
+    "count": "1,024"
+  },
+  {
+    "name": "Munster Wireless Ltd.",
+    "asn": "AS205743",
+    "count": "1,024"
+  },
+  {
+    "name": "Telecom Pobail Teoranta",
+    "asn": "AS205751",
+    "count": "1,024"
+  },
+  {
+    "name": "Maints Limited",
+    "asn": "AS60214",
+    "count": "1,024"
+  },
+  {
+    "name": "SCC BROADBAND LIMITED",
+    "asn": "AS206746",
+    "count": "1,024"
+  },
+  {
+    "name": "Premier Broadband Limited",
+    "asn": "AS200174",
+    "count": "1,024"
+  },
+  {
+    "name": "Edward Campbell trading as INCA",
+    "asn": "AS209975",
+    "count": "1,024"
+  },
+  {
+    "name": "Smyths Audio and Video Systems Ltd.",
+    "asn": "AS200046",
+    "count": "1,024"
+  },
+  {
+    "name": "Natus Manufacturing Limited",
+    "asn": "AS48970",
+    "count": "1,024"
+  },
+  {
+    "name": "Cubic Telecom Limited",
+    "asn": "AS12372",
+    "count": "1,024"
+  },
+  {
+    "name": "Mean Servers Limited",
+    "asn": "AS43685",
+    "count": "1,024"
+  },
+  {
+    "name": "Dublin Enterprise & Technology Centre Limited",
+    "asn": "AS34815",
+    "count": "1,024"
+  },
+  {
+    "name": "Irish Domains Ltd",
+    "asn": "AS43829",
+    "count": "1,024"
+  },
+  {
+    "name": "Modeva Interactive",
+    "asn": "AS44196",
+    "count": "1,024"
+  },
+  {
+    "name": "Orion Digital Services Ltd.",
+    "asn": "AS60155",
+    "count": "1,024"
+  },
+  {
+    "name": "Celtic Broadband Limited",
+    "asn": "AS201607",
+    "count": "1,024"
+  },
+  {
+    "name": "Three Ireland (Hutchison) limited",
+    "asn": "AS34218",
+    "count": "768"
+  },
+  {
+    "name": "Cimpress Ireland Limited",
+    "asn": "AS203060",
+    "count": "768"
+  },
+  {
+    "name": "Opt1mize Technologies Limited",
+    "asn": "AS60499",
+    "count": "768"
+  },
+  {
+    "name": "Vesta Payment Solutions Limited",
+    "asn": "AS200500",
+    "count": "768"
+  },
+  {
+    "name": "MLB Limited",
+    "asn": "AS209924",
+    "count": "768"
+  },
+  {
+    "name": "DAA PLC",
+    "asn": "AS41238",
+    "count": "512"
+  },
+  {
+    "name": "Office IT Ltd.",
+    "asn": "AS202823",
+    "count": "512"
+  },
+  {
+    "name": "LinkedIn Austria GmbH",
+    "asn": "AS202745",
+    "count": "512"
+  },
+  {
+    "name": "Fexco Unlimited Company",
+    "asn": "AS51516",
+    "count": "512"
+  },
+  {
+    "name": "BANK OF IRELAND GROUP PUBLIC LIMITED COMPANY",
+    "asn": "AS205189",
+    "count": "512"
+  },
+  {
+    "name": "Boylesports Limited",
+    "asn": "AS202148",
+    "count": "512"
+  },
+  {
+    "name": "Innovate Business Technology Ltd",
+    "asn": "AS203262",
+    "count": "512"
+  },
+  {
+    "name": "Central Bank of Ireland",
+    "asn": "AS61314",
+    "count": "512"
+  },
+  {
+    "name": "Planet Payment Group Holdings Limited",
+    "asn": "AS201111",
+    "count": "512"
+  },
+  {
+    "name": "Internet Neutral Exchange Association Company Limited By Guarantee",
+    "asn": "AS42953",
+    "count": "512"
+  },
+  {
+    "name": "Gilead Sciences, Inc.",
+    "asn": "AS42874",
+    "count": "512"
+  },
+  {
+    "name": "HERTZ EUROPE SERVICE CENTRE LIMITED",
+    "asn": "AS42326",
+    "count": "512"
+  },
+  {
+    "name": "CELKO LIMITED",
+    "asn": "AS213231",
+    "count": "512"
+  },
+  {
+    "name": "Mallinckrodt Pharmaceuticals Ireland Ltd",
+    "asn": "AS42213",
+    "count": "512"
+  },
+  {
+    "name": "Electricity Supply Board",
+    "asn": "AS209285",
+    "count": "512"
+  },
+  {
+    "name": "Commercegate Ireland LTD",
+    "asn": "AS62017",
+    "count": "512"
+  },
+  {
+    "name": "Workday Limited",
+    "asn": "AS200451",
+    "count": "512"
+  },
+  {
+    "name": "Demonware Limited",
+    "asn": "AS60229",
+    "count": "512"
+  },
+  {
+    "name": "Pure Telecom Ltd",
+    "asn": "AS56778",
+    "count": "256"
+  },
+  {
+    "name": "Afilias Ltd",
+    "asn": "AS198260",
+    "count": "256"
+  },
+  {
+    "name": "Whitelake Communications Limited",
+    "asn": "AS198812",
+    "count": "256"
+  },
+  {
+    "name": "j2 Global Ireland Ltd",
+    "asn": "AS199027",
+    "count": "256"
+  },
+  {
+    "name": "VMware International Ltd.",
+    "asn": "AS199336",
+    "count": "256"
+  },
+  {
+    "name": "Blacknight Internet Solutions Limited",
+    "asn": "AS200363",
+    "count": "256"
+  },
+  {
+    "name": "Guidewire Software (Ireland) Limited",
+    "asn": "AS200677",
+    "count": "256"
+  },
+  {
+    "name": "SBTech (Global) Limited",
+    "asn": "AS201033",
+    "count": "256"
+  },
+  {
+    "name": "BS&B Safety Systems Limited",
+    "asn": "AS201255",
+    "count": "256"
+  },
+  {
+    "name": "PriceRunner International AB",
+    "asn": "AS202681",
+    "count": "256"
+  },
+  {
+    "name": "Tiernan OToole",
+    "asn": "AS204994",
+    "count": "256"
+  },
+  {
+    "name": "Sternforth Ltd.",
+    "asn": "AS205587",
+    "count": "256"
+  },
+  {
+    "name": "ARAMARK N.V",
+    "asn": "AS206051",
+    "count": "256"
+  },
+  {
+    "name": "Regeneron Ireland",
+    "asn": "AS206309",
+    "count": "256"
+  },
+  {
+    "name": "Electronic Arts Limited",
+    "asn": "AS206457",
+    "count": "256"
+  },
+  {
+    "name": "AIRBNB IRELAND ULC",
+    "asn": "AS206695",
+    "count": "256"
+  },
+  {
+    "name": "Financial Insurance Group Services Limited",
+    "asn": "AS206726",
+    "count": "256"
+  },
+  {
+    "name": "Athora Ireland Services Limited",
+    "asn": "AS208116",
+    "count": "256"
+  },
+  {
+    "name": "Compass Education Holdings Limited",
+    "asn": "AS209312",
+    "count": "256"
+  },
+  {
+    "name": "Stephen Cushen",
+    "asn": "AS209506",
+    "count": "256"
+  },
+  {
+    "name": "Expedia.com Ltd.",
+    "asn": "AS209540",
+    "count": "256"
+  },
+  {
+    "name": "BT Communications Ireland Limited",
+    "asn": "AS24622",
+    "count": "256"
+  },
+  {
+    "name": "Payzone Group Limited",
+    "asn": "AS24784",
+    "count": "256"
+  },
+  {
+    "name": "ATOS IT SOLUTIONS AND SERVICES LIMITED",
+    "asn": "AS28867",
+    "count": "256"
+  },
+  {
+    "name": "Irish Continental Group Plc.",
+    "asn": "AS31411",
+    "count": "256"
+  },
+  {
+    "name": "4L Communications Ltd",
+    "asn": "AS35262",
+    "count": "256"
+  },
+  {
+    "name": "Western Union International Limited",
+    "asn": "AS39157",
+    "count": "256"
+  },
+  {
+    "name": "EBS Limited",
+    "asn": "AS41214",
+    "count": "256"
+  },
+  {
+    "name": "DeCare Systems Ireland Ltd.",
+    "asn": "AS41680",
+    "count": "256"
+  },
+  {
+    "name": "VHI Healthcare",
+    "asn": "AS41973",
+    "count": "256"
+  },
+  {
+    "name": "Technolabs Networks Ltd.",
+    "asn": "AS43178",
+    "count": "256"
+  },
+  {
+    "name": "TSG INTERACTIVE SERVICES (IRELAND) LIMITED",
+    "asn": "AS44815",
+    "count": "256"
+  },
+  {
+    "name": "Fujitsu Services Ltd.",
+    "asn": "AS47615",
+    "count": "256"
+  },
+  {
+    "name": "Red Hat Ltd",
+    "asn": "AS47941",
+    "count": "256"
+  },
+  {
+    "name": "Abtran Limited.",
+    "asn": "AS48255",
+    "count": "256"
+  },
+  {
+    "name": "Deloitte And Touche Irl",
+    "asn": "AS48342",
+    "count": "256"
+  },
+  {
+    "name": "Mentor Graphics (Ireland) Ltd.",
+    "asn": "AS48406",
+    "count": "256"
+  },
+  {
+    "name": "SMBC Aviation Capital Limited",
+    "asn": "AS59769",
+    "count": "256"
+  },
+  {
+    "name": "Broighter Networks Limited",
+    "asn": "AS62168",
+    "count": "256"
+  },
+  {
+    "name": "Amazon Data Services Ireland Ltd",
+    "asn": "AS39111",
+    "count": "0"
+  },
+  {
+    "name": "T.B.I. REFUNDS UNLIMITED COMPANY",
+    "asn": "AS35424",
+    "count": "0"
+  },
+  {
+    "name": "Imagine Communications Group Limited",
+    "asn": "AS35272",
+    "count": "0"
+  },
+  {
+    "name": "Wireless Connect Ltd.",
+    "asn": "AS35103",
+    "count": "0"
+  },
+  {
+    "name": "Premiere Conferencing Ireland Ltd",
+    "asn": "AS34992",
+    "count": "0"
+  },
+  {
+    "name": "Cork Neutral Internet Exchange",
+    "asn": "AS34575",
+    "count": "0"
+  },
+  {
+    "name": "Digiweb ltd",
+    "asn": "AS197450",
+    "count": "0"
+  },
+  {
+    "name": "Vistatec Limited",
+    "asn": "AS34505",
+    "count": "0"
+  },
+  {
+    "name": "Imagine Communications Group Limited",
+    "asn": "AS34317",
+    "count": "0"
+  },
+  {
+    "name": "Sungard Availability Services (Ireland) Ltd.",
+    "asn": "AS47580",
+    "count": "0"
+  },
+  {
+    "name": "Verizon Ireland Limited",
+    "asn": "AS9055",
+    "count": "0"
+  },
+  {
+    "name": "Thomson Reuters Ireland Limited",
+    "asn": "AS34004",
+    "count": "0"
+  },
+  {
+    "name": "BT Communications Ireland Limited",
+    "asn": "AS3286",
+    "count": "0"
+  },
+  {
+    "name": "WebHost.ie Limited",
+    "asn": "AS31698",
+    "count": "0"
+  },
+  {
+    "name": "Digiweb ltd",
+    "asn": "AS31458",
+    "count": "0"
+  },
+  {
+    "name": "National Cyber Security Centre",
+    "asn": "AS62431",
+    "count": "0"
+  },
+  {
+    "name": "Canada Life Group Services Limited",
+    "asn": "AS31135",
+    "count": "0"
+  },
+  {
+    "name": "Three Ireland (Hutchison) limited",
+    "asn": "AS29406",
+    "count": "0"
+  },
+  {
+    "name": "Open Wi-Fi Ltd",
+    "asn": "AS48150",
+    "count": "0"
+  },
+  {
+    "name": "Cork Community Broadband Limited",
+    "asn": "AS15947",
+    "count": "0"
+  },
+  {
+    "name": "TELECITYGROUP INTERNATIONAL LIMITED",
+    "asn": "AS13100",
+    "count": "0"
+  },
+  {
+    "name": "Digiweb ltd",
+    "asn": "AS12293",
+    "count": "0"
+  },
+  {
+    "name": "TELECITYGROUP INTERNATIONAL LIMITED",
+    "asn": "AS28744",
+    "count": "0"
+  },
+  {
+    "name": "Carrierweb Ireland Limited",
+    "asn": "AS49201",
+    "count": "0"
+  },
+  {
+    "name": "Marco Grossi",
+    "asn": "AS213236",
+    "count": "0"
+  },
+  {
+    "name": "LINK Broadband Limited",
+    "asn": "AS213128",
+    "count": "0"
+  },
+  {
+    "name": "Exchange West",
+    "asn": "AS49416",
+    "count": "0"
+  },
+  {
+    "name": "Fujitsu (Ireland) Limited",
+    "asn": "AS2127",
+    "count": "0"
+  },
+  {
+    "name": "Cork Neutral Internet Exchange",
+    "asn": "AS49634",
+    "count": "0"
+  },
+  {
+    "name": "John Slazenger",
+    "asn": "AS209503",
+    "count": "0"
+  },
+  {
+    "name": "Stingers Inc.",
+    "asn": "AS208256",
+    "count": "0"
+  },
+  {
+    "name": "Lorenzo Battilocchi",
+    "asn": "AS208114",
+    "count": "0"
+  },
+  {
+    "name": "INTERNET PROTOCOL TELECOM LTD",
+    "asn": "AS207904",
+    "count": "0"
+  },
+  {
+    "name": "Hostsure Limited",
+    "asn": "AS207127",
+    "count": "0"
+  },
+  {
+    "name": "Freemesh",
+    "asn": "AS206514",
+    "count": "0"
+  },
+  {
+    "name": "TELCOM LIMITED",
+    "asn": "AS206286",
+    "count": "0"
+  },
+  {
+    "name": "Shannon Airport Authority Designated Activity Company",
+    "asn": "AS204132",
+    "count": "0"
+  },
+  {
+    "name": "Dropbox International Unlimited Company",
+    "asn": "AS203719",
+    "count": "0"
+  },
+  {
+    "name": "Voip and Internet Services ltd",
+    "asn": "AS203381",
+    "count": "0"
+  },
+  {
+    "name": "Wireless Network Solutions Ltd",
+    "asn": "AS203218",
+    "count": "0"
+  },
+  {
+    "name": "VMotion IT Solutions LTD",
+    "asn": "AS201918",
+    "count": "0"
+  },
+  {
+    "name": "Orixcom Limited",
+    "asn": "AS56878",
+    "count": "0"
+  },
+  {
+    "name": "Syncreon Ireland",
+    "asn": "AS56980",
+    "count": "0"
+  },
+  {
+    "name": "Open Source Solutions Limited",
+    "asn": "AS56985",
+    "count": "0"
+  },
+  {
+    "name": "Vodafone Group Services GmbH",
+    "asn": "AS201829",
+    "count": "0"
+  },
+  {
+    "name": "International Investment and Underwriting Unlimited Company",
+    "asn": "AS201614",
+    "count": "0"
+  },
+  {
+    "name": "Hawk VPS LLC",
+    "asn": "AS57969",
+    "count": "0"
+  },
+  {
+    "name": "Irish Water",
+    "asn": "AS201538",
+    "count": "0"
+  },
+  {
+    "name": "Sleepless Server Solutions Ltd",
+    "asn": "AS59569",
+    "count": "0"
+  },
+  {
+    "name": "Twitter International Company",
+    "asn": "AS8945",
+    "count": "0"
+  },
+  {
+    "name": "Dell Products (Private Unlimited With Share Capital)",
+    "asn": "AS59915",
+    "count": "0"
+  },
+  {
+    "name": "Kiall Mac Innes",
+    "asn": "AS201331",
+    "count": "0"
+  },
+  {
+    "name": "Interlink Ireland Ltd",
+    "asn": "AS201310",
+    "count": "0"
+  },
+  {
+    "name": "Dropbox International Unlimited Company",
+    "asn": "AS200499",
+    "count": "0"
+  },
+  {
+    "name": "Vesta Payment Solutions Limited",
+    "asn": "AS200493",
+    "count": "0"
+  },
+  {
+    "name": "Ezetop",
+    "asn": "AS199873",
+    "count": "0"
+  },
+  {
+    "name": "Radio Two Thousand Limited",
+    "asn": "AS199200",
+    "count": "0"
+  },
+  {
+    "name": "Empathy Marketing Limited",
+    "asn": "AS199017",
+    "count": "0"
+  },
+  {
+    "name": "EQUINIX (SERVICES) LIMITED",
+    "asn": "AS60640",
+    "count": "0"
+  },
+  {
+    "name": "SERVEBYTE LTD",
+    "asn": "AS60751",
+    "count": "0"
+  },
+  {
+    "name": "Titania Networks Limited",
+    "asn": "AS60888",
+    "count": "0"
+  },
+  {
+    "name": "Workday Limited",
+    "asn": "AS198993",
+    "count": "0"
+  },
+  {
+    "name": "Wireless Connect Ltd.",
+    "asn": "AS198988",
+    "count": "0"
+  },
+  {
+    "name": "Smartbox Experience Limited",
+    "asn": "AS198836",
+    "count": "0"
+  },
+  {
+    "name": "Cab Call Communications Limited",
+    "asn": "AS197904",
+    "count": "0"
+  },
+  {
+    "name": "SSA Ltd",
+    "asn": "AS41949",
+    "count": "0"
+  },
+  {
+    "name": "Vodafone Ireland Limited",
+    "asn": "AS41883",
+    "count": "0"
+  },
+  {
+    "name": "PM",
+    "asn": "AS41607",
+    "count": "0"
+  },
+  {
+    "name": "Nicholas William Hilliard",
+    "asn": "AS41602",
+    "count": "0"
+  },
+  {
+    "name": "Adobe Systems Software Ireland Ltd",
+    "asn": "AS41208",
+    "count": "0"
+  },
+  {
+    "name": "Internet Neutral Exchange Association Company Limited By Guarantee",
+    "asn": "AS43760",
+    "count": "0"
+  },
+  {
+    "name": "Irish Stock Exchange Limited",
+    "asn": "AS43772",
+    "count": "0"
+  },
+  {
+    "name": "Digital River Ireland Ltd.",
+    "asn": "AS39270",
+    "count": "0"
+  }
+]

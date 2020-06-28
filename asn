@@ -106,8 +106,12 @@ companies = {
   }
 }
 
-countries = ["us", "gb", "fr", "de", "ru", "au", "pl", "ca", "cn", "nl", "id", "in"]
 
+FileUtils.mkdir_p 'index'
+FileUtils.mkdir_p 'companies'
+
+countries = ["us", "gb", "fr", "de", "ru", "au", "pl", "ca", "cn", "nl", "id", "in", "ua", "nz", "mx", "cz", "il", "my", "ie", "tw", "be", "ky"]
+# countries = ["us", "gb", "ie", "fr", "au", "ru", "ca"]
 
 ### Iterate and pull company names with ASN numbers and write to JSON files.
 countries.each do |country|
@@ -139,7 +143,7 @@ end
 companies.keys.each do |company|
   company_data = {}
   if File.exist? "companies/#{company}.json"
-    msg "File exists for #{company}"
+    # msg "File exists for #{company}"
     company_data = JSON.parse(File.open("companies/#{company}.json", "r").read())
   end  
 
@@ -150,22 +154,18 @@ companies.keys.each do |company|
         msg "Pulling #{asn} #{company}"
         range_data = ranges_from_asn(asn)
         if range_data != nil
-          companies[company]["asn"][asn].push(range_data)
-        else
-            companies[company]["asn"][asn].push("")
+          company_data["asn"][asn].push(range_data)
         end
-        File.open("companies/#{company}.json", "w") { |file| file.write(JSON.pretty_generate(companies[company])) }
+        File.open("companies/#{company}.json", "w") { |file| file.write(JSON.pretty_generate(company_data)) }
       end
     else
       company_data = companies[company]
       msg "Pulling #{asn} #{company}"
         range_data = ranges_from_asn(asn)
         if range_data != nil
-          companies[company]["asn"][asn].push(range_data)
-        else
-            companies[company]["asn"][asn].push("")
+          company_data["asn"][asn].push(range_data)
         end
-        File.open("companies/#{company}.json", "w") { |file| file.write(JSON.pretty_generate(companies[company])) }
+        File.open("companies/#{company}.json", "w") { |file| file.write(JSON.pretty_generate(company_data)) }
     end
   end
 

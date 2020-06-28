@@ -1,0 +1,1837 @@
+[
+  {
+    "name": "Proximus NV",
+    "asn": "AS5432",
+    "count": "3,929,088"
+  },
+  {
+    "name": "Telenet BVBA",
+    "asn": "AS6848",
+    "count": "2,082,816"
+  },
+  {
+    "name": "BELNET",
+    "asn": "AS2611",
+    "count": "930,304"
+  },
+  {
+    "name": "Orange Belgium SA",
+    "asn": "AS47377",
+    "count": "897,792"
+  },
+  {
+    "name": "Gateway Communications",
+    "asn": "AS31713",
+    "count": "528,384"
+  },
+  {
+    "name": "Brutele SC",
+    "asn": "AS12392",
+    "count": "422,912"
+  },
+  {
+    "name": "Telenet Group NV",
+    "asn": "AS44944",
+    "count": "136,192"
+  },
+  {
+    "name": "Combell NV",
+    "asn": "AS34762",
+    "count": "99,584"
+  },
+  {
+    "name": "VERIXI SA",
+    "asn": "AS49964",
+    "count": "91,904"
+  },
+  {
+    "name": "EDPNET NV",
+    "asn": "AS9031",
+    "count": "86,784"
+  },
+  {
+    "name": "Proximus NV",
+    "asn": "AS5488",
+    "count": "81,408"
+  },
+  {
+    "name": "Telenet BVBA",
+    "asn": "AS44216",
+    "count": "70,656"
+  },
+  {
+    "name": "Societe Internationale de Telecommunications Aeronautiques",
+    "asn": "AS2647",
+    "count": "66,560"
+  },
+  {
+    "name": "Lambrechts Data Services VOF",
+    "asn": "AS62383",
+    "count": "66,304"
+  },
+  {
+    "name": "Agfa Gevaert NV",
+    "asn": "AS31612",
+    "count": "65,536"
+  },
+  {
+    "name": "Hermes Telecom BVBA",
+    "asn": "AS50083",
+    "count": "52,480"
+  },
+  {
+    "name": "Destiny N.V",
+    "asn": "AS48517",
+    "count": "47,616"
+  },
+  {
+    "name": "Easyhost BVBA",
+    "asn": "AS28747",
+    "count": "40,704"
+  },
+  {
+    "name": "VERIXI SA",
+    "asn": "AS6696",
+    "count": "26,368"
+  },
+  {
+    "name": "Destiny N.V",
+    "asn": "AS8368",
+    "count": "22,784"
+  },
+  {
+    "name": "WIN S.A.",
+    "asn": "AS9208",
+    "count": "22,016"
+  },
+  {
+    "name": "Network Research Belgium",
+    "asn": "AS12942",
+    "count": "16,384"
+  },
+  {
+    "name": "Fluvius System Operator CVBA",
+    "asn": "AS201205",
+    "count": "15,872"
+  },
+  {
+    "name": "lcp nv",
+    "asn": "AS42160",
+    "count": "15,616"
+  },
+  {
+    "name": "Belgacom International Carrier Services SA",
+    "asn": "AS6774",
+    "count": "12,544"
+  },
+  {
+    "name": "KBC Group NV",
+    "asn": "AS60436",
+    "count": "12,032"
+  },
+  {
+    "name": "ISABEL N.V.",
+    "asn": "AS8221",
+    "count": "10,240"
+  },
+  {
+    "name": "Destiny N.V",
+    "asn": "AS29462",
+    "count": "10,240"
+  },
+  {
+    "name": "Unix-Solutions BVBA",
+    "asn": "AS39923",
+    "count": "10,240"
+  },
+  {
+    "name": "Cegeka NV",
+    "asn": "AS9166",
+    "count": "9,984"
+  },
+  {
+    "name": "Perceval S.A.",
+    "asn": "AS5463",
+    "count": "9,472"
+  },
+  {
+    "name": "SmalS vzw",
+    "asn": "AS16326",
+    "count": "9,216"
+  },
+  {
+    "name": "Descartes Systems (Belgium) NV",
+    "asn": "AS16294",
+    "count": "8,448"
+  },
+  {
+    "name": "Kangaroot BVBA",
+    "asn": "AS28707",
+    "count": "8,448"
+  },
+  {
+    "name": "MAC Telecom S.A.",
+    "asn": "AS50857",
+    "count": "8,448"
+  },
+  {
+    "name": "CIRB-CIBG",
+    "asn": "AS15383",
+    "count": "8,192"
+  },
+  {
+    "name": "Portima",
+    "asn": "AS25136",
+    "count": "8,192"
+  },
+  {
+    "name": "Getronics Belgium NV / SA",
+    "asn": "AS15583",
+    "count": "8,192"
+  },
+  {
+    "name": "Citymesh NV",
+    "asn": "AS199095",
+    "count": "8,192"
+  },
+  {
+    "name": "CYBERNET SA",
+    "asn": "AS13226",
+    "count": "8,192"
+  },
+  {
+    "name": "Wallonie Data Center SA",
+    "asn": "AS33864",
+    "count": "7,168"
+  },
+  {
+    "name": "EUROCONTROL, the European Organisation for the Safety of Air Navigation",
+    "asn": "AS199541",
+    "count": "6,912"
+  },
+  {
+    "name": "Vlaamse Media Maatschappij N.V.",
+    "asn": "AS197949",
+    "count": "6,656"
+  },
+  {
+    "name": "Gateway Communications",
+    "asn": "AS198148",
+    "count": "6,144"
+  },
+  {
+    "name": "ITAF bvba",
+    "asn": "AS49285",
+    "count": "6,144"
+  },
+  {
+    "name": "Procter & Gamble Service GmbH",
+    "asn": "AS15442",
+    "count": "5,632"
+  },
+  {
+    "name": "Tigron BVBA",
+    "asn": "AS56837",
+    "count": "5,376"
+  },
+  {
+    "name": "Societe Internationale de Telecommunications Aeronautiques",
+    "asn": "AS205080",
+    "count": "5,376"
+  },
+  {
+    "name": "Arcadiz Telecom NV",
+    "asn": "AS50309",
+    "count": "5,120"
+  },
+  {
+    "name": "NorthgateArinso Belgium NV",
+    "asn": "AS58122",
+    "count": "5,120"
+  },
+  {
+    "name": "Telenet BVBA",
+    "asn": "AS42018",
+    "count": "5,120"
+  },
+  {
+    "name": "BELCENTER SPRL",
+    "asn": "AS31449",
+    "count": "5,120"
+  },
+  {
+    "name": "Level 27 BVBA",
+    "asn": "AS59943",
+    "count": "4,864"
+  },
+  {
+    "name": "A.P. MOLLER - MAERSK A/S",
+    "asn": "AS29139",
+    "count": "4,864"
+  },
+  {
+    "name": "Cegeka NV",
+    "asn": "AS41008",
+    "count": "4,608"
+  },
+  {
+    "name": "Kinamo N.V.",
+    "asn": "AS44806",
+    "count": "4,608"
+  },
+  {
+    "name": "PI-GROUP",
+    "asn": "AS48137",
+    "count": "4,608"
+  },
+  {
+    "name": "IP NEXIA N.V.",
+    "asn": "AS20650",
+    "count": "4,352"
+  },
+  {
+    "name": "Voxbone",
+    "asn": "AS41135",
+    "count": "4,352"
+  },
+  {
+    "name": "Global Telephone & Telecommunication S.A. (GT&T)",
+    "asn": "AS201004",
+    "count": "4,096"
+  },
+  {
+    "name": "Global Broadband Solution Inc",
+    "asn": "AS43256",
+    "count": "4,096"
+  },
+  {
+    "name": "WIS Telecom SA",
+    "asn": "AS21175",
+    "count": "4,096"
+  },
+  {
+    "name": "SWIFT SCRL",
+    "asn": "AS48075",
+    "count": "4,096"
+  },
+  {
+    "name": "3StarsNet n.v./s.a.",
+    "asn": "AS196755",
+    "count": "4,096"
+  },
+  {
+    "name": "ASP SA",
+    "asn": "AS31241",
+    "count": "4,096"
+  },
+  {
+    "name": "Vlaamse Dienst voor Arbeidsbemiddelling en Beroepsopleiding",
+    "asn": "AS39804",
+    "count": "4,096"
+  },
+  {
+    "name": "ScaleCity BVBA",
+    "asn": "AS31669",
+    "count": "3,584"
+  },
+  {
+    "name": "Cronos NV",
+    "asn": "AS48638",
+    "count": "3,584"
+  },
+  {
+    "name": "CBlue SPRL",
+    "asn": "AS197690",
+    "count": "3,328"
+  },
+  {
+    "name": "AQUILENET",
+    "asn": "AS198985",
+    "count": "3,072"
+  },
+  {
+    "name": "Thinfactory N.V",
+    "asn": "AS49621",
+    "count": "3,072"
+  },
+  {
+    "name": "Ulysse Group S.A.",
+    "asn": "AS50998",
+    "count": "3,072"
+  },
+  {
+    "name": "Cobalt Group BV",
+    "asn": "AS57948",
+    "count": "2,816"
+  },
+  {
+    "name": "Global Broadband Solution Inc",
+    "asn": "AS43076",
+    "count": "2,816"
+  },
+  {
+    "name": "EUSIP bvba",
+    "asn": "AS34144",
+    "count": "2,816"
+  },
+  {
+    "name": "CROSSING TELECOM SARL",
+    "asn": "AS197415",
+    "count": "2,816"
+  },
+  {
+    "name": "ITway SPRL",
+    "asn": "AS206841",
+    "count": "2,560"
+  },
+  {
+    "name": "E-Solutions bvba",
+    "asn": "AS201984",
+    "count": "2,560"
+  },
+  {
+    "name": "Massive Media Match NV",
+    "asn": "AS41471",
+    "count": "2,560"
+  },
+  {
+    "name": "EXXOSS SPRL",
+    "asn": "AS198847",
+    "count": "2,304"
+  },
+  {
+    "name": "RootSecurity bvba",
+    "asn": "AS48408",
+    "count": "2,304"
+  },
+  {
+    "name": "Mediahuis NV",
+    "asn": "AS199796",
+    "count": "2,304"
+  },
+  {
+    "name": "Banque Nationale de Belgique",
+    "asn": "AS21373",
+    "count": "2,304"
+  },
+  {
+    "name": "RealDolmen NV",
+    "asn": "AS196987",
+    "count": "2,304"
+  },
+  {
+    "name": "Roularta Media Group",
+    "asn": "AS49333",
+    "count": "2,304"
+  },
+  {
+    "name": "elia asset",
+    "asn": "AS42851",
+    "count": "2,048"
+  },
+  {
+    "name": "LOTERIE NATIONALE - NATIONALE LOTERIJ",
+    "asn": "AS31237",
+    "count": "2,048"
+  },
+  {
+    "name": "Keytrade Bank, Belgian branch of Arkea Direct Bank SA (France)",
+    "asn": "AS43751",
+    "count": "2,048"
+  },
+  {
+    "name": "FLEXIMUS BVBA",
+    "asn": "AS201894",
+    "count": "2,048"
+  },
+  {
+    "name": "nexperteam bv",
+    "asn": "AS51796",
+    "count": "2,048"
+  },
+  {
+    "name": "Worldcall SPRL",
+    "asn": "AS61023",
+    "count": "2,048"
+  },
+  {
+    "name": "S103 BVBA",
+    "asn": "AS201050",
+    "count": "2,048"
+  },
+  {
+    "name": "UniWeb bvba",
+    "asn": "AS35593",
+    "count": "2,048"
+  },
+  {
+    "name": "Infrabel NV van publiek recht",
+    "asn": "AS31511",
+    "count": "2,048"
+  },
+  {
+    "name": "Colruyt Group Services NV",
+    "asn": "AS25428",
+    "count": "2,048"
+  },
+  {
+    "name": "Winlin BVBA",
+    "asn": "AS44140",
+    "count": "2,048"
+  },
+  {
+    "name": "MAEHDROS S.A.",
+    "asn": "AS49677",
+    "count": "2,048"
+  },
+  {
+    "name": "Eurofiber NV",
+    "asn": "AS59547",
+    "count": "2,048"
+  },
+  {
+    "name": "O.A.C. bvba",
+    "asn": "AS56675",
+    "count": "2,048"
+  },
+  {
+    "name": "VRT NV van Publiek Recht",
+    "asn": "AS49046",
+    "count": "2,048"
+  },
+  {
+    "name": "Atos Belgium NV",
+    "asn": "AS21108",
+    "count": "2,048"
+  },
+  {
+    "name": "@iPower N.V.",
+    "asn": "AS29435",
+    "count": "2,048"
+  },
+  {
+    "name": "ENGIE SA",
+    "asn": "AS15681",
+    "count": "1,792"
+  },
+  {
+    "name": "I.R.I.S. ONDIT NV",
+    "asn": "AS199777",
+    "count": "1,792"
+  },
+  {
+    "name": "TELEWEB bvba",
+    "asn": "AS48260",
+    "count": "1,792"
+  },
+  {
+    "name": "YMLP BVBA",
+    "asn": "AS201168",
+    "count": "1,536"
+  },
+  {
+    "name": "SAVACO NV",
+    "asn": "AS201887",
+    "count": "1,536"
+  },
+  {
+    "name": "Effix Group",
+    "asn": "AS200884",
+    "count": "1,536"
+  },
+  {
+    "name": "Gaming1 SPRL",
+    "asn": "AS200869",
+    "count": "1,536"
+  },
+  {
+    "name": "Worldline SA",
+    "asn": "AS41233",
+    "count": "1,536"
+  },
+  {
+    "name": "The North Atlantic Treaty Organization",
+    "asn": "AS21489",
+    "count": "1,536"
+  },
+  {
+    "name": "Toyota Motor Europe",
+    "asn": "AS31154",
+    "count": "1,280"
+  },
+  {
+    "name": "Colibri Consulting B.V.B.A.",
+    "asn": "AS204120",
+    "count": "1,280"
+  },
+  {
+    "name": "WeePee NV",
+    "asn": "AS47537",
+    "count": "1,280"
+  },
+  {
+    "name": "Xenius BVBA",
+    "asn": "AS203148",
+    "count": "1,280"
+  },
+  {
+    "name": "De Vlaamse Overheid, Agentschap Wegen en Verkeer",
+    "asn": "AS204182",
+    "count": "1,280"
+  },
+  {
+    "name": "CHIREC asbl",
+    "asn": "AS207232",
+    "count": "1,024"
+  },
+  {
+    "name": "Ministeries van de Vlaamse Gemeenschap",
+    "asn": "AS201859",
+    "count": "1,024"
+  },
+  {
+    "name": "Napoleon Games NV",
+    "asn": "AS201366",
+    "count": "1,024"
+  },
+  {
+    "name": "Prodata Systems NV",
+    "asn": "AS202332",
+    "count": "1,024"
+  },
+  {
+    "name": "BusinessConnect bvba",
+    "asn": "AS59889",
+    "count": "1,024"
+  },
+  {
+    "name": "Sopra Steria Benelux SA",
+    "asn": "AS202598",
+    "count": "1,024"
+  },
+  {
+    "name": "DAMOVO BELGIUM SA",
+    "asn": "AS201338",
+    "count": "1,024"
+  },
+  {
+    "name": "IRC Engineering NV",
+    "asn": "AS201189",
+    "count": "1,024"
+  },
+  {
+    "name": "Societe Liegeoise de Micro Informatique",
+    "asn": "AS203225",
+    "count": "1,024"
+  },
+  {
+    "name": "Exmar nv",
+    "asn": "AS203260",
+    "count": "1,024"
+  },
+  {
+    "name": "SA DIMENSION DATA BELGIUM",
+    "asn": "AS203338",
+    "count": "1,024"
+  },
+  {
+    "name": "ACCEL Computer Service NV",
+    "asn": "AS203630",
+    "count": "1,024"
+  },
+  {
+    "name": "EDPNET NV",
+    "asn": "AS203640",
+    "count": "1,024"
+  },
+  {
+    "name": "Futureweb BVBA",
+    "asn": "AS59827",
+    "count": "1,024"
+  },
+  {
+    "name": "Pareteum NV",
+    "asn": "AS60780",
+    "count": "1,024"
+  },
+  {
+    "name": "Immoweb S.A.",
+    "asn": "AS201067",
+    "count": "1,024"
+  },
+  {
+    "name": "Ontex Group NV",
+    "asn": "AS204959",
+    "count": "1,024"
+  },
+  {
+    "name": "H. Essers en Zonen International Transport N.V.",
+    "asn": "AS200911",
+    "count": "1,024"
+  },
+  {
+    "name": "Nationale Confederatie van het Bouwbedrijf VZW",
+    "asn": "AS205409",
+    "count": "1,024"
+  },
+  {
+    "name": "Fluvius System Operator CVBA",
+    "asn": "AS205561",
+    "count": "1,024"
+  },
+  {
+    "name": "IRISnet SCRL",
+    "asn": "AS57933",
+    "count": "1,024"
+  },
+  {
+    "name": "Het Vlaams Parlement",
+    "asn": "AS206458",
+    "count": "1,024"
+  },
+  {
+    "name": "Fit IT NV",
+    "asn": "AS206537",
+    "count": "1,024"
+  },
+  {
+    "name": "Nextel NV",
+    "asn": "AS206562",
+    "count": "1,024"
+  },
+  {
+    "name": "PSA Antwerp NV",
+    "asn": "AS200585",
+    "count": "1,024"
+  },
+  {
+    "name": "Brussels Expo",
+    "asn": "AS206883",
+    "count": "1,024"
+  },
+  {
+    "name": "Kind & Gezin",
+    "asn": "AS200353",
+    "count": "1,024"
+  },
+  {
+    "name": "Emerging Dynamics BV",
+    "asn": "AS200308",
+    "count": "1,024"
+  },
+  {
+    "name": "BKM NV",
+    "asn": "AS207467",
+    "count": "1,024"
+  },
+  {
+    "name": "ZOLBIZZ vzw",
+    "asn": "AS207562",
+    "count": "1,024"
+  },
+  {
+    "name": "BVBA SYNCTEL",
+    "asn": "AS50631",
+    "count": "1,024"
+  },
+  {
+    "name": "ETSPUBLI RADIO-TELEVISION BELGE DE LA COMMUNAUTE FRANCAISE",
+    "asn": "AS62058",
+    "count": "1,024"
+  },
+  {
+    "name": "SCRL Intercommunale de Sante Publique du Pays de Charleroi",
+    "asn": "AS200133",
+    "count": "1,024"
+  },
+  {
+    "name": "Cheops Technology NV",
+    "asn": "AS199942",
+    "count": "1,024"
+  },
+  {
+    "name": "Jori Vanneste",
+    "asn": "AS49752",
+    "count": "1,024"
+  },
+  {
+    "name": "Connectis S.A.",
+    "asn": "AS208479",
+    "count": "1,024"
+  },
+  {
+    "name": "Delen Private Bank NV",
+    "asn": "AS208620",
+    "count": "1,024"
+  },
+  {
+    "name": "Bank J. Van Breda & Co NV",
+    "asn": "AS208655",
+    "count": "1,024"
+  },
+  {
+    "name": "Devrandom.be BV",
+    "asn": "AS208725",
+    "count": "1,024"
+  },
+  {
+    "name": "DNS-Belgium",
+    "asn": "AS199670",
+    "count": "1,024"
+  },
+  {
+    "name": "Centre hospitalier universitaire de Tivoli - Institut medical des Mutualites socialistes",
+    "asn": "AS209226",
+    "count": "1,024"
+  },
+  {
+    "name": "Interxion Belgium NV.",
+    "asn": "AS31651",
+    "count": "1,024"
+  },
+  {
+    "name": "European External Action Service",
+    "asn": "AS209550",
+    "count": "1,024"
+  },
+  {
+    "name": "FOSDEM VZW",
+    "asn": "AS62392",
+    "count": "1,024"
+  },
+  {
+    "name": "Alain H.J.D. Crispiels",
+    "asn": "AS209649",
+    "count": "1,024"
+  },
+  {
+    "name": "datazone bvba",
+    "asn": "AS210017",
+    "count": "1,024"
+  },
+  {
+    "name": "Datacenter Consulting BVBA",
+    "asn": "AS62437",
+    "count": "1,024"
+  },
+  {
+    "name": "Fabien Schenkels",
+    "asn": "AS64478",
+    "count": "1,024"
+  },
+  {
+    "name": "Amonis OFP",
+    "asn": "AS39436",
+    "count": "1,024"
+  },
+  {
+    "name": "ING Belgium NV",
+    "asn": "AS21424",
+    "count": "1,024"
+  },
+  {
+    "name": "EURid vzw",
+    "asn": "AS35733",
+    "count": "1,024"
+  },
+  {
+    "name": "AGC Glass Europe",
+    "asn": "AS25194",
+    "count": "1,024"
+  },
+  {
+    "name": "Toyota Boshoku Europe N.V.",
+    "asn": "AS25450",
+    "count": "1,024"
+  },
+  {
+    "name": "Fluxys Belgium sa",
+    "asn": "AS28988",
+    "count": "1,024"
+  },
+  {
+    "name": "International Business Machines of Belgium Ltd",
+    "asn": "AS15776",
+    "count": "768"
+  },
+  {
+    "name": "SERVICE ORGANISATIE NASCHOLING JOINT VENTURE EN ADMINISTRATIE NV",
+    "asn": "AS202191",
+    "count": "768"
+  },
+  {
+    "name": "SmartEye BV [Studenten Internet]",
+    "asn": "AS49935",
+    "count": "768"
+  },
+  {
+    "name": "Boxed IT Ltd.",
+    "asn": "AS50156",
+    "count": "768"
+  },
+  {
+    "name": "Moving Art Studio ASBL",
+    "asn": "AS44312",
+    "count": "768"
+  },
+  {
+    "name": "Proximus NV",
+    "asn": "AS28704",
+    "count": "768"
+  },
+  {
+    "name": "NET COMPUTER GROUP S.A.",
+    "asn": "AS206960",
+    "count": "768"
+  },
+  {
+    "name": "ECS corporate NV",
+    "asn": "AS48192",
+    "count": "768"
+  },
+  {
+    "name": "STARWOOD HOTELS AND RESORTS WORLDWIDE, INC.",
+    "asn": "AS62424",
+    "count": "768"
+  },
+  {
+    "name": "The North Atlantic Treaty Organization",
+    "asn": "AS198946",
+    "count": "768"
+  },
+  {
+    "name": "INTERSAT LIMITED",
+    "asn": "AS204043",
+    "count": "768"
+  },
+  {
+    "name": "Sogeti Belgium NV",
+    "asn": "AS60853",
+    "count": "768"
+  },
+  {
+    "name": "SA EASI",
+    "asn": "AS35660",
+    "count": "768"
+  },
+  {
+    "name": "Videohouse N.V.",
+    "asn": "AS206677",
+    "count": "768"
+  },
+  {
+    "name": "Ingenico e-Commerce Solutions BV",
+    "asn": "AS62325",
+    "count": "768"
+  },
+  {
+    "name": "Xavier Beaudouin",
+    "asn": "AS34958",
+    "count": "512"
+  },
+  {
+    "name": "Ingenico Financial Solutions S.A.",
+    "asn": "AS6716",
+    "count": "512"
+  },
+  {
+    "name": "STORYBEL SNC",
+    "asn": "AS57265",
+    "count": "512"
+  },
+  {
+    "name": "Effortel Technologies S.A.",
+    "asn": "AS206255",
+    "count": "512"
+  },
+  {
+    "name": "GIG Technology NV",
+    "asn": "AS206254",
+    "count": "512"
+  },
+  {
+    "name": "SecureLink N.V.",
+    "asn": "AS205476",
+    "count": "512"
+  },
+  {
+    "name": "Wimi Online BVBA",
+    "asn": "AS209725",
+    "count": "512"
+  },
+  {
+    "name": "Peter E. J. Durieux",
+    "asn": "AS47861",
+    "count": "512"
+  },
+  {
+    "name": "RootSecurity bvba",
+    "asn": "AS47688",
+    "count": "512"
+  },
+  {
+    "name": "TeleVoIP bvba",
+    "asn": "AS47630",
+    "count": "512"
+  },
+  {
+    "name": "Honda Europe NV",
+    "asn": "AS12763",
+    "count": "512"
+  },
+  {
+    "name": "NV OR NATIONALE MAATSCHAPPIJ DER BELGISCHE SPOORWEGEN",
+    "asn": "AS209704",
+    "count": "512"
+  },
+  {
+    "name": "NG Communications BVBA",
+    "asn": "AS58123",
+    "count": "512"
+  },
+  {
+    "name": "Cedric Rossius",
+    "asn": "AS34872",
+    "count": "512"
+  },
+  {
+    "name": "Synamedia Vividtec Europe BVBA",
+    "asn": "AS208270",
+    "count": "512"
+  },
+  {
+    "name": "Euro Pool System International B.V.",
+    "asn": "AS34167",
+    "count": "512"
+  },
+  {
+    "name": "Deceuninck NV",
+    "asn": "AS25024",
+    "count": "512"
+  },
+  {
+    "name": "COMPAGNIE D'ENTREPRISES CFE S.A.",
+    "asn": "AS39842",
+    "count": "512"
+  },
+  {
+    "name": "Umicore NV",
+    "asn": "AS203849",
+    "count": "512"
+  },
+  {
+    "name": "Bureau van Dijk Editions Electroniques SA",
+    "asn": "AS8476",
+    "count": "512"
+  },
+  {
+    "name": "Tom Laermans",
+    "asn": "AS35627",
+    "count": "512"
+  },
+  {
+    "name": "SYMA SAS",
+    "asn": "AS207589",
+    "count": "512"
+  },
+  {
+    "name": "Banque-CPH SCRL",
+    "asn": "AS41035",
+    "count": "512"
+  },
+  {
+    "name": "regio[.NET] GmbH & Co. KG",
+    "asn": "AS41293",
+    "count": "512"
+  },
+  {
+    "name": "TECTEO Services Group SA",
+    "asn": "AS60650",
+    "count": "512"
+  },
+  {
+    "name": "Terminal Investment Limited (Netherlands) B.V.",
+    "asn": "AS35040",
+    "count": "512"
+  },
+  {
+    "name": "Technofutur TIC ASBL",
+    "asn": "AS25344",
+    "count": "256"
+  },
+  {
+    "name": "RealDolmen NV",
+    "asn": "AS16194",
+    "count": "256"
+  },
+  {
+    "name": "Nuance Communications International BVBA",
+    "asn": "AS197429",
+    "count": "256"
+  },
+  {
+    "name": "Systemat Digital Hub S.A.",
+    "asn": "AS198664",
+    "count": "256"
+  },
+  {
+    "name": "DP World Antwerp Holding NV",
+    "asn": "AS199756",
+    "count": "256"
+  },
+  {
+    "name": "IOTEO SA",
+    "asn": "AS200116",
+    "count": "256"
+  },
+  {
+    "name": "Jan De Nul Dredging NV",
+    "asn": "AS202495",
+    "count": "256"
+  },
+  {
+    "name": "SpotIT BVBA",
+    "asn": "AS202688",
+    "count": "256"
+  },
+  {
+    "name": "BAM Belgium NV",
+    "asn": "AS202713",
+    "count": "256"
+  },
+  {
+    "name": "Neutrinet ASBL",
+    "asn": "AS204059",
+    "count": "256"
+  },
+  {
+    "name": "Ubicum BVBA",
+    "asn": "AS204951",
+    "count": "256"
+  },
+  {
+    "name": "BANQUE DE LUXEMBOURG SA",
+    "asn": "AS20501",
+    "count": "256"
+  },
+  {
+    "name": "Cedric Rossius",
+    "asn": "AS205523",
+    "count": "256"
+  },
+  {
+    "name": "HIX GROUP S.R.L",
+    "asn": "AS20601",
+    "count": "256"
+  },
+  {
+    "name": "BOLT BVBA",
+    "asn": "AS206665",
+    "count": "256"
+  },
+  {
+    "name": "Ascoo-ITS BV",
+    "asn": "AS207664",
+    "count": "256"
+  },
+  {
+    "name": "Erbacom bvba",
+    "asn": "AS207750",
+    "count": "256"
+  },
+  {
+    "name": "Mohamed El Bouddunti",
+    "asn": "AS208709",
+    "count": "256"
+  },
+  {
+    "name": "Jessa Ziekenhuis vzw",
+    "asn": "AS210227",
+    "count": "256"
+  },
+  {
+    "name": "TECHIT.BE SRL",
+    "asn": "AS213241",
+    "count": "256"
+  },
+  {
+    "name": "AT&T Global Network Services Nederland B.V.",
+    "asn": "AS25497",
+    "count": "256"
+  },
+  {
+    "name": "FreeBIX",
+    "asn": "AS29533",
+    "count": "256"
+  },
+  {
+    "name": "IPG Global Care&Contact Center",
+    "asn": "AS29595",
+    "count": "256"
+  },
+  {
+    "name": "Stanleyworks (Europe)GmbH",
+    "asn": "AS3173",
+    "count": "256"
+  },
+  {
+    "name": "Scarlet Belgium NV",
+    "asn": "AS3304",
+    "count": "256"
+  },
+  {
+    "name": "MyOwn sprl",
+    "asn": "AS35001",
+    "count": "256"
+  },
+  {
+    "name": "AG Insurance N.V.",
+    "asn": "AS35056",
+    "count": "256"
+  },
+  {
+    "name": "Arnold Dechamps",
+    "asn": "AS35395",
+    "count": "256"
+  },
+  {
+    "name": "Rockwool Ltd",
+    "asn": "AS39579",
+    "count": "256"
+  },
+  {
+    "name": "FirstLink Networks B.V.B.A.",
+    "asn": "AS39628",
+    "count": "256"
+  },
+  {
+    "name": "IBM Services Financial Sector Luxembourg Sarl",
+    "asn": "AS43719",
+    "count": "256"
+  },
+  {
+    "name": "Whatever s.a.",
+    "asn": "AS48844",
+    "count": "256"
+  },
+  {
+    "name": "Luciad NV",
+    "asn": "AS50906",
+    "count": "256"
+  },
+  {
+    "name": "Antwerp DC bvba",
+    "asn": "AS51006",
+    "count": "256"
+  },
+  {
+    "name": "Bridgestone Europe SA/NV",
+    "asn": "AS51466",
+    "count": "256"
+  },
+  {
+    "name": "IN bvba",
+    "asn": "AS35250",
+    "count": "0"
+  },
+  {
+    "name": "DG International Limited",
+    "asn": "AS35230",
+    "count": "0"
+  },
+  {
+    "name": "VERIXI SA",
+    "asn": "AS35219",
+    "count": "0"
+  },
+  {
+    "name": "Daikin Europe NV",
+    "asn": "AS41282",
+    "count": "0"
+  },
+  {
+    "name": "RootSecurity bvba",
+    "asn": "AS35137",
+    "count": "0"
+  },
+  {
+    "name": "Pratobornum bvba",
+    "asn": "AS34196",
+    "count": "0"
+  },
+  {
+    "name": "OneSpan N.V.",
+    "asn": "AS41523",
+    "count": "0"
+  },
+  {
+    "name": "TSC Communication Group",
+    "asn": "AS41604",
+    "count": "0"
+  },
+  {
+    "name": "Orascom Telecom Algeria Spa",
+    "asn": "AS41756",
+    "count": "0"
+  },
+  {
+    "name": "Ithagi BVBA",
+    "asn": "AS41778",
+    "count": "0"
+  },
+  {
+    "name": "Baloise Belgium NV",
+    "asn": "AS41991",
+    "count": "0"
+  },
+  {
+    "name": "InterIP Networks B.V.",
+    "asn": "AS31351",
+    "count": "0"
+  },
+  {
+    "name": "Global Broadband Solution Inc",
+    "asn": "AS42030",
+    "count": "0"
+  },
+  {
+    "name": "New Media Ventures BVBA",
+    "asn": "AS31309",
+    "count": "0"
+  },
+  {
+    "name": "AZ Sint Jan AV",
+    "asn": "AS42744",
+    "count": "0"
+  },
+  {
+    "name": "Direction Generale du Tresor",
+    "asn": "AS42792",
+    "count": "0"
+  },
+  {
+    "name": "Combell NV",
+    "asn": "AS30961",
+    "count": "0"
+  },
+  {
+    "name": "Hermes Telecom BVBA",
+    "asn": "AS29587",
+    "count": "0"
+  },
+  {
+    "name": "Proximus NV",
+    "asn": "AS29005",
+    "count": "0"
+  },
+  {
+    "name": "Kangaroot BVBA",
+    "asn": "AS43324",
+    "count": "0"
+  },
+  {
+    "name": "Stream Unlimited NV",
+    "asn": "AS43469",
+    "count": "0"
+  },
+  {
+    "name": "smartphoto group NV",
+    "asn": "AS43581",
+    "count": "0"
+  },
+  {
+    "name": "Scarlet Belgium NV",
+    "asn": "AS8644",
+    "count": "0"
+  },
+  {
+    "name": "Fortis Bank N.V.",
+    "asn": "AS28827",
+    "count": "0"
+  },
+  {
+    "name": "Graydon Belgium NV",
+    "asn": "AS25114",
+    "count": "0"
+  },
+  {
+    "name": "Nuada BVBA",
+    "asn": "AS44182",
+    "count": "0"
+  },
+  {
+    "name": "Cegeka NV",
+    "asn": "AS25065",
+    "count": "0"
+  },
+  {
+    "name": "Orbit One bvba",
+    "asn": "AS24998",
+    "count": "0"
+  },
+  {
+    "name": "service administratif a comptabilite autonome charge de la gestion des cartes d identite et du registre national",
+    "asn": "AS213345",
+    "count": "0"
+  },
+  {
+    "name": "LCR Telecom NV",
+    "asn": "AS44862",
+    "count": "0"
+  },
+  {
+    "name": "Belgian Ministry of Defence",
+    "asn": "AS213331",
+    "count": "0"
+  },
+  {
+    "name": "Tech Welt SPRL",
+    "asn": "AS213273",
+    "count": "0"
+  },
+  {
+    "name": "Council of the EU, General Secretariat",
+    "asn": "AS213160",
+    "count": "0"
+  },
+  {
+    "name": "BC2X SPRL",
+    "asn": "AS47555",
+    "count": "0"
+  },
+  {
+    "name": "Storever Belgium SRL",
+    "asn": "AS213130",
+    "count": "0"
+  },
+  {
+    "name": "Alex Delporte",
+    "asn": "AS213045",
+    "count": "0"
+  },
+  {
+    "name": "Cebeo NV",
+    "asn": "AS47780",
+    "count": "0"
+  },
+  {
+    "name": "Keybus Ltd",
+    "asn": "AS213040",
+    "count": "0"
+  },
+  {
+    "name": "DNS-Belgium",
+    "asn": "AS21239",
+    "count": "0"
+  },
+  {
+    "name": "Equinix (Netherlands) B.V.",
+    "asn": "AS48088",
+    "count": "0"
+  },
+  {
+    "name": "SONY ITE a division of SONY Service Europe Center",
+    "asn": "AS21139",
+    "count": "0"
+  },
+  {
+    "name": "PIXINKO SPRL",
+    "asn": "AS210233",
+    "count": "0"
+  },
+  {
+    "name": "Cedric Dasnois",
+    "asn": "AS210103",
+    "count": "0"
+  },
+  {
+    "name": "Alpha Networks S.A.",
+    "asn": "AS48315",
+    "count": "0"
+  },
+  {
+    "name": "OPERATEUR DE RESEAUX D'ENERGIES SCRL",
+    "asn": "AS209790",
+    "count": "0"
+  },
+  {
+    "name": "Cedric Rossius",
+    "asn": "AS209643",
+    "count": "0"
+  },
+  {
+    "name": "Atlas Copco support Services NV",
+    "asn": "AS209547",
+    "count": "0"
+  },
+  {
+    "name": "Telenet BVBA",
+    "asn": "AS8733",
+    "count": "0"
+  },
+  {
+    "name": "Securitas NV",
+    "asn": "AS209383",
+    "count": "0"
+  },
+  {
+    "name": "Hermes Telecom BVBA",
+    "asn": "AS49268",
+    "count": "0"
+  },
+  {
+    "name": "Arnold Dechamps",
+    "asn": "AS208919",
+    "count": "0"
+  },
+  {
+    "name": "Core ICT N.V.",
+    "asn": "AS208792",
+    "count": "0"
+  },
+  {
+    "name": "Kangaroot BVBA",
+    "asn": "AS49399",
+    "count": "0"
+  },
+  {
+    "name": "Easyhost BVBA",
+    "asn": "AS49512",
+    "count": "0"
+  },
+  {
+    "name": "HSBXL",
+    "asn": "AS208539",
+    "count": "0"
+  },
+  {
+    "name": "LCL BELGIUM NV",
+    "asn": "AS208416",
+    "count": "0"
+  },
+  {
+    "name": "Association FUZION EVENTS",
+    "asn": "AS208381",
+    "count": "0"
+  },
+  {
+    "name": "AC-Telecom & Security SPRL",
+    "asn": "AS208214",
+    "count": "0"
+  },
+  {
+    "name": "Jori Vanneste",
+    "asn": "AS208173",
+    "count": "0"
+  },
+  {
+    "name": "Jori Vanneste",
+    "asn": "AS50046",
+    "count": "0"
+  },
+  {
+    "name": "STEL bvba",
+    "asn": "AS208168",
+    "count": "0"
+  },
+  {
+    "name": "Mario Cnockaert",
+    "asn": "AS208029",
+    "count": "0"
+  },
+  {
+    "name": "Koen De Wit",
+    "asn": "AS207650",
+    "count": "0"
+  },
+  {
+    "name": "Sciensano OI",
+    "asn": "AS207644",
+    "count": "0"
+  },
+  {
+    "name": "Destiny N.V",
+    "asn": "AS50675",
+    "count": "0"
+  },
+  {
+    "name": "Mastronardi Software",
+    "asn": "AS50838",
+    "count": "0"
+  },
+  {
+    "name": "Stefan Blomme",
+    "asn": "AS207537",
+    "count": "0"
+  },
+  {
+    "name": "EDPNET NV",
+    "asn": "AS12838",
+    "count": "0"
+  },
+  {
+    "name": "Max Ouwens",
+    "asn": "AS207424",
+    "count": "0"
+  },
+  {
+    "name": "Interoute Managed Services UK Limited",
+    "asn": "AS12554",
+    "count": "0"
+  },
+  {
+    "name": "Orange Belgium SA",
+    "asn": "AS12493",
+    "count": "0"
+  },
+  {
+    "name": "Tiziano Van der Waals",
+    "asn": "AS207420",
+    "count": "0"
+  },
+  {
+    "name": "BIGUP SPRL",
+    "asn": "AS51797",
+    "count": "0"
+  },
+  {
+    "name": "BELNET",
+    "asn": "AS5406",
+    "count": "0"
+  },
+  {
+    "name": "Mediterranean Shipping Company Belgium N.V.",
+    "asn": "AS207290",
+    "count": "0"
+  },
+  {
+    "name": "Jori Vanneste",
+    "asn": "AS206932",
+    "count": "0"
+  },
+  {
+    "name": "URICORE INTERNATIONAL BVBA",
+    "asn": "AS206929",
+    "count": "0"
+  },
+  {
+    "name": "Record Bank N.V.",
+    "asn": "AS206745",
+    "count": "0"
+  },
+  {
+    "name": "Foneo Datacenter N.V.",
+    "asn": "AS56799",
+    "count": "0"
+  },
+  {
+    "name": "HDP & ARISTA Services SA",
+    "asn": "AS56808",
+    "count": "0"
+  },
+  {
+    "name": "Gregory Falla",
+    "asn": "AS206639",
+    "count": "0"
+  },
+  {
+    "name": "OnePhone Belgium N.V.",
+    "asn": "AS57032",
+    "count": "0"
+  },
+  {
+    "name": "Jori Vanneste",
+    "asn": "AS57138",
+    "count": "0"
+  },
+  {
+    "name": "IANCIUC INVEST SRL",
+    "asn": "AS206305",
+    "count": "0"
+  },
+  {
+    "name": "Gateway Communications",
+    "asn": "AS57402",
+    "count": "0"
+  },
+  {
+    "name": "The Last Mile vzw",
+    "asn": "AS57909",
+    "count": "0"
+  },
+  {
+    "name": "DUST MOBILE SA",
+    "asn": "AS205932",
+    "count": "0"
+  },
+  {
+    "name": "Fabien Schenkels",
+    "asn": "AS205812",
+    "count": "0"
+  },
+  {
+    "name": "Diogenius SPRL",
+    "asn": "AS204561",
+    "count": "0"
+  },
+  {
+    "name": "Frank Meeusen",
+    "asn": "AS204363",
+    "count": "0"
+  },
+  {
+    "name": "PI-GROUP",
+    "asn": "AS204013",
+    "count": "0"
+  },
+  {
+    "name": "Synergics CVBA",
+    "asn": "AS203799",
+    "count": "0"
+  },
+  {
+    "name": "APYOS SNC",
+    "asn": "AS202431",
+    "count": "0"
+  },
+  {
+    "name": "William Gathoye",
+    "asn": "AS202272",
+    "count": "0"
+  },
+  {
+    "name": "Layer7 BVBA",
+    "asn": "AS202225",
+    "count": "0"
+  },
+  {
+    "name": "Go Hosting S.P.R.L.",
+    "asn": "AS202118",
+    "count": "0"
+  },
+  {
+    "name": "Unifoot N.V.",
+    "asn": "AS60735",
+    "count": "0"
+  },
+  {
+    "name": "Edouard Wylleman",
+    "asn": "AS201110",
+    "count": "0"
+  },
+  {
+    "name": "Societe Internationale de Telecommunications Aeronautiques",
+    "asn": "AS6085",
+    "count": "0"
+  },
+  {
+    "name": "Fujitsu Technology Solutions BV",
+    "asn": "AS200396",
+    "count": "0"
+  },
+  {
+    "name": "EURid vzw",
+    "asn": "AS200177",
+    "count": "0"
+  },
+  {
+    "name": "Inter IKEA Treasury S.A.",
+    "asn": "AS200146",
+    "count": "0"
+  },
+  {
+    "name": "Caviar Group NV",
+    "asn": "AS200099",
+    "count": "0"
+  },
+  {
+    "name": "EURid vzw",
+    "asn": "AS199207",
+    "count": "0"
+  },
+  {
+    "name": "SPRL INTERNATIONAL BUSINESS MACHINES OF BELGIUM",
+    "asn": "AS199116",
+    "count": "0"
+  },
+  {
+    "name": "Cegeka NV",
+    "asn": "AS199065",
+    "count": "0"
+  },
+  {
+    "name": "BELNET",
+    "asn": "AS198559",
+    "count": "0"
+  },
+  {
+    "name": "Functional-IT BVBA",
+    "asn": "AS198100",
+    "count": "0"
+  },
+  {
+    "name": "Global Broadband Solution Inc",
+    "asn": "AS197483",
+    "count": "0"
+  },
+  {
+    "name": "iNuron NV",
+    "asn": "AS196760",
+    "count": "0"
+  },
+  {
+    "name": "Scarlet Belgium NV",
+    "asn": "AS1891",
+    "count": "0"
+  },
+  {
+    "name": "Carrefour Belgium",
+    "asn": "AS15983",
+    "count": "0"
+  },
+  {
+    "name": "ING Belgium NV",
+    "asn": "AS15646",
+    "count": "0"
+  },
+  {
+    "name": "Telenet BVBA",
+    "asn": "AS8227",
+    "count": "0"
+  },
+  {
+    "name": "Tyrasuki",
+    "asn": "AS139347",
+    "count": "0"
+  },
+  {
+    "name": "ASSOCIATED DEXIA TECHNOLOGY SERVICES, S.A.",
+    "asn": "AS13088",
+    "count": "0"
+  },
+  {
+    "name": "Destiny N.V",
+    "asn": "AS39721",
+    "count": "0"
+  },
+  {
+    "name": "Nucleus NV",
+    "asn": "AS39318",
+    "count": "0"
+  },
+  {
+    "name": "Combell NV",
+    "asn": "AS39234",
+    "count": "0"
+  },
+  {
+    "name": "Connexeon.com BVBA",
+    "asn": "AS35821",
+    "count": "0"
+  },
+  {
+    "name": "Nuova Impresa NV",
+    "asn": "AS35517",
+    "count": "0"
+  }
+]
