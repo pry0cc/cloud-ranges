@@ -9,6 +9,7 @@ do
         proxychains4 -q ./asn
         git add .
         git commit -m "Updated $company at $(date +%D-%T) EST"
+        git pull
         git push
         sleep 120
     done
