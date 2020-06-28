@@ -5,8 +5,8 @@ do
     for company in $(bash -c "ls companies/") 
     do 
         rm -rf companies/$company
-        proxychains -q ./asn
-        proxychains -q ./asn
+        proxychains4 -q ./asn
+        proxychains4 -q ./asn
         git add .
         git commit -m "Updated $company at $(date +%D-%T) EST"
         git push
