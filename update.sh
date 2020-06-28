@@ -7,8 +7,7 @@ do
         rm -rf companies/$company
         proxychains4 -q ./asn
         proxychains4 -q ./asn
-        echo "all" > index.html && for i in $(bash -c "ls companies/"); do cp companies/$i/ranges.txt companies/$i/index.html; echo "$i" >> index.html; done
-        echo -n "" > index/index.html && for i in $(bash -c "ls index/"); do echo "$i" >> index/index.html; done
+        echo "companies/" > index.html && for i in $(bash -c "ls -l companies/ | cut -d ' ' -f 9"); do echo " - $i/ranges.txt" >> index.html; done
         git add .
         git commit -m "Updated $company at $(date +%D-%T) EST"
         git pull
