@@ -1,0 +1,1422 @@
+[
+  {
+    "name": "TM Net, Internet Service Provider",
+    "asn": "AS4788",
+    "count": "2,970,112"
+  },
+  {
+    "name": "TIME dotCom Berhad",
+    "asn": "AS9930",
+    "count": "741,120"
+  },
+  {
+    "name": "Binariang Berhad",
+    "asn": "AS9534",
+    "count": "509,952"
+  },
+  {
+    "name": "DiGi Telecommunications Sdn. Bhd.",
+    "asn": "AS4818",
+    "count": "341,504"
+  },
+  {
+    "name": "Gigabit Hosting Sdn Bhd",
+    "asn": "AS55720",
+    "count": "78,848"
+  },
+  {
+    "name": "YTL COMMUNICATIONS SDN BHD",
+    "asn": "AS45960",
+    "count": "75,776"
+  },
+  {
+    "name": "Celcom Axiata Berhad",
+    "asn": "AS10030",
+    "count": "74,752"
+  },
+  {
+    "name": "Global Transit Communications - Malaysia",
+    "asn": "AS24218",
+    "count": "66,816"
+  },
+  {
+    "name": "Petroliam Nasional Berhad",
+    "asn": "AS139776",
+    "count": "65,536"
+  },
+  {
+    "name": "WEBE DIGITAL SDN. BHD.",
+    "asn": "AS38322",
+    "count": "60,160"
+  },
+  {
+    "name": "Anpple Tech Enterprise",
+    "asn": "AS133847",
+    "count": "54,528"
+  },
+  {
+    "name": "Universiti Teknologi Malaysia",
+    "asn": "AS133014",
+    "count": "49,152"
+  },
+  {
+    "name": "DiGi Telecommunications Sdn Bhd",
+    "asn": "AS10081",
+    "count": "40,960"
+  },
+  {
+    "name": "Extreme Broadband - Total Broadband Experience",
+    "asn": "AS38182",
+    "count": "37,632"
+  },
+  {
+    "name": "TM-VADS DC Hosting",
+    "asn": "AS17971",
+    "count": "28,672"
+  },
+  {
+    "name": "IP ServerOne Solutions Sdn Bhd",
+    "asn": "AS45352",
+    "count": "26,880"
+  },
+  {
+    "name": "VADS Managed Business Internet Service Provider",
+    "asn": "AS18206",
+    "count": "24,576"
+  },
+  {
+    "name": "REDtone",
+    "asn": "AS24028",
+    "count": "24,064"
+  },
+  {
+    "name": "U Mobile Sdn Bhd",
+    "asn": "AS38466",
+    "count": "21,504"
+  },
+  {
+    "name": "Shinjiru Technology Sdn Bhd",
+    "asn": "AS45839",
+    "count": "20,736"
+  },
+  {
+    "name": "MyKRIS Asia Sdn Bhd",
+    "asn": "AS23678",
+    "count": "18,688"
+  },
+  {
+    "name": "Arcnet NTT MSC ISP",
+    "asn": "AS10204",
+    "count": "18,176"
+  },
+  {
+    "name": "AIMS Data Centre Sdn Bhd",
+    "asn": "AS45668",
+    "count": "17,664"
+  },
+  {
+    "name": "HITACHISUNWAY",
+    "asn": "AS17666",
+    "count": "15,616"
+  },
+  {
+    "name": "OCE Sdn Bhd ISP",
+    "asn": "AS24321",
+    "count": "13,312"
+  },
+  {
+    "name": "Macro Lynx Sdn Bhd, Internet Service Provider, Malaysia",
+    "asn": "AS38199",
+    "count": "13,312"
+  },
+  {
+    "name": "Monash University Sunway Campus Malaysia",
+    "asn": "AS38280",
+    "count": "12,288"
+  },
+  {
+    "name": "Exa Bytes Network Sdn.Bhd.",
+    "asn": "AS46015",
+    "count": "9,472"
+  },
+  {
+    "name": "Malaysian Research & Education Network",
+    "asn": "AS24514",
+    "count": "8,960"
+  },
+  {
+    "name": "Bigband Sdn Bhd",
+    "asn": "AS132111",
+    "count": "8,960"
+  },
+  {
+    "name": "MING WAN ENTERPRISE",
+    "asn": "AS134117",
+    "count": "6,400"
+  },
+  {
+    "name": "Broadband Service Provider",
+    "asn": "AS24068",
+    "count": "6,400"
+  },
+  {
+    "name": "Ohana Communications Sdn Bhd",
+    "asn": "AS132882",
+    "count": "6,144"
+  },
+  {
+    "name": "INNET SOLUTIONS SDN BHD",
+    "asn": "AS133421",
+    "count": "6,144"
+  },
+  {
+    "name": "ORIENT TELECOMS MALAYSIA - Internet and Ethernet Service Provider in Malaysia",
+    "asn": "AS38278",
+    "count": "6,144"
+  },
+  {
+    "name": "GITN (M) Sdn. Bhd.",
+    "asn": "AS17564",
+    "count": "5,632"
+  },
+  {
+    "name": "YTL Communications Sdn Bhd",
+    "asn": "AS37997",
+    "count": "5,376"
+  },
+  {
+    "name": "CX2 Computer Exchange",
+    "asn": "AS131310",
+    "count": "4,864"
+  },
+  {
+    "name": "DANAWA RESOURCES SDN BHD",
+    "asn": "AS132196",
+    "count": "4,864"
+  },
+  {
+    "name": "GITN-NETWORK",
+    "asn": "AS38044",
+    "count": "4,608"
+  },
+  {
+    "name": "ViewQwest Sdn. Bhd.",
+    "asn": "AS134809",
+    "count": "4,352"
+  },
+  {
+    "name": "TPM Corp. Berhad,",
+    "asn": "AS9655",
+    "count": "4,352"
+  },
+  {
+    "name": "ALLO TECHNOLOGY SDN. BHD.",
+    "asn": "AS45410",
+    "count": "4,096"
+  },
+  {
+    "name": "Universiti Putra Malaysia AS",
+    "asn": "AS38868",
+    "count": "4,096"
+  },
+  {
+    "name": "TechAvenue Malaysia",
+    "asn": "AS45785",
+    "count": "4,096"
+  },
+  {
+    "name": "Coins Global Malaysia",
+    "asn": "AS23736",
+    "count": "4,096"
+  },
+  {
+    "name": "EXXON MOBIL CORPORATION",
+    "asn": "AS18253",
+    "count": "4,096"
+  },
+  {
+    "name": "University ITM, Shah Alam, Selangor Malaysia",
+    "asn": "AS24020",
+    "count": "4,096"
+  },
+  {
+    "name": "Measat Transit, Measat Teleport and Broadcast Centre Cyberjaya",
+    "asn": "AS38891",
+    "count": "3,584"
+  },
+  {
+    "name": "APNIC HEITECH ASN",
+    "asn": "AS23659",
+    "count": "3,584"
+  },
+  {
+    "name": "G1 Enterprise 1 Technology Park Malaysia",
+    "asn": "AS55706",
+    "count": "3,328"
+  },
+  {
+    "name": "IP Core Sdn Bhd",
+    "asn": "AS132890",
+    "count": "3,328"
+  },
+  {
+    "name": "GB Network Solutions Sdn. Bhd.",
+    "asn": "AS132372",
+    "count": "3,072"
+  },
+  {
+    "name": "Net Onboard Sdn Bhd - Quality & Reliable Cloud Hosting Provider",
+    "asn": "AS45144",
+    "count": "3,072"
+  },
+  {
+    "name": "Agarto Sdn Bhd",
+    "asn": "AS56111",
+    "count": "3,072"
+  },
+  {
+    "name": "M-04-3A, Block M,",
+    "asn": "AS132434",
+    "count": "3,072"
+  },
+  {
+    "name": "NTT MSC SDN. BHD.",
+    "asn": "AS134069",
+    "count": "3,072"
+  },
+  {
+    "name": "LNS8-MY",
+    "asn": "AS56229",
+    "count": "2,816"
+  },
+  {
+    "name": "X86 Network Sdn Bhd",
+    "asn": "AS133936",
+    "count": "2,560"
+  },
+  {
+    "name": "JENEXUS HOLDING SDN BHD",
+    "asn": "AS137510",
+    "count": "2,560"
+  },
+  {
+    "name": "E-WORLD COMMUNICATION SDN BHD",
+    "asn": "AS134202",
+    "count": "2,304"
+  },
+  {
+    "name": "ACODA Networks Sdn Bhd",
+    "asn": "AS58910",
+    "count": "2,304"
+  },
+  {
+    "name": "TS Global Network Sdn. Bhd.",
+    "asn": "AS132850",
+    "count": "2,304"
+  },
+  {
+    "name": "MIMOS R&D Malaysia",
+    "asn": "AS38005",
+    "count": "2,048"
+  },
+  {
+    "name": "P&O Global Technologies Transit AS Internet Service Provider",
+    "asn": "AS24461",
+    "count": "2,048"
+  },
+  {
+    "name": "Universiti Sains Malaysia (USM)",
+    "asn": "AS24090",
+    "count": "2,048"
+  },
+  {
+    "name": "SYMPHONET-MY",
+    "asn": "AS132435",
+    "count": "2,048"
+  },
+  {
+    "name": "Net2One Sdn Bhd",
+    "asn": "AS133444",
+    "count": "2,048"
+  },
+  {
+    "name": "ACODA Networks Sdn Bhd",
+    "asn": "AS58983",
+    "count": "2,048"
+  },
+  {
+    "name": "Level 12 Menara Sunway, Jalan Lagoon Timur,",
+    "asn": "AS55482",
+    "count": "2,048"
+  },
+  {
+    "name": "Felda Prodata Systems Sdn Bhd",
+    "asn": "AS133916",
+    "count": "2,048"
+  },
+  {
+    "name": "NGN Connection Sdn. Bhd.",
+    "asn": "AS134088",
+    "count": "2,048"
+  },
+  {
+    "name": "VC Telecoms Sdn. Bhd.",
+    "asn": "AS135553",
+    "count": "2,048"
+  },
+  {
+    "name": "Acme Commerce Sdb Bhd, Malayia, Network",
+    "asn": "AS45945",
+    "count": "2,048"
+  },
+  {
+    "name": "MyISP Dot Com Sdn Bhd",
+    "asn": "AS136533",
+    "count": "2,048"
+  },
+  {
+    "name": "Comnet Telecom (M) Sdn Bhd",
+    "asn": "AS136552",
+    "count": "2,048"
+  },
+  {
+    "name": "International Islamic University Of Malaysia",
+    "asn": "AS45344",
+    "count": "2,048"
+  },
+  {
+    "name": "SKALI",
+    "asn": "AS132197",
+    "count": "2,048"
+  },
+  {
+    "name": "iCore Technology Sdn Bhd",
+    "asn": "AS132198",
+    "count": "2,048"
+  },
+  {
+    "name": "SKSA TECHNOLOGY SDN BHD",
+    "asn": "AS132241",
+    "count": "2,048"
+  },
+  {
+    "name": "Time Quantum Technologies Sdn. Bhd.",
+    "asn": "AS38006",
+    "count": "2,048"
+  },
+  {
+    "name": "i-Skill Dynamics Sdn Bhd",
+    "asn": "AS134553",
+    "count": "1,792"
+  },
+  {
+    "name": "MCDS SOFTWARE (M) SDN BHD",
+    "asn": "AS139605",
+    "count": "1,792"
+  },
+  {
+    "name": "Clear-Comm Sdn Bhd",
+    "asn": "AS18227",
+    "count": "1,792"
+  },
+  {
+    "name": "MYKRIS ASIA SDN BHD, NETWORK SERVICE PROVIDER, PENANG",
+    "asn": "AS45121",
+    "count": "1,792"
+  },
+  {
+    "name": "Exa Bytes Network Sdn.Bhd.",
+    "asn": "AS55405",
+    "count": "1,792"
+  },
+  {
+    "name": "Global Forway Sdn Bhd",
+    "asn": "AS132901",
+    "count": "1,536"
+  },
+  {
+    "name": "Everworks IDC Sdn Bhd,",
+    "asn": "AS56109",
+    "count": "1,280"
+  },
+  {
+    "name": "REDtone Data Centre Sdn. Bhd.",
+    "asn": "AS134847",
+    "count": "1,280"
+  },
+  {
+    "name": "Exa Bytes Network Sdn.Bhd.",
+    "asn": "AS4769",
+    "count": "1,280"
+  },
+  {
+    "name": "THEWITSDNBHD-MY",
+    "asn": "AS58796",
+    "count": "1,280"
+  },
+  {
+    "name": "APNIC ASN Block",
+    "asn": "AS55420",
+    "count": "1,280"
+  },
+  {
+    "name": "CELCOM TIMUR (SABAH) SDN BHD",
+    "asn": "AS132354",
+    "count": "1,280"
+  },
+  {
+    "name": "Starnet Communications Sdn Bhd",
+    "asn": "AS134554",
+    "count": "1,024"
+  },
+  {
+    "name": "Suria Data Centre Sdn. Bhd.",
+    "asn": "AS133918",
+    "count": "1,024"
+  },
+  {
+    "name": "University Pendidikan Sultan Idris",
+    "asn": "AS24314",
+    "count": "1,024"
+  },
+  {
+    "name": "Genting Malaysia Berhad",
+    "asn": "AS55520",
+    "count": "1,024"
+  },
+  {
+    "name": "Uni Comms International Sdn Bhd",
+    "asn": "AS138996",
+    "count": "1,024"
+  },
+  {
+    "name": "Innet Technologies Sdn Bhd",
+    "asn": "AS134797",
+    "count": "1,024"
+  },
+  {
+    "name": "ModernOne Data Solutions Sdn. Bhd.",
+    "asn": "AS56140",
+    "count": "1,024"
+  },
+  {
+    "name": "KS IT SOLUTIONS SDN BHD",
+    "asn": "AS136749",
+    "count": "1,024"
+  },
+  {
+    "name": "AS-FIBRECOMM-MY- Internet Service Provider",
+    "asn": "AS45630",
+    "count": "1,024"
+  },
+  {
+    "name": "IP World Technologies Sdn. Bhd.",
+    "asn": "AS132022",
+    "count": "1,024"
+  },
+  {
+    "name": "CET DEVELOPMENT SDN BHD",
+    "asn": "AS132885",
+    "count": "1,024"
+  },
+  {
+    "name": "Freshtel Group SDN BHD",
+    "asn": "AS135277",
+    "count": "1,024"
+  },
+  {
+    "name": "Universiti Malaysia Sabah",
+    "asn": "AS132874",
+    "count": "1,024"
+  },
+  {
+    "name": "University Malaysia Pahang",
+    "asn": "AS134107",
+    "count": "1,024"
+  },
+  {
+    "name": "LCC Terminal, Jalan KLIA S3",
+    "asn": "AS58622",
+    "count": "1,024"
+  },
+  {
+    "name": "Viewqwest Digital Sdn. Bhd.",
+    "asn": "AS133164",
+    "count": "1,024"
+  },
+  {
+    "name": "University of Malaya",
+    "asn": "AS132688",
+    "count": "1,024"
+  },
+  {
+    "name": "strateq data centre sdn bhd",
+    "asn": "AS137050",
+    "count": "1,024"
+  },
+  {
+    "name": "F1CSB-NET-MY",
+    "asn": "AS132326",
+    "count": "1,024"
+  },
+  {
+    "name": "Blok 9 Kompleks Bangunan Kerajaan",
+    "asn": "AS55951",
+    "count": "1,024"
+  },
+  {
+    "name": "Malaysia Genome Institute (MGI)",
+    "asn": "AS55827",
+    "count": "1,024"
+  },
+  {
+    "name": "University of Nottingham, Malaysia Campus",
+    "asn": "AS45810",
+    "count": "1,024"
+  },
+  {
+    "name": "Alliance Bank Malaysia Berhad",
+    "asn": "AS138361",
+    "count": "1,024"
+  },
+  {
+    "name": "SMARTSEL SDN BHD",
+    "asn": "AS138339",
+    "count": "1,024"
+  },
+  {
+    "name": "Universiti Sains Islam Malaysia",
+    "asn": "AS132694",
+    "count": "1,024"
+  },
+  {
+    "name": "XMT Technologies Sdn Bhd",
+    "asn": "AS134152",
+    "count": "1,024"
+  },
+  {
+    "name": "MULTI DOMAIN RESOURCES AND SERVICES",
+    "asn": "AS138148",
+    "count": "1,024"
+  },
+  {
+    "name": "Computer Center",
+    "asn": "AS132035",
+    "count": "1,024"
+  },
+  {
+    "name": "BasketAsia, Sdn. Bhd.",
+    "asn": "AS132376",
+    "count": "1,024"
+  },
+  {
+    "name": "Suite 20.03 The Gardens South Tower",
+    "asn": "AS56092",
+    "count": "1,024"
+  },
+  {
+    "name": "IX Telecom",
+    "asn": "AS56286",
+    "count": "1,024"
+  },
+  {
+    "name": "SACOFA Sdn. Bhd.",
+    "asn": "AS134232",
+    "count": "1,024"
+  },
+  {
+    "name": "Lynuxtel Malaysia Sdn Bhd",
+    "asn": "AS134066",
+    "count": "1,024"
+  },
+  {
+    "name": "UNIVERSITI TENAGA NASIONAL SDN BHD",
+    "asn": "AS133408",
+    "count": "1,024"
+  },
+  {
+    "name": "Net2One Sdn Bhd",
+    "asn": "AS132426",
+    "count": "1,024"
+  },
+  {
+    "name": "AMWAYIT-ADMIN-MY",
+    "asn": "AS55571",
+    "count": "768"
+  },
+  {
+    "name": "Ericsson Expertise Center",
+    "asn": "AS134237",
+    "count": "768"
+  },
+  {
+    "name": "UNIVERSITI KEBANGSAAN MALAYSIA",
+    "asn": "AS135496",
+    "count": "768"
+  },
+  {
+    "name": "Experian Marketing Services (Malaysia) Sdn. Bhd.",
+    "asn": "AS132720",
+    "count": "768"
+  },
+  {
+    "name": "Titan System Integration Sdn Bhd",
+    "asn": "AS136412",
+    "count": "768"
+  },
+  {
+    "name": "Myklnet Solutions",
+    "asn": "AS136520",
+    "count": "768"
+  },
+  {
+    "name": "Universiti Malaysia Kelantan",
+    "asn": "AS137005",
+    "count": "768"
+  },
+  {
+    "name": "Exitra Sdn. Bhd.",
+    "asn": "AS132170",
+    "count": "768"
+  },
+  {
+    "name": "Telekom Malaysia Access Point Service.",
+    "asn": "AS9986",
+    "count": "768"
+  },
+  {
+    "name": "Taylor's University Sdn Bhd",
+    "asn": "AS139815",
+    "count": "512"
+  },
+  {
+    "name": "Universiti Tun Hussein Onn Malaysia",
+    "asn": "AS132494",
+    "count": "512"
+  },
+  {
+    "name": "JNI SYSTEM SDN BHD",
+    "asn": "AS136978",
+    "count": "512"
+  },
+  {
+    "name": "Information Technology Center",
+    "asn": "AS58812",
+    "count": "512"
+  },
+  {
+    "name": "CME Asia Sdn. Bhd",
+    "asn": "AS136957",
+    "count": "512"
+  },
+  {
+    "name": "Payments Network Malaysia Sdn Bhd (PayNet)",
+    "asn": "AS139830",
+    "count": "512"
+  },
+  {
+    "name": "BMW Asia Technology Sdn Bhd",
+    "asn": "AS24442",
+    "count": "512"
+  },
+  {
+    "name": "Experian Marketing Services (Malaysia) Sdn. Bhd.",
+    "asn": "AS136492",
+    "count": "512"
+  },
+  {
+    "name": "DataKL Solutions Sdn Bhd",
+    "asn": "AS138359",
+    "count": "512"
+  },
+  {
+    "name": "Bandar Seri Iskandar",
+    "asn": "AS45808",
+    "count": "512"
+  },
+  {
+    "name": "Universiti Pertahanan Nasional Malaysia",
+    "asn": "AS138504",
+    "count": "512"
+  },
+  {
+    "name": "Ericsson Global Services. BUGS N&V APAC",
+    "asn": "AS45909",
+    "count": "512"
+  },
+  {
+    "name": "AVM Cloud Sdn. Bhd.",
+    "asn": "AS138663",
+    "count": "512"
+  },
+  {
+    "name": "Why Network Solution",
+    "asn": "AS139254",
+    "count": "512"
+  },
+  {
+    "name": "GRIDCLOUD NETWORK SDN BHD",
+    "asn": "AS138932",
+    "count": "512"
+  },
+  {
+    "name": "LIGHT CLOUD TECHNOLOGY",
+    "asn": "AS135542",
+    "count": "512"
+  },
+  {
+    "name": "Universiti Teknikal Malaysia Melaka",
+    "asn": "AS134722",
+    "count": "512"
+  },
+  {
+    "name": "Jisc Collections and Janet Limited",
+    "asn": "AS133084",
+    "count": "512"
+  },
+  {
+    "name": "University Malaysia Perlis",
+    "asn": "AS133169",
+    "count": "512"
+  },
+  {
+    "name": "Universal Connections Technologies (M) Sdn. Bhd.",
+    "asn": "AS131684",
+    "count": "512"
+  },
+  {
+    "name": "Velo Technologies SDN BHD",
+    "asn": "AS140586",
+    "count": "512"
+  },
+  {
+    "name": "AIA Bhd.",
+    "asn": "AS133755",
+    "count": "512"
+  },
+  {
+    "name": "Universiti Malaysia Terengganu",
+    "asn": "AS59263",
+    "count": "512"
+  },
+  {
+    "name": "NEVIGATE GLOBAL NETWORK SDN. BHD.",
+    "asn": "AS131996",
+    "count": "512"
+  },
+  {
+    "name": "Precision Computer (Malaysia) Sdn Bhd",
+    "asn": "AS133889",
+    "count": "512"
+  },
+  {
+    "name": "Chr. Hansen Malaysia Sdn Bhd",
+    "asn": "AS134698",
+    "count": "512"
+  },
+  {
+    "name": "Shopee Mobile Sdn Bhd",
+    "asn": "AS134573",
+    "count": "512"
+  },
+  {
+    "name": "Universiti Malaysia Sarawak",
+    "asn": "AS55856",
+    "count": "512"
+  },
+  {
+    "name": "IMU Education Sdn. Bhd.",
+    "asn": "AS137839",
+    "count": "512"
+  },
+  {
+    "name": "DNSVAULT SDN BHD",
+    "asn": "AS138040",
+    "count": "256"
+  },
+  {
+    "name": "113-B, Jalan Aminuddin Baki,",
+    "asn": "AS131332",
+    "count": "256"
+  },
+  {
+    "name": "ECSNET-MY",
+    "asn": "AS132033",
+    "count": "256"
+  },
+  {
+    "name": "RapidCloud (M) Sdn Bhd",
+    "asn": "AS132359",
+    "count": "256"
+  },
+  {
+    "name": "World Hub Communications (M) Sdn Bhd",
+    "asn": "AS132512",
+    "count": "256"
+  },
+  {
+    "name": "M EAST SDN. BHD.",
+    "asn": "AS132531",
+    "count": "256"
+  },
+  {
+    "name": "Integricity Technology Sdn Bhd",
+    "asn": "AS132855",
+    "count": "256"
+  },
+  {
+    "name": "ControlVM Sdn. Bhd.",
+    "asn": "AS133114",
+    "count": "256"
+  },
+  {
+    "name": "MXCloud Sdn. Bhd",
+    "asn": "AS133437",
+    "count": "256"
+  },
+  {
+    "name": "Eqhost Sdn Bhd",
+    "asn": "AS133461",
+    "count": "256"
+  },
+  {
+    "name": "GKS Computers Sdn Bhd",
+    "asn": "AS133499",
+    "count": "256"
+  },
+  {
+    "name": "Infinity Supercorridor Sdn Bhd",
+    "asn": "AS133609",
+    "count": "256"
+  },
+  {
+    "name": "MYNIC Berhad",
+    "asn": "AS133874",
+    "count": "256"
+  },
+  {
+    "name": "IFLIX Sdn. Bhd.",
+    "asn": "AS135101",
+    "count": "256"
+  },
+  {
+    "name": "Malaysian Communication and Multimedia Commission",
+    "asn": "AS135551",
+    "count": "256"
+  },
+  {
+    "name": "Ernst & Young Advisory Sdn Bhd",
+    "asn": "AS136536",
+    "count": "256"
+  },
+  {
+    "name": "HILTI ASIA IT SERVICES SDN. BHD.",
+    "asn": "AS136983",
+    "count": "256"
+  },
+  {
+    "name": "Proxus Communications Sdn Bhd",
+    "asn": "AS137240",
+    "count": "256"
+  },
+  {
+    "name": "Universiti Selangor",
+    "asn": "AS137397",
+    "count": "256"
+  },
+  {
+    "name": "MT Microtel Technology Sdn Bhd",
+    "asn": "AS137963",
+    "count": "256"
+  },
+  {
+    "name": "Krypton Global Networks (Malaysia) Sdn Bhd",
+    "asn": "AS138026",
+    "count": "256"
+  },
+  {
+    "name": "Avrotech Sdn Bhd",
+    "asn": "AS139241",
+    "count": "256"
+  },
+  {
+    "name": "Mesiniaga Berhad",
+    "asn": "AS139250",
+    "count": "256"
+  },
+  {
+    "name": "China Mobile International (Malaysia) Sdn.Bhd.",
+    "asn": "AS139619",
+    "count": "256"
+  },
+  {
+    "name": "Gigabit Fiber Sdn Bhd",
+    "asn": "AS139761",
+    "count": "256"
+  },
+  {
+    "name": "SOLSIS (m) SDN BHD",
+    "asn": "AS17736",
+    "count": "256"
+  },
+  {
+    "name": "Internet Systems Consortium, Auckland",
+    "asn": "AS45220",
+    "count": "256"
+  },
+  {
+    "name": "201-A, JALAN TUN RAZAK",
+    "asn": "AS55710",
+    "count": "256"
+  },
+  {
+    "name": "Persatuan Pengendali Internet Malaysia",
+    "asn": "AS55822",
+    "count": "256"
+  },
+  {
+    "name": "Hosting Services (MYLOCA),",
+    "asn": "AS17464",
+    "count": "0"
+  },
+  {
+    "name": "TRUE PACKET SDN BHD",
+    "asn": "AS140866",
+    "count": "0"
+  },
+  {
+    "name": "NKH SOLUTION SDN BHD",
+    "asn": "AS140710",
+    "count": "0"
+  },
+  {
+    "name": "Excel Commerce Solutions Sdn. Bhd.",
+    "asn": "AS140625",
+    "count": "0"
+  },
+  {
+    "name": "Hong Leong Bank Berhad",
+    "asn": "AS140615",
+    "count": "0"
+  },
+  {
+    "name": "Mobile Force Software (M) SDN BHD",
+    "asn": "AS140588",
+    "count": "0"
+  },
+  {
+    "name": "Takizo Solutions Sdn Bhd",
+    "asn": "AS140344",
+    "count": "0"
+  },
+  {
+    "name": "UNIVERSITI TEKNIKAL MARA SDN. BHD.",
+    "asn": "AS140092",
+    "count": "0"
+  },
+  {
+    "name": "Privasat Sdn. Bhd.",
+    "asn": "AS139920",
+    "count": "0"
+  },
+  {
+    "name": "Reach Ten Communication Sdn Bhd",
+    "asn": "AS139899",
+    "count": "0"
+  },
+  {
+    "name": "Stampede Solution Sdn Bhd",
+    "asn": "AS139877",
+    "count": "0"
+  },
+  {
+    "name": "MUBI (Malaysia) Sdn Bhd",
+    "asn": "AS139772",
+    "count": "0"
+  },
+  {
+    "name": "Agensi Nuklear Malaysia",
+    "asn": "AS139765",
+    "count": "0"
+  },
+  {
+    "name": "E-global Innovative Sdn Bhd",
+    "asn": "AS139733",
+    "count": "0"
+  },
+  {
+    "name": "FINEXUS INTERNATIONAL",
+    "asn": "AS139730",
+    "count": "0"
+  },
+  {
+    "name": "E-global Innovative Sdn Bhd",
+    "asn": "AS139725",
+    "count": "0"
+  },
+  {
+    "name": "Netassist",
+    "asn": "AS139346",
+    "count": "0"
+  },
+  {
+    "name": "Swiftnet Solution Sdn Bhd",
+    "asn": "AS139332",
+    "count": "0"
+  },
+  {
+    "name": "MYKRIS NET SDN BHD",
+    "asn": "AS139312",
+    "count": "0"
+  },
+  {
+    "name": "NTT MSC Sdn Bhd",
+    "asn": "AS139075",
+    "count": "0"
+  },
+  {
+    "name": "Xiddig Cellular Communication Sdn. Bhd.",
+    "asn": "AS139064",
+    "count": "0"
+  },
+  {
+    "name": "MYI TECHNOLOGIES SDN BHD",
+    "asn": "AS138935",
+    "count": "0"
+  },
+  {
+    "name": "ASK4KEY SDN BHD",
+    "asn": "AS138673",
+    "count": "0"
+  },
+  {
+    "name": "Ariyes Online Sdn Bhd",
+    "asn": "AS138644",
+    "count": "0"
+  },
+  {
+    "name": "OPEN DC SDN BHD",
+    "asn": "AS138009",
+    "count": "0"
+  },
+  {
+    "name": "CiB Net Station Sdn Bhd",
+    "asn": "AS137923",
+    "count": "0"
+  },
+  {
+    "name": "Majubina Resources Sdn Bhd",
+    "asn": "AS137845",
+    "count": "0"
+  },
+  {
+    "name": "YTL Communications Sdn Bhd",
+    "asn": "AS45182",
+    "count": "0"
+  },
+  {
+    "name": "ACASIA Communications Sdn Bhd, Network Service Provider, Kuala Lumpur, Malaysia",
+    "asn": "AS9739",
+    "count": "0"
+  },
+  {
+    "name": "AMTASK SDN BHD",
+    "asn": "AS137500",
+    "count": "0"
+  },
+  {
+    "name": "fiberail sdn. bhd.",
+    "asn": "AS137247",
+    "count": "0"
+  },
+  {
+    "name": "AXIATA BUSINESS SERVICES SDN. BHD.",
+    "asn": "AS136918",
+    "count": "0"
+  },
+  {
+    "name": "DOCOMO interTouch - Malaysia Operation",
+    "asn": "AS45412",
+    "count": "0"
+  },
+  {
+    "name": "Suite 20.06, Level 20",
+    "asn": "AS45419",
+    "count": "0"
+  },
+  {
+    "name": "Shinjiru Technology Sdn Bhd",
+    "asn": "AS45420",
+    "count": "0"
+  },
+  {
+    "name": "YTL Communications Sdn Bhd",
+    "asn": "AS45512",
+    "count": "0"
+  },
+  {
+    "name": "Teleperformance Malaysia Sdn Bhd",
+    "asn": "AS136751",
+    "count": "0"
+  },
+  {
+    "name": "SUMMERNET SDN BHD",
+    "asn": "AS136591",
+    "count": "0"
+  },
+  {
+    "name": "Furcop Technology PLT",
+    "asn": "AS136509",
+    "count": "0"
+  },
+  {
+    "name": "First Click Sdn Bhd",
+    "asn": "AS136443",
+    "count": "0"
+  },
+  {
+    "name": "Pejabat Setiausaha Kerajaan Negeri Kedah",
+    "asn": "AS136421",
+    "count": "0"
+  },
+  {
+    "name": "Pacific Internet Pte Ltd",
+    "asn": "AS135623",
+    "count": "0"
+  },
+  {
+    "name": "Level 31 TM Tower",
+    "asn": "AS45842",
+    "count": "0"
+  },
+  {
+    "name": "Lee Cheung Loong t/a Dbess Marketing",
+    "asn": "AS135591",
+    "count": "0"
+  },
+  {
+    "name": "Neutral Transmission Malaysia Sdn. Bhd.",
+    "asn": "AS135580",
+    "count": "0"
+  },
+  {
+    "name": "Orient Telecoms Sdn. Bhd",
+    "asn": "AS135394",
+    "count": "0"
+  },
+  {
+    "name": "FLX CLOUD SOLUTIONS",
+    "asn": "AS135109",
+    "count": "0"
+  },
+  {
+    "name": "Telstra Global Internet Services Network Blocks",
+    "asn": "AS4629",
+    "count": "0"
+  },
+  {
+    "name": "Ministry of Education Malaysia",
+    "asn": "AS135042",
+    "count": "0"
+  },
+  {
+    "name": "BOND VM SOLUTIONS",
+    "asn": "AS134704",
+    "count": "0"
+  },
+  {
+    "name": "YTL Broadband Sdn. Bhd.",
+    "asn": "AS134360",
+    "count": "0"
+  },
+  {
+    "name": "AmMetLife Insurance Berhad",
+    "asn": "AS134211",
+    "count": "0"
+  },
+  {
+    "name": "Voizz Global Sdn Bhd",
+    "asn": "AS134126",
+    "count": "0"
+  },
+  {
+    "name": "Common Tower Technologies Sdn Bhd",
+    "asn": "AS133631",
+    "count": "0"
+  },
+  {
+    "name": "Global Online Travel",
+    "asn": "AS133490",
+    "count": "0"
+  },
+  {
+    "name": "CYPE Sdn.Bhd.",
+    "asn": "AS133489",
+    "count": "0"
+  },
+  {
+    "name": "Kon Jew Chung t/a Konx Solution",
+    "asn": "AS133402",
+    "count": "0"
+  },
+  {
+    "name": "Global Transit Communications - Malaysia",
+    "asn": "AS131103",
+    "count": "0"
+  },
+  {
+    "name": "MicroFocus (M) Sdn Bhd",
+    "asn": "AS133157",
+    "count": "0"
+  },
+  {
+    "name": "Bruhaas(M) Sdn Bhd",
+    "asn": "AS55724",
+    "count": "0"
+  },
+  {
+    "name": "Colocation Hosting Sdn Bhd",
+    "asn": "AS55761",
+    "count": "0"
+  },
+  {
+    "name": "iBasis Malaysia-KUL ICO",
+    "asn": "AS10211",
+    "count": "0"
+  },
+  {
+    "name": "TeamCloud - Malaysia",
+    "asn": "AS133135",
+    "count": "0"
+  },
+  {
+    "name": "GIOD_IT",
+    "asn": "AS55840",
+    "count": "0"
+  },
+  {
+    "name": "LARGESERVER SOLUTIONS",
+    "asn": "AS133128",
+    "count": "0"
+  },
+  {
+    "name": "Exabytes Ecommerce Sdn.Bhd.",
+    "asn": "AS132704",
+    "count": "0"
+  },
+  {
+    "name": "Danawa Resources Sdn Bhd",
+    "asn": "AS132689",
+    "count": "0"
+  },
+  {
+    "name": "L3-CDNS",
+    "asn": "AS132601",
+    "count": "0"
+  },
+  {
+    "name": "Conversant Berhad",
+    "asn": "AS132546",
+    "count": "0"
+  },
+  {
+    "name": "COLOCATION HOSTING SDN. BHD.",
+    "asn": "AS132444",
+    "count": "0"
+  },
+  {
+    "name": "SEDCO COMMUNICATIONS SDN BHD",
+    "asn": "AS56169",
+    "count": "0"
+  },
+  {
+    "name": "MYKRIS NET SDN BHD",
+    "asn": "AS56221",
+    "count": "0"
+  },
+  {
+    "name": "GITN and Government of Malaysia (MAMPU)",
+    "asn": "AS132439",
+    "count": "0"
+  },
+  {
+    "name": "MEASAT Broadcast Network Systems",
+    "asn": "AS56231",
+    "count": "0"
+  },
+  {
+    "name": "Bahagian Perkhidmatan Teknologi Maklumat",
+    "asn": "AS132432",
+    "count": "0"
+  },
+  {
+    "name": "Pacific Internet Pte Ltd",
+    "asn": "AS58578",
+    "count": "0"
+  },
+  {
+    "name": "Innocloud Sdn Bhd",
+    "asn": "AS132319",
+    "count": "0"
+  },
+  {
+    "name": "Internet service provider",
+    "asn": "AS58747",
+    "count": "0"
+  },
+  {
+    "name": "1-18-8, Suntech @ Penang CyberCity",
+    "asn": "AS132318",
+    "count": "0"
+  },
+  {
+    "name": "B-3A-6, Kuchai Exchange",
+    "asn": "AS132274",
+    "count": "0"
+  },
+  {
+    "name": "27B, Jalan SS4D/2,, People's Park, Petaling Jaya, Selangor 47301",
+    "asn": "AS132104",
+    "count": "0"
+  },
+  {
+    "name": "Lot 7.13 Level 7 1 Tech Park",
+    "asn": "AS131329",
+    "count": "0"
+  },
+  {
+    "name": "I-GALLERY @ I-CITY, PERSIARAN MULTIMEDIA",
+    "asn": "AS131313",
+    "count": "0"
+  },
+  {
+    "name": "WPP Malaysia Campus",
+    "asn": "AS131231",
+    "count": "0"
+  },
+  {
+    "name": "Global Transit Communications - Malaysia",
+    "asn": "AS131104",
+    "count": "0"
+  },
+  {
+    "name": "YTL Communications Sdn Bhd",
+    "asn": "AS9728",
+    "count": "0"
+  },
+  {
+    "name": "Global Transit Communications - Malaysia",
+    "asn": "AS17992",
+    "count": "0"
+  },
+  {
+    "name": "A-1-1, Block A, Glomac Damansara",
+    "asn": "AS17979",
+    "count": "0"
+  },
+  {
+    "name": "MaxisNet International Internet Gateway",
+    "asn": "AS17784",
+    "count": "0"
+  }
+]
