@@ -103,6 +103,14 @@ companies = {
   "hetzner"=>{
     "glob"=>"hetzner",
     "asn"=>{}
+  },
+  "at&t"=>{
+    "glob"=>"at&t",
+    "asn"=>{}
+  },
+  "telefonica"=>{
+    "glob"=>"telefonica",
+    "asn"=>{}
   }
 }
 
@@ -115,12 +123,15 @@ countries = ["us", "gb", "fr", "de", "ru", "au", "pl", "ca", "cn", "nl", "id", "
 
 ### Iterate and pull company names with ASN numbers and write to JSON files.
 countries.each do |country|
-  if ! File.exist? "index/#{country}-companies.json"
+
+  if ! File.exist? "index/#{country}.json"
     msg "Pulling ASN data for #{country}.."
     country_data = asn(country)
-    File.open("index/#{country}-companies.json", "w") {|file|file.write(JSON.pretty_generate(country_data))}
+    File.open("index/#{country}.json", "w") {|file|file.write(JSON.pretty_generate(country_data))}
+
+
   end
-  country_data = JSON.parse(File.open("index/#{country}-companies.json", "r").read())
+  country_data = JSON.parse(File.open("index/#{country}.json", "r").read())
 
   # Iterate through each company in country JSON
   country_data.each do |company|
@@ -136,15 +147,30 @@ countries.each do |country|
     end
   end
 
-  msg "Waiting 10 seconds..." if ! File.exist? "index/#{country}-companies.json"
-  sleep 10 if ! File.exist? "index/#{country}-companies.json"
+  msg "Waiting 10 seconds..." if ! File.exist? "index/#{country}.json"
+  sleep 10 if ! File.exist? "index/#{country}.json"
 end
+
+global_ranges = ""
 
 companies.keys.each do |company|
   company_data = {}
-  if File.exist? "companies/#{company}.json"
+  if File.exist? "companies/#{company}/#{company}.json"
     # msg "File exists for #{company}"
-    company_data = JSON.parse(File.open("companies/#{company}.json", "r").read())
+    company_data = JSON.parse(File.open("companies/#{company}/#{company}.json", "r").read())
+    if ! File.exist? "companies/#{company}/ranges.txt"
+      ranges = File.open("companies/#{company}/ranges.txt", "w")
+      if company_data.has_key? "asn" and company_data["asn"].length > 0
+        company_data["asn"].keys.each do |asn|
+          company_data["asn"][asn].each do |asn|
+            asn.each do |range|
+              ranges.write("#{range}\n")
+              global_ranges += "#{range}\n"
+            end
+          end
+        end
+      end
+    end
   end  
 
   companies[company].delete("glob")
@@ -156,7 +182,8 @@ companies.keys.each do |company|
         if range_data != nil
           company_data["asn"][asn].push(range_data)
         end
-        File.open("companies/#{company}.json", "w") { |file| file.write(JSON.pretty_generate(company_data)) }
+        FileUtils.mkdir_p "companies/#{company}/"
+        File.open("companies/#{company}/#{company}.json", "w") { |file| file.write(JSON.pretty_generate(company_data)) }
       end
     else
       company_data = companies[company]
@@ -165,8 +192,11 @@ companies.keys.each do |company|
         if range_data != nil
           company_data["asn"][asn].push(range_data)
         end
-        File.open("companies/#{company}.json", "w") { |file| file.write(JSON.pretty_generate(company_data)) }
+        FileUtils.mkdir_p "companies/#{company}/"
+        File.open("companies/#{company}/#{company}.json", "w") { |file| file.write(JSON.pretty_generate(company_data)) }
     end
   end
-
 end
+
+FileUtils.mkdir_p "all"
+File.open("all/ranges.txt", "w") {|file| file.write(global_ranges) }
