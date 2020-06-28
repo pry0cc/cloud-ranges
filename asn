@@ -1,0 +1,172 @@
+#!/usr/bin/env ruby
+
+require 'json'
+require 'mechanize'
+require 'nokogiri'
+require 'fileutils'
+require 'colorize'
+
+@agent = Mechanize.new
+country = "us"
+
+def msg(msg)
+  puts "[*] #{msg}".blue
+end
+
+def countries()
+  countries = []
+  html = @agent.get("https://ipinfo.io/countries/").body()
+  Nokogiri::HTML(html).css("tr").each do |tr|
+    td = tr.css("td")
+    if td.length > 0
+      name = td[0].text
+      url = td[0].css("a")[0]["href"].split("/")[2]
+      counts = td[1].text
+      country = {"name"=>name, "cc"=>url, "counts"=>counts}
+      countries.push(country)
+    end
+  end
+  return countries
+end
+
+def asn(country_code)
+  asns = []
+  html = @agent.get("https://ipinfo.io/countries/#{country_code}").body()
+  Nokogiri::HTML(html).css(".main-content").css("table").css("tr").each do |tr|
+      td = tr.css('td')
+      if td[0] != "" 
+        if td != nil and td.length > 0
+          asn = td[0].css("a")[0]["href"].split("/")[1]
+          name = td[1].text
+          count = td[2].text
+
+          asn = {"name"=>name, "asn"=>asn, "count"=>count}
+          asns.push(asn)
+        end
+      end
+  end 
+  return asns
+end
+
+def ranges_from_asn(asn)
+  ranges = []
+  html = @agent.get("https://ipinfo.io/#{asn}").body
+  Nokogiri::HTML(html).css("#blocks").css("table").css("tbody").css("tr").each do |tr|
+    td = tr.css("td")
+    range = td.css("a").text.gsub("\n", "").gsub(" ", "")
+    ranges.push(range)
+  end
+  return ranges
+end
+
+companies = {
+  "amazon"=>{
+    "glob"=>"amazon",
+    "asn"=>{}
+  },
+  "microsoft"=>{
+    "glob"=>"microsoft",
+    "asn"=>{}
+  },
+  "digitalocean"=>{
+    "glob"=>"digitalocean",
+    "asn"=>{}
+  },
+  "godaddy"=>{
+    "glob"=>"godaddy",
+    "asn"=>{}
+  },
+  "google"=>{
+    "glob"=>"google",
+    "asn"=>{}
+  },
+  "linode"=>{
+    "glob"=>"linode",
+    "asn"=>{}
+  },
+  "ovh"=>{
+    "glob"=>"ovh",
+    "asn"=>{}
+  },
+  "rackspace"=>{
+    "glob"=>"rackspace",
+    "asn"=>{}
+  },
+  "vultr"=>{
+    "glob"=>"choopa",
+    "asn"=>{}
+  },
+  "dedicated.com"=>{
+    "glob"=>"Dedicated.com",
+    "asn"=>{}
+  },
+  "hetzner"=>{
+    "glob"=>"hetzner",
+    "asn"=>{}
+  }
+}
+
+countries = ["us", "gb", "fr", "de", "ru", "au", "pl", "ca", "cn", "nl", "id", "in"]
+
+
+### Iterate and pull company names with ASN numbers and write to JSON files.
+countries.each do |country|
+  if ! File.exist? "index/#{country}-companies.json"
+    msg "Pulling ASN data for #{country}.."
+    country_data = asn(country)
+    File.open("index/#{country}-companies.json", "w") {|file|file.write(JSON.pretty_generate(country_data))}
+  end
+  country_data = JSON.parse(File.open("index/#{country}-companies.json", "r").read())
+
+  # Iterate through each company in country JSON
+  country_data.each do |company|
+    companyname = company["name"]
+    
+    companies.keys.each do |company_f|
+
+      # If ASN name includes the "glob" push it to the ASN array
+      if companyname.downcase.include? companies[company_f]["glob"]
+        asn = company["asn"]
+        companies[company_f]["asn"][asn] = []
+      end
+    end
+  end
+
+  msg "Waiting 10 seconds..." if ! File.exist? "index/#{country}-companies.json"
+  sleep 10 if ! File.exist? "index/#{country}-companies.json"
+end
+
+companies.keys.each do |company|
+  company_data = {}
+  if File.exist? "companies/#{company}.json"
+    msg "File exists for #{company}"
+    company_data = JSON.parse(File.open("companies/#{company}.json", "r").read())
+  end  
+
+  companies[company].delete("glob")
+  companies[company]["asn"].keys.each do |asn|
+    if company_data.has_key? "asn" and company_data["asn"].has_key? asn
+      if company_data["asn"][asn].length < 1
+        msg "Pulling #{asn} #{company}"
+        range_data = ranges_from_asn(asn)
+        if range_data != nil
+          companies[company]["asn"][asn].push(range_data)
+        else
+            companies[company]["asn"][asn].push("")
+        end
+        File.open("companies/#{company}.json", "w") { |file| file.write(JSON.pretty_generate(companies[company])) }
+      end
+    else
+      company_data = companies[company]
+      msg "Pulling #{asn} #{company}"
+        range_data = ranges_from_asn(asn)
+        if range_data != nil
+          companies[company]["asn"][asn].push(range_data)
+        else
+            companies[company]["asn"][asn].push("")
+        end
+        File.open("companies/#{company}.json", "w") { |file| file.write(JSON.pretty_generate(companies[company])) }
+    end
+  end
+
+end

@@ -1,0 +1,9067 @@
+[
+  {
+    "name": "PT. Telekomunikasi Selular",
+    "asn": "AS23693",
+    "count": "5,786,368"
+  },
+  {
+    "name": "PT Telekomunikasi Indonesia",
+    "asn": "AS17974",
+    "count": "3,851,776"
+  },
+  {
+    "name": "PT Telekomunikasi Indonesia",
+    "asn": "AS7713",
+    "count": "3,388,160"
+  },
+  {
+    "name": "INDOSAT Internet Network Provider",
+    "asn": "AS4761",
+    "count": "2,412,544"
+  },
+  {
+    "name": "INDOSATM2 ASN",
+    "asn": "AS4795",
+    "count": "860,160"
+  },
+  {
+    "name": "Linknet-Fastnet ASN",
+    "asn": "AS23700",
+    "count": "766,976"
+  },
+  {
+    "name": "PT Cyberindo Aditama",
+    "asn": "AS4787",
+    "count": "176,128"
+  },
+  {
+    "name": "BIZNET NETWORKS",
+    "asn": "AS17451",
+    "count": "134,656"
+  },
+  {
+    "name": "Network Access Provider and Internet Service Provider",
+    "asn": "AS4800",
+    "count": "107,264"
+  },
+  {
+    "name": "INDO Internet, PT",
+    "asn": "AS9340",
+    "count": "102,144"
+  },
+  {
+    "name": "Linknet ASN",
+    "asn": "AS9905",
+    "count": "74,752"
+  },
+  {
+    "name": "University of Indonesia",
+    "asn": "AS3382",
+    "count": "65,792"
+  },
+  {
+    "name": "PT XL Axiata",
+    "asn": "AS24203",
+    "count": "62,720"
+  },
+  {
+    "name": "PT WIRELESS INDONESIA ( WIN )",
+    "asn": "AS18004",
+    "count": "56,576"
+  },
+  {
+    "name": "PT Mora Telematika Indonesia",
+    "asn": "AS131111",
+    "count": "52,224"
+  },
+  {
+    "name": "Institute of Technology Bandung",
+    "asn": "AS4796",
+    "count": "50,176"
+  },
+  {
+    "name": "PT Remala Abadi",
+    "asn": "AS38511",
+    "count": "49,152"
+  },
+  {
+    "name": "PT INDONESIA COMNETS PLUS",
+    "asn": "AS9341",
+    "count": "47,872"
+  },
+  {
+    "name": "Jasa Terpadu Telematika (Jasatel)",
+    "asn": "AS9785",
+    "count": "46,080"
+  },
+  {
+    "name": "PT. NTT Indonesia",
+    "asn": "AS10217",
+    "count": "40,960"
+  },
+  {
+    "name": "PT XL Axiata Tbk",
+    "asn": "AS17885",
+    "count": "34,816"
+  },
+  {
+    "name": "PT. Cemerlang Multimedia",
+    "asn": "AS55699",
+    "count": "33,792"
+  },
+  {
+    "name": "PT iForte Global Internet",
+    "asn": "AS17995",
+    "count": "33,536"
+  },
+  {
+    "name": "PT. Eka Mas Republik",
+    "asn": "AS63859",
+    "count": "33,536"
+  },
+  {
+    "name": "PT Centrin Utama",
+    "asn": "AS9326",
+    "count": "31,232"
+  },
+  {
+    "name": "Hutchison CP Telecommunications, PT",
+    "asn": "AS45727",
+    "count": "30,208"
+  },
+  {
+    "name": "PT Maxindo Mitra Solusi",
+    "asn": "AS38320",
+    "count": "28,416"
+  },
+  {
+    "name": "PT. Cyberindo Aditama",
+    "asn": "AS135478",
+    "count": "25,600"
+  },
+  {
+    "name": "PT. Pasifik Satelit Nusantara",
+    "asn": "AS9875",
+    "count": "25,088"
+  },
+  {
+    "name": "PT NettoCyber Indonesia",
+    "asn": "AS24207",
+    "count": "23,040"
+  },
+  {
+    "name": "DTPNET NAP",
+    "asn": "AS18059",
+    "count": "22,528"
+  },
+  {
+    "name": "PT Cyber Network Indonesia",
+    "asn": "AS38496",
+    "count": "21,504"
+  },
+  {
+    "name": "Dini Nusa Kusuma, P.T.",
+    "asn": "AS24199",
+    "count": "20,480"
+  },
+  {
+    "name": "Media Antar Nusa PT.",
+    "asn": "AS23679",
+    "count": "20,224"
+  },
+  {
+    "name": "PT. HIPERNET INDODATA",
+    "asn": "AS38758",
+    "count": "18,944"
+  },
+  {
+    "name": "PT Rahajasa Media Internet",
+    "asn": "AS4434",
+    "count": "18,432"
+  },
+  {
+    "name": "PT.Mora Telematika Indonesia",
+    "asn": "AS23947",
+    "count": "17,152"
+  },
+  {
+    "name": "Pacific Link Indonesia",
+    "asn": "AS4855",
+    "count": "16,384"
+  },
+  {
+    "name": "PT JEMBATAN CITRA NUSANTARA",
+    "asn": "AS23951",
+    "count": "16,128"
+  },
+  {
+    "name": "PT Media Sarana Data",
+    "asn": "AS55666",
+    "count": "16,128"
+  },
+  {
+    "name": "Neuviz Net",
+    "asn": "AS18103",
+    "count": "15,360"
+  },
+  {
+    "name": "PT Jala Lintas Media",
+    "asn": "AS55685",
+    "count": "15,104"
+  },
+  {
+    "name": "MC-IX Matrix Internet Exchange RS-1",
+    "asn": "AS55818",
+    "count": "14,848"
+  },
+  {
+    "name": "PADINET - Padi Internet",
+    "asn": "AS23756",
+    "count": "14,336"
+  },
+  {
+    "name": "PT. Hawk Teknologi Solusi",
+    "asn": "AS45786",
+    "count": "13,824"
+  },
+  {
+    "name": "PT Biznet Gio Nusantara",
+    "asn": "AS133800",
+    "count": "13,568"
+  },
+  {
+    "name": "PT. Inet Global Indo",
+    "asn": "AS24532",
+    "count": "13,312"
+  },
+  {
+    "name": "PT. MNC Kabel Mediacom",
+    "asn": "AS17670",
+    "count": "12,800"
+  },
+  {
+    "name": "PT Jastrindo Dinamika",
+    "asn": "AS46030",
+    "count": "12,288"
+  },
+  {
+    "name": "PT Sistelindo Mitralintas",
+    "asn": "AS23666",
+    "count": "12,288"
+  },
+  {
+    "name": "PrimaNet - PT. Khasanah Timur Indonesia",
+    "asn": "AS17658",
+    "count": "12,288"
+  },
+  {
+    "name": "PT Jalawave Cakrawala",
+    "asn": "AS38144",
+    "count": "12,288"
+  },
+  {
+    "name": "PT ARTHA TELEKOMINDO",
+    "asn": "AS23953",
+    "count": "11,776"
+  },
+  {
+    "name": "Netsoft, PT",
+    "asn": "AS38525",
+    "count": "11,776"
+  },
+  {
+    "name": "Patrakom Internet Service Provider",
+    "asn": "AS10137",
+    "count": "11,520"
+  },
+  {
+    "name": "Orion Cyber Internet",
+    "asn": "AS24523",
+    "count": "11,264"
+  },
+  {
+    "name": "PT Infinys System Indonesia",
+    "asn": "AS58397",
+    "count": "11,008"
+  },
+  {
+    "name": "DIGITAL SATELLITE INDONESIA PT.",
+    "asn": "AS24538",
+    "count": "10,496"
+  },
+  {
+    "name": "PT Solusi Aksesindo Pratama",
+    "asn": "AS24525",
+    "count": "10,240"
+  },
+  {
+    "name": "PT Comtronics Systems",
+    "asn": "AS23949",
+    "count": "10,240"
+  },
+  {
+    "name": "PT.Insan Sarana Telematika",
+    "asn": "AS24535",
+    "count": "10,240"
+  },
+  {
+    "name": "JETCOMS-ID Autonomous system",
+    "asn": "AS17671",
+    "count": "10,240"
+  },
+  {
+    "name": "INTERLINK TECHNOLOGY, PT",
+    "asn": "AS45298",
+    "count": "10,240"
+  },
+  {
+    "name": "PT. Fiber Networks Indonesia",
+    "asn": "AS58369",
+    "count": "10,240"
+  },
+  {
+    "name": "PT. Bakrie Telecom",
+    "asn": "AS38149",
+    "count": "10,240"
+  },
+  {
+    "name": "PT. Andalas Media Informatika",
+    "asn": "AS24201",
+    "count": "10,240"
+  },
+  {
+    "name": "Varnion Technology Semesta, PT",
+    "asn": "AS45287",
+    "count": "10,240"
+  },
+  {
+    "name": "PT. DATA Utama Dinamika",
+    "asn": "AS24521",
+    "count": "9,984"
+  },
+  {
+    "name": "PT. Dutakom Wibawa Putra",
+    "asn": "AS38778",
+    "count": "9,728"
+  },
+  {
+    "name": "PT. Core Mediatech (D-NET)",
+    "asn": "AS9794",
+    "count": "8,448"
+  },
+  {
+    "name": "PT. Tigatra Infokom",
+    "asn": "AS17910",
+    "count": "8,448"
+  },
+  {
+    "name": "Melsa-i-net AS",
+    "asn": "AS9657",
+    "count": "8,192"
+  },
+  {
+    "name": "BOLEHNET-ASN",
+    "asn": "AS9462",
+    "count": "8,192"
+  },
+  {
+    "name": "ELGANET-ASN PT. Elga Yasa Media Internet Service",
+    "asn": "AS23695",
+    "count": "8,192"
+  },
+  {
+    "name": "BITNET ISP AS",
+    "asn": "AS18156",
+    "count": "8,192"
+  },
+  {
+    "name": "PT Bhakti Wasantara Net",
+    "asn": "AS134631",
+    "count": "8,192"
+  },
+  {
+    "name": "PT SOLNET INDONESIA",
+    "asn": "AS9422",
+    "count": "7,936"
+  },
+  {
+    "name": "PT Media Andalan Nusa",
+    "asn": "AS138841",
+    "count": "7,936"
+  },
+  {
+    "name": "CITYNET-AP",
+    "asn": "AS17769",
+    "count": "7,680"
+  },
+  {
+    "name": "PT Sumber Data Indonesia",
+    "asn": "AS56246",
+    "count": "7,680"
+  },
+  {
+    "name": "BPP Teknologi Networks Manager",
+    "asn": "AS3583",
+    "count": "7,680"
+  },
+  {
+    "name": "PT. Centra Global Investama",
+    "asn": "AS38896",
+    "count": "7,424"
+  },
+  {
+    "name": "PT Parsaoran Global Datatrans",
+    "asn": "AS58495",
+    "count": "7,168"
+  },
+  {
+    "name": "PT Sampoerna Telemedia Indonesia",
+    "asn": "AS55665",
+    "count": "7,168"
+  },
+  {
+    "name": "PT. Millenium Internetindo",
+    "asn": "AS10208",
+    "count": "7,168"
+  },
+  {
+    "name": "Jl. Raya Pasar Minggu no 99D",
+    "asn": "AS17826",
+    "count": "7,168"
+  },
+  {
+    "name": "PT Quantum Tera Network",
+    "asn": "AS46023",
+    "count": "7,168"
+  },
+  {
+    "name": "PT MEDIA LINTAS DATA",
+    "asn": "AS45312",
+    "count": "7,168"
+  },
+  {
+    "name": "PT. Total Info Kharisma",
+    "asn": "AS9228",
+    "count": "7,168"
+  },
+  {
+    "name": "Internet Madju Abad Millenindo, PT",
+    "asn": "AS45701",
+    "count": "7,168"
+  },
+  {
+    "name": "Solusindo Bintang Pratama, PT",
+    "asn": "AS38753",
+    "count": "7,168"
+  },
+  {
+    "name": "PT. Arsen Kusuma Indonesia",
+    "asn": "AS24213",
+    "count": "6,912"
+  },
+  {
+    "name": "PT. NAP Info Lintas Nusa",
+    "asn": "AS17727",
+    "count": "6,912"
+  },
+  {
+    "name": "DIGITAL WIRELESS INDONESIA PT.",
+    "asn": "AS38146",
+    "count": "6,912"
+  },
+  {
+    "name": "Kings Network Indonesia, PT",
+    "asn": "AS45725",
+    "count": "6,656"
+  },
+  {
+    "name": "Lintas Data Prima, PT",
+    "asn": "AS45305",
+    "count": "6,400"
+  },
+  {
+    "name": "PT Primacom Interbuana",
+    "asn": "AS133815",
+    "count": "6,144"
+  },
+  {
+    "name": "Bina Nusantara University",
+    "asn": "AS24526",
+    "count": "6,144"
+  },
+  {
+    "name": "PT Bali Towerindo Sentra, Tbk",
+    "asn": "AS136119",
+    "count": "5,888"
+  },
+  {
+    "name": "PT PC24 Telekomunikasi Indonesia",
+    "asn": "AS45325",
+    "count": "5,888"
+  },
+  {
+    "name": "PT. Sarana InsanMuda Selaras",
+    "asn": "AS23671",
+    "count": "5,632"
+  },
+  {
+    "name": "JAWA POS NATIONAL NETWORK MEDIALINK, PT",
+    "asn": "AS38527",
+    "count": "5,376"
+  },
+  {
+    "name": "Telemedia Dinamika Sarana, PT",
+    "asn": "AS38750",
+    "count": "5,376"
+  },
+  {
+    "name": "PT. Bit Technology Nusantara",
+    "asn": "AS38769",
+    "count": "5,120"
+  },
+  {
+    "name": "PT Mitra Lintas Multimedia",
+    "asn": "AS136093",
+    "count": "5,120"
+  },
+  {
+    "name": "PT Garena Indonesia",
+    "asn": "AS58816",
+    "count": "5,120"
+  },
+  {
+    "name": "PT. Wanriau Indoxp",
+    "asn": "AS45294",
+    "count": "5,120"
+  },
+  {
+    "name": "PT. Circlecom Nusantara Indonesia",
+    "asn": "AS17538",
+    "count": "5,120"
+  },
+  {
+    "name": "Pustekkom",
+    "asn": "AS18051",
+    "count": "4,864"
+  },
+  {
+    "name": "PT Infokom Elektrindo",
+    "asn": "AS133823",
+    "count": "4,864"
+  },
+  {
+    "name": "Internet Service Provider",
+    "asn": "AS24527",
+    "count": "4,608"
+  },
+  {
+    "name": "PT. BUANA LINTAS MEDIA",
+    "asn": "AS46062",
+    "count": "4,608"
+  },
+  {
+    "name": "PT. TIME EXCELINDO",
+    "asn": "AS38150",
+    "count": "4,608"
+  },
+  {
+    "name": "Tele Globe Global, PT",
+    "asn": "AS45706",
+    "count": "4,608"
+  },
+  {
+    "name": "PT. Usaha Adisanggoro",
+    "asn": "AS55701",
+    "count": "4,608"
+  },
+  {
+    "name": "PT Pika Media Komunika",
+    "asn": "AS38506",
+    "count": "4,608"
+  },
+  {
+    "name": "PT Qwords Company International",
+    "asn": "AS58404",
+    "count": "4,608"
+  },
+  {
+    "name": "Argon Data Communication",
+    "asn": "AS58477",
+    "count": "4,352"
+  },
+  {
+    "name": "PT. Maxindo Content Solution",
+    "asn": "AS55669",
+    "count": "4,352"
+  },
+  {
+    "name": "PT Multidata Rancana Prima",
+    "asn": "AS58552",
+    "count": "4,352"
+  },
+  {
+    "name": "PT Global Prima Utama",
+    "asn": "AS17996",
+    "count": "4,352"
+  },
+  {
+    "name": "PT Graha Anugrah Sejahtera",
+    "asn": "AS56239",
+    "count": "4,352"
+  },
+  {
+    "name": "PT. Sejuta Jaring Global",
+    "asn": "AS18112",
+    "count": "4,096"
+  },
+  {
+    "name": "PT Angkasa Komunikasi Global Utama",
+    "asn": "AS58376",
+    "count": "4,096"
+  },
+  {
+    "name": "CSMNAP-ASN",
+    "asn": "AS18379",
+    "count": "4,096"
+  },
+  {
+    "name": "PT. Indonusa System Integrator Prima",
+    "asn": "AS4382",
+    "count": "4,096"
+  },
+  {
+    "name": "Skyline Semesta, PT",
+    "asn": "AS55653",
+    "count": "4,096"
+  },
+  {
+    "name": "PT Master Web Network",
+    "asn": "AS55660",
+    "count": "4,096"
+  },
+  {
+    "name": "PT. Power Telecom Indonesia",
+    "asn": "AS24530",
+    "count": "4,096"
+  },
+  {
+    "name": "IP Teknologi Komunikasi, PT.",
+    "asn": "AS23699",
+    "count": "4,096"
+  },
+  {
+    "name": "PT Cakra Lintas Nusantara",
+    "asn": "AS24206",
+    "count": "4,096"
+  },
+  {
+    "name": "PT DES Teknologi Informasi",
+    "asn": "AS45302",
+    "count": "4,096"
+  },
+  {
+    "name": "Internet Service provider PT.",
+    "asn": "AS23952",
+    "count": "4,096"
+  },
+  {
+    "name": "PT Hyperindo Media Perkasa",
+    "asn": "AS55679",
+    "count": "4,096"
+  },
+  {
+    "name": "PT. Cross Network Indonesia",
+    "asn": "AS38500",
+    "count": "4,096"
+  },
+  {
+    "name": "Pt Mithaharum Abadi",
+    "asn": "AS18056",
+    "count": "4,096"
+  },
+  {
+    "name": "PT Cloud Hosting Indonesia",
+    "asn": "AS136052",
+    "count": "4,096"
+  },
+  {
+    "name": "Universitas Pelita Harapan",
+    "asn": "AS38153",
+    "count": "4,096"
+  },
+  {
+    "name": "Yudhawira Khatulistiwa, PT",
+    "asn": "AS45710",
+    "count": "4,096"
+  },
+  {
+    "name": "PT Netciti Persada",
+    "asn": "AS132641",
+    "count": "4,096"
+  },
+  {
+    "name": "PT Bukalapak.com",
+    "asn": "AS135448",
+    "count": "4,096"
+  },
+  {
+    "name": "PT. Rabik Bangun Pertiwi, PMA",
+    "asn": "AS38143",
+    "count": "4,096"
+  },
+  {
+    "name": "PT. Dhecyber Flow Indonesia",
+    "asn": "AS24195",
+    "count": "4,096"
+  },
+  {
+    "name": "PT Asia Teknologi Solusi",
+    "asn": "AS56233",
+    "count": "4,096"
+  },
+  {
+    "name": "Universitas Airlangga",
+    "asn": "AS38142",
+    "count": "4,096"
+  },
+  {
+    "name": "PT Angkasa Komunikasi Global Utama",
+    "asn": "AS17450",
+    "count": "4,096"
+  },
+  {
+    "name": "PT Graha Multimedia Nusantara",
+    "asn": "AS38505",
+    "count": "4,096"
+  },
+  {
+    "name": "PT SELARAS CITRA TERABIT",
+    "asn": "AS131706",
+    "count": "3,840"
+  },
+  {
+    "name": "PT SUMBER KONEKSI INDOTELEMATIKA",
+    "asn": "AS56242",
+    "count": "3,840"
+  },
+  {
+    "name": "PT Aplikanusa Lintasarta",
+    "asn": "AS38513",
+    "count": "3,584"
+  },
+  {
+    "name": "Wow Internet Indonesia",
+    "asn": "AS58381",
+    "count": "3,584"
+  },
+  {
+    "name": "PT Citra Jelajah Informatika",
+    "asn": "AS131717",
+    "count": "3,584"
+  },
+  {
+    "name": "PT. Cybertechtonic Pratama",
+    "asn": "AS131745",
+    "count": "3,584"
+  },
+  {
+    "name": "NewMedia Express Pte Ltd",
+    "asn": "AS134451",
+    "count": "3,584"
+  },
+  {
+    "name": "PT Mayatama Solusindo",
+    "asn": "AS131769",
+    "count": "3,584"
+  },
+  {
+    "name": "PT. JASNITA TELEKOMINDO",
+    "asn": "AS24212",
+    "count": "3,584"
+  },
+  {
+    "name": "PT. Cyberindo Mega Persada",
+    "asn": "AS132644",
+    "count": "3,328"
+  },
+  {
+    "name": "PT Asia Utama.",
+    "asn": "AS23696",
+    "count": "3,328"
+  },
+  {
+    "name": "PT. Drupadi Prima",
+    "asn": "AS59147",
+    "count": "3,328"
+  },
+  {
+    "name": "ARDH GLOBAL INDONESIA, PT",
+    "asn": "AS45731",
+    "count": "3,328"
+  },
+  {
+    "name": "PT METRASAT",
+    "asn": "AS56241",
+    "count": "3,328"
+  },
+  {
+    "name": "QIANDRA INFORMATION TECHNOLOGY PT",
+    "asn": "AS38148",
+    "count": "3,072"
+  },
+  {
+    "name": "BATAM BINTAN TELEKOMUNIKASI, PT",
+    "asn": "AS46026",
+    "count": "3,072"
+  },
+  {
+    "name": "PT Wifiku Indonesia",
+    "asn": "AS59139",
+    "count": "3,072"
+  },
+  {
+    "name": "PT. Wowrack Cepat Teknologi Nusantara",
+    "asn": "AS138074",
+    "count": "3,072"
+  },
+  {
+    "name": "PT. Detik Ini JUga",
+    "asn": "AS24211",
+    "count": "3,072"
+  },
+  {
+    "name": "Indotrans Data, PT",
+    "asn": "AS45289",
+    "count": "3,072"
+  },
+  {
+    "name": "PT. Gaharu Sejahtera",
+    "asn": "AS4833",
+    "count": "3,072"
+  },
+  {
+    "name": "GRAHAMEDIA INFORMASI, PT.",
+    "asn": "AS38515",
+    "count": "3,072"
+  },
+  {
+    "name": "Laxo Global Akses, PT",
+    "asn": "AS38524",
+    "count": "3,072"
+  },
+  {
+    "name": "PT. EXABYTES NETWORK INDONESIA",
+    "asn": "AS136170",
+    "count": "2,816"
+  },
+  {
+    "name": "PT. Palapa Media Indonesia",
+    "asn": "AS58482",
+    "count": "2,816"
+  },
+  {
+    "name": "PT. Cipta Informatika Cemerlang",
+    "asn": "AS45295",
+    "count": "2,816"
+  },
+  {
+    "name": "PT. NAP Info Lintas Nusa",
+    "asn": "AS45147",
+    "count": "2,816"
+  },
+  {
+    "name": "Linknet-Exchange ASN",
+    "asn": "AS7632",
+    "count": "2,816"
+  },
+  {
+    "name": "PT. Sejahtera  Globalindo",
+    "asn": "AS10220",
+    "count": "2,816"
+  },
+  {
+    "name": "PT MITRA VISIONER PRATAMA",
+    "asn": "AS64315",
+    "count": "2,816"
+  },
+  {
+    "name": "PT. TUJUH DELAPAN SEMBILAN NET",
+    "asn": "AS59149",
+    "count": "2,816"
+  },
+  {
+    "name": "PT Lynx Mitra Asia",
+    "asn": "AS55794",
+    "count": "2,816"
+  },
+  {
+    "name": "PT. Smartfren Telecom, Tbk",
+    "asn": "AS133798",
+    "count": "2,816"
+  },
+  {
+    "name": "PT. Mandiri Citra Makmur",
+    "asn": "AS38211",
+    "count": "2,816"
+  },
+  {
+    "name": "PT Maxindo Mitra Solusi",
+    "asn": "AS139460",
+    "count": "2,816"
+  },
+  {
+    "name": "PT Abhinawa Sumberdaya Asia",
+    "asn": "AS138077",
+    "count": "2,816"
+  },
+  {
+    "name": "PT. DUMAI MANDIRI NET",
+    "asn": "AS134655",
+    "count": "2,816"
+  },
+  {
+    "name": "PT. Java Digital Nusantara",
+    "asn": "AS135477",
+    "count": "2,560"
+  },
+  {
+    "name": "PT. Adi Inti Mandiri",
+    "asn": "AS46061",
+    "count": "2,560"
+  },
+  {
+    "name": "PT Sarana Mukti Adijaya",
+    "asn": "AS58491",
+    "count": "2,560"
+  },
+  {
+    "name": "Rackh Lintas Asia, pt",
+    "asn": "AS135636",
+    "count": "2,560"
+  },
+  {
+    "name": "PT. Trimitra Usaha Sejahtera",
+    "asn": "AS138823",
+    "count": "2,560"
+  },
+  {
+    "name": "CiputraNet",
+    "asn": "AS38773",
+    "count": "2,304"
+  },
+  {
+    "name": "APIK Media Networks",
+    "asn": "AS58820",
+    "count": "2,304"
+  },
+  {
+    "name": "PT. Medianusa Permana",
+    "asn": "AS131746",
+    "count": "2,304"
+  },
+  {
+    "name": "Java Online, PT.",
+    "asn": "AS18393",
+    "count": "2,304"
+  },
+  {
+    "name": "PT. SIGMA CIPTA CARAKA",
+    "asn": "AS137289",
+    "count": "2,304"
+  },
+  {
+    "name": "PT. Airpay International Indonesia",
+    "asn": "AS135445",
+    "count": "2,304"
+  },
+  {
+    "name": "Transkon Jaya, PT",
+    "asn": "AS46028",
+    "count": "2,304"
+  },
+  {
+    "name": "PT. Inter Media Lintas Nusa",
+    "asn": "AS24209",
+    "count": "2,048"
+  },
+  {
+    "name": "PT Giga Patra Multimedia",
+    "asn": "AS59282",
+    "count": "2,048"
+  },
+  {
+    "name": "PT. Cyberindo Aditama",
+    "asn": "AS38158",
+    "count": "2,048"
+  },
+  {
+    "name": "Internet Service Provider",
+    "asn": "AS38156",
+    "count": "2,048"
+  },
+  {
+    "name": "PT. Jupiter Jala Arta",
+    "asn": "AS131775",
+    "count": "2,048"
+  },
+  {
+    "name": "PT Norlec Telekomunikasi Indonesia",
+    "asn": "AS63493",
+    "count": "2,048"
+  },
+  {
+    "name": "Angkasa Sarana Teknik Komunikasi PT",
+    "asn": "AS24210",
+    "count": "2,048"
+  },
+  {
+    "name": "PT. Bangun Abadi Teknologi Indonesia",
+    "asn": "AS55693",
+    "count": "2,048"
+  },
+  {
+    "name": "PT Rekajasa Akses",
+    "asn": "AS133797",
+    "count": "2,048"
+  },
+  {
+    "name": "PT. Bakrie & Brothers, Tbk",
+    "asn": "AS38494",
+    "count": "2,048"
+  },
+  {
+    "name": "PT. KINEZ CREATIVE SOLUTIONS",
+    "asn": "AS137311",
+    "count": "2,048"
+  },
+  {
+    "name": "PT. GOMEDS NETWORK",
+    "asn": "AS133799",
+    "count": "2,048"
+  },
+  {
+    "name": "Telindo Nusantara, PT",
+    "asn": "AS38522",
+    "count": "2,048"
+  },
+  {
+    "name": "Universitas Brawijaya",
+    "asn": "AS46019",
+    "count": "2,048"
+  },
+  {
+    "name": "PT Axarva Media Teknologi",
+    "asn": "AS131755",
+    "count": "2,048"
+  },
+  {
+    "name": "PT Bank Dananamon Indonesia Tbk",
+    "asn": "AS38171",
+    "count": "2,048"
+  },
+  {
+    "name": "PT. AMBHARA DUTA SHANTI",
+    "asn": "AS38165",
+    "count": "2,048"
+  },
+  {
+    "name": "PT Delta Nusantara Networks",
+    "asn": "AS38162",
+    "count": "2,048"
+  },
+  {
+    "name": "PT. Elektrindo Data Nusantara",
+    "asn": "AS24536",
+    "count": "2,048"
+  },
+  {
+    "name": "PT. Panca Dewata Utama",
+    "asn": "AS38145",
+    "count": "2,048"
+  },
+  {
+    "name": "PT. Beon Intermedia",
+    "asn": "AS55688",
+    "count": "2,048"
+  },
+  {
+    "name": "PT Indonesia Super Corridor",
+    "asn": "AS136825",
+    "count": "2,048"
+  },
+  {
+    "name": "PT. PANCA DUTA UTAMA",
+    "asn": "AS137316",
+    "count": "2,048"
+  },
+  {
+    "name": "PT Smart Media Pratama",
+    "asn": "AS131740",
+    "count": "2,048"
+  },
+  {
+    "name": "PT. Cahaya Buana Raksa",
+    "asn": "AS132652",
+    "count": "2,048"
+  },
+  {
+    "name": "PT. Sakti Putra Mandiri",
+    "asn": "AS38761",
+    "count": "2,048"
+  },
+  {
+    "name": "PT. Fiber Media Indonesia",
+    "asn": "AS55682",
+    "count": "2,048"
+  },
+  {
+    "name": "Pengelola Nama Domain Internet Indonesia",
+    "asn": "AS132647",
+    "count": "2,048"
+  },
+  {
+    "name": "PT. Arana Teknologi Indonesia",
+    "asn": "AS63497",
+    "count": "2,048"
+  },
+  {
+    "name": "PT Mega Mentari Mandiri",
+    "asn": "AS63501",
+    "count": "2,048"
+  },
+  {
+    "name": "PT. Universal Broadband",
+    "asn": "AS55670",
+    "count": "2,048"
+  },
+  {
+    "name": "PT Jabar Telematika",
+    "asn": "AS55668",
+    "count": "2,048"
+  },
+  {
+    "name": "PT Telemedia Network Cakrawala",
+    "asn": "AS131735",
+    "count": "2,048"
+  },
+  {
+    "name": "PT IP Telecom Multimedia Indonesia",
+    "asn": "AS55667",
+    "count": "2,048"
+  },
+  {
+    "name": "PT Cyberplus Media Pratama",
+    "asn": "AS38771",
+    "count": "2,048"
+  },
+  {
+    "name": "Global Inti Corporatama PT.",
+    "asn": "AS23948",
+    "count": "2,048"
+  },
+  {
+    "name": "PT Media Akses Global Indo, Internet Provider Jakarta",
+    "asn": "AS18351",
+    "count": "2,048"
+  },
+  {
+    "name": "Sumidhaz Permata Bunda, PT",
+    "asn": "AS55652",
+    "count": "2,048"
+  },
+  {
+    "name": "PT Infotek Global Network",
+    "asn": "AS133838",
+    "count": "2,048"
+  },
+  {
+    "name": "PT Indonesian Cloud",
+    "asn": "AS38788",
+    "count": "2,048"
+  },
+  {
+    "name": "PT Sinergi Semesta Telematika",
+    "asn": "AS4821",
+    "count": "2,048"
+  },
+  {
+    "name": "PT Atria Teknologi Indonesia",
+    "asn": "AS134612",
+    "count": "2,048"
+  },
+  {
+    "name": "PT. Raja Sepadan Abadi",
+    "asn": "AS45146",
+    "count": "2,048"
+  },
+  {
+    "name": "PT Econdelight",
+    "asn": "AS63827",
+    "count": "2,048"
+  },
+  {
+    "name": "PT. Cakramedia Indocyber",
+    "asn": "AS24200",
+    "count": "2,048"
+  },
+  {
+    "name": "PT. Pemuda Berkarya Manunggal",
+    "asn": "AS59155",
+    "count": "2,048"
+  },
+  {
+    "name": "PT. MATRIXNET GLOBAL INDONESIA",
+    "asn": "AS58474",
+    "count": "2,048"
+  },
+  {
+    "name": "PT. Khasanah Teknologi Persada",
+    "asn": "AS24528",
+    "count": "2,048"
+  },
+  {
+    "name": "Dinas Perhubungan,komunikasi, informasi dan Telematika -NAD",
+    "asn": "AS45313",
+    "count": "2,048"
+  },
+  {
+    "name": "PT Queen Network Nusantara",
+    "asn": "AS136055",
+    "count": "2,048"
+  },
+  {
+    "name": "Jaringan Lintas Utara, PT",
+    "asn": "AS45317",
+    "count": "2,048"
+  },
+  {
+    "name": "PT Shopee International Indonesia",
+    "asn": "AS135462",
+    "count": "2,048"
+  },
+  {
+    "name": "PT. Astra International, Tbk",
+    "asn": "AS58481",
+    "count": "2,048"
+  },
+  {
+    "name": "Satnetcom Balikpapan PT.",
+    "asn": "AS24204",
+    "count": "2,048"
+  },
+  {
+    "name": "Universitas Gadjah Mada",
+    "asn": "AS45705",
+    "count": "2,048"
+  },
+  {
+    "name": "Universitas Diponegoro",
+    "asn": "AS46049",
+    "count": "2,048"
+  },
+  {
+    "name": "PT Global Port Binekatara",
+    "asn": "AS24522",
+    "count": "2,048"
+  },
+  {
+    "name": "Prime Link Communication, PT",
+    "asn": "AS45707",
+    "count": "2,048"
+  },
+  {
+    "name": "PD Sarana Pembangunan Siak",
+    "asn": "AS46045",
+    "count": "2,048"
+  },
+  {
+    "name": "Pemerintah Kota Surabaya",
+    "asn": "AS45708",
+    "count": "2,048"
+  },
+  {
+    "name": "Rumahweb Indonesia CV.",
+    "asn": "AS58487",
+    "count": "2,048"
+  },
+  {
+    "name": "PT Jaringan VNT Indonesia",
+    "asn": "AS59278",
+    "count": "2,048"
+  },
+  {
+    "name": "Cikarang Cyberindo PT.",
+    "asn": "AS45716",
+    "count": "2,048"
+  },
+  {
+    "name": "PT. SEKAWAN GLOBAL KOMUNIKA",
+    "asn": "AS46029",
+    "count": "2,048"
+  },
+  {
+    "name": "Nawala Project  - DNS Filtering Project",
+    "asn": "AS45719",
+    "count": "2,048"
+  },
+  {
+    "name": "PT Global Teknologi Teraindo",
+    "asn": "AS131711",
+    "count": "2,048"
+  },
+  {
+    "name": "PT Ikubaru Indonesia",
+    "asn": "AS135444",
+    "count": "2,048"
+  },
+  {
+    "name": "PT Mitra Akses Globalindo",
+    "asn": "AS63873",
+    "count": "2,048"
+  },
+  {
+    "name": "Widya Intersat Nusantara, PT",
+    "asn": "AS45722",
+    "count": "2,048"
+  },
+  {
+    "name": "PT Total Trimitra Teknologi",
+    "asn": "AS63488",
+    "count": "2,048"
+  },
+  {
+    "name": "PT Net Sentra Cyberindo",
+    "asn": "AS59288",
+    "count": "2,048"
+  },
+  {
+    "name": "Universitas Katolik Widya Mandala",
+    "asn": "AS63491",
+    "count": "2,048"
+  },
+  {
+    "name": "PT. BORNEO BROADBAND TECHNOLOGY",
+    "asn": "AS38785",
+    "count": "1,792"
+  },
+  {
+    "name": "PT Jetcoms Netindo",
+    "asn": "AS133808",
+    "count": "1,792"
+  },
+  {
+    "name": "INDONESIA BROADBAND ACCESS - ANYWHERE",
+    "asn": "AS133841",
+    "count": "1,792"
+  },
+  {
+    "name": "PT.Graha Telekomunikasi Indonesia",
+    "asn": "AS46063",
+    "count": "1,792"
+  },
+  {
+    "name": "PT Rekadata Pratama Medianet",
+    "asn": "AS38776",
+    "count": "1,792"
+  },
+  {
+    "name": "PT. SRIWIJAYA INTERNET SERVICES",
+    "asn": "AS38523",
+    "count": "1,792"
+  },
+  {
+    "name": "PT Jagat Media Teknologi",
+    "asn": "AS58558",
+    "count": "1,792"
+  },
+  {
+    "name": "PT. Bumi Merbabu Permai",
+    "asn": "AS38766",
+    "count": "1,792"
+  },
+  {
+    "name": "PT. Transhybrid Communication",
+    "asn": "AS24534",
+    "count": "1,792"
+  },
+  {
+    "name": "PT ROKA LANE ASIA",
+    "asn": "AS46055",
+    "count": "1,792"
+  },
+  {
+    "name": "MARKAS BESAR KEPOLISIAN REPUBLIK INDONESIA",
+    "asn": "AS38764",
+    "count": "1,792"
+  },
+  {
+    "name": "PT Multidata Rancana Prima",
+    "asn": "AS18153",
+    "count": "1,792"
+  },
+  {
+    "name": "PT. Megaxus Infotech",
+    "asn": "AS38274",
+    "count": "1,792"
+  },
+  {
+    "name": "ABS/SMA-INDONESIA",
+    "asn": "AS24225",
+    "count": "1,792"
+  },
+  {
+    "name": "PT. DEWATA TELEMATIKA",
+    "asn": "AS58396",
+    "count": "1,792"
+  },
+  {
+    "name": "PT Palapa Global Nusantara",
+    "asn": "AS134630",
+    "count": "1,792"
+  },
+  {
+    "name": "PT Aneka Signal",
+    "asn": "AS131728",
+    "count": "1,792"
+  },
+  {
+    "name": "PT Fajar Techno System",
+    "asn": "AS56245",
+    "count": "1,536"
+  },
+  {
+    "name": "Imediabiz Indonesia",
+    "asn": "AS45711",
+    "count": "1,536"
+  },
+  {
+    "name": "PT MITRA TELEMEDIA MANUNGGAL",
+    "asn": "AS136841",
+    "count": "1,536"
+  },
+  {
+    "name": "PT Jaringan Multimedia Indonesia",
+    "asn": "AS59276",
+    "count": "1,536"
+  },
+  {
+    "name": "DIREKTORAT JENDERAL PAJAK",
+    "asn": "AS58476",
+    "count": "1,536"
+  },
+  {
+    "name": "PT Paket Data Andal",
+    "asn": "AS24537",
+    "count": "1,536"
+  },
+  {
+    "name": "PT Wahana Lintas Nusa Persada",
+    "asn": "AS46054",
+    "count": "1,536"
+  },
+  {
+    "name": "INDOSAT Mega Media (Internet Network Provider) Pt,",
+    "asn": "AS38490",
+    "count": "1,536"
+  },
+  {
+    "name": "PT. Uninet Media Sakti - ISP",
+    "asn": "AS17884",
+    "count": "1,536"
+  },
+  {
+    "name": "Universitas Sebelas Maret",
+    "asn": "AS55684",
+    "count": "1,536"
+  },
+  {
+    "name": "PT. Cyber Bintan",
+    "asn": "AS38763",
+    "count": "1,536"
+  },
+  {
+    "name": "PT Jivan Jaya Makmur Telecom",
+    "asn": "AS38159",
+    "count": "1,536"
+  },
+  {
+    "name": "PT Lintas Persada Optika",
+    "asn": "AS139427",
+    "count": "1,536"
+  },
+  {
+    "name": "PT Mirae Asset Sekuritas Indonesia",
+    "asn": "AS23861",
+    "count": "1,536"
+  },
+  {
+    "name": "PT Arsenet Global Solusi",
+    "asn": "AS58819",
+    "count": "1,536"
+  },
+  {
+    "name": "PT. Smartlink Global Media.",
+    "asn": "AS38772",
+    "count": "1,536"
+  },
+  {
+    "name": "PT Medialink Global Mandiri",
+    "asn": "AS64297",
+    "count": "1,536"
+  },
+  {
+    "name": "PT. MULTI DATA PALEMBANG",
+    "asn": "AS38502",
+    "count": "1,536"
+  },
+  {
+    "name": "PT. SUITEN INOVASI SUKSES",
+    "asn": "AS137373",
+    "count": "1,536"
+  },
+  {
+    "name": "PT. Simaya Jejaring Mandiri",
+    "asn": "AS38783",
+    "count": "1,536"
+  },
+  {
+    "name": "Multi Media Access, PT",
+    "asn": "AS45724",
+    "count": "1,536"
+  },
+  {
+    "name": "GRAMEDIA, PT.",
+    "asn": "AS18365",
+    "count": "1,536"
+  },
+  {
+    "name": "PT. Bank Negara Indonesia (Persero), Tbk.",
+    "asn": "AS46024",
+    "count": "1,536"
+  },
+  {
+    "name": "PT. Arupa Cloud Nusantara",
+    "asn": "AS136102",
+    "count": "1,536"
+  },
+  {
+    "name": "PT BINA INFORMATIKA SOLUSI",
+    "asn": "AS132637",
+    "count": "1,536"
+  },
+  {
+    "name": "PT. SOLO JALA BUANA",
+    "asn": "AS131767",
+    "count": "1,536"
+  },
+  {
+    "name": "PT Telematika Mitrakreasi",
+    "asn": "AS135370",
+    "count": "1,280"
+  },
+  {
+    "name": "Kementerian Riset dan Teknologi / Badan Riset dan Inovasi Nasional",
+    "asn": "AS139968",
+    "count": "1,280"
+  },
+  {
+    "name": "PT Fastel Sarana Indonesia",
+    "asn": "AS46032",
+    "count": "1,280"
+  },
+  {
+    "name": "PT Berkah Solusi Teknologi Informasi",
+    "asn": "AS135450",
+    "count": "1,280"
+  },
+  {
+    "name": "Pusat Sistem Informasi dan Teknologi Keuangan ( Pusintek )",
+    "asn": "AS45732",
+    "count": "1,280"
+  },
+  {
+    "name": "Institut Teknologi Sepuluh Nopember",
+    "asn": "AS38331",
+    "count": "1,280"
+  },
+  {
+    "name": "PT. Datacomm Diangraha",
+    "asn": "AS59134",
+    "count": "1,280"
+  },
+  {
+    "name": "PT Semut Data Indonesia",
+    "asn": "AS139457",
+    "count": "1,280"
+  },
+  {
+    "name": "PT INDONESIA COMNETS PLUS",
+    "asn": "AS38757",
+    "count": "1,280"
+  },
+  {
+    "name": "Bogor Agricultural University",
+    "asn": "AS17553",
+    "count": "1,280"
+  },
+  {
+    "name": "PT Surya Global Teknologi",
+    "asn": "AS45718",
+    "count": "1,280"
+  },
+  {
+    "name": "PT Dian Nuswantoro Teknologi",
+    "asn": "AS131778",
+    "count": "1,280"
+  },
+  {
+    "name": "PT.Global Media Data Prima",
+    "asn": "AS138089",
+    "count": "1,280"
+  },
+  {
+    "name": "PT Artha Media Lintas Nusa",
+    "asn": "AS63490",
+    "count": "1,280"
+  },
+  {
+    "name": "Cloud Teknologi Nusantara .CV",
+    "asn": "AS137331",
+    "count": "1,280"
+  },
+  {
+    "name": "PT Lintas Jaringan Nusantara",
+    "asn": "AS58821",
+    "count": "1,280"
+  },
+  {
+    "name": "Indonesia NeuCentrIX",
+    "asn": "AS137019",
+    "count": "1,280"
+  },
+  {
+    "name": "PT JARINGANKU SARANA NUSANTARA",
+    "asn": "AS64300",
+    "count": "1,280"
+  },
+  {
+    "name": "DISKOMINFO TANGERANG SELATAN",
+    "asn": "AS137342",
+    "count": "1,280"
+  },
+  {
+    "name": "PT Anugerah Karunia Perkasa Abadi",
+    "asn": "AS133354",
+    "count": "1,280"
+  },
+  {
+    "name": "PT Exa Rekatek Prosolusi",
+    "asn": "AS55664",
+    "count": "1,280"
+  },
+  {
+    "name": "PT. Intranusa Core Teknologi",
+    "asn": "AS137292",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Internet Solusi Prima",
+    "asn": "AS137375",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Tele Net",
+    "asn": "AS137376",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Perdana Teknologi Persada",
+    "asn": "AS137378",
+    "count": "1,024"
+  },
+  {
+    "name": "PDIS - BADAN PENGKAJIAN DAN PENERAPAN TEKNOLOGI",
+    "asn": "AS59159",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Iconmedia Lintas Nusantara",
+    "asn": "AS23694",
+    "count": "1,024"
+  },
+  {
+    "name": "Estiko Ramanda AS",
+    "asn": "AS23692",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Grace Nexus Teknologi",
+    "asn": "AS138047",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Blambangan Cahaya Timur",
+    "asn": "AS59158",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Bali Soket Informindo",
+    "asn": "AS59156",
+    "count": "1,024"
+  },
+  {
+    "name": "PT WISUANDHA NETWORK GLOBALINDO",
+    "asn": "AS131773",
+    "count": "1,024"
+  },
+  {
+    "name": "BADAN INTELIJEN NEGARA",
+    "asn": "AS138055",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Global Data Inspirasi",
+    "asn": "AS138060",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Awan Kilat Semesta",
+    "asn": "AS138062",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Jinom Network indonesia",
+    "asn": "AS138064",
+    "count": "1,024"
+  },
+  {
+    "name": "PT CITRAWEB DIGITAL MULTISOLUSI",
+    "asn": "AS138069",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Sumber Utama Fiber Indonesia",
+    "asn": "AS138072",
+    "count": "1,024"
+  },
+  {
+    "name": "Bidang Layanan Teknologi dan Informasi Dinas Perhubungan",
+    "asn": "AS59151",
+    "count": "1,024"
+  },
+  {
+    "name": "Asiakomnet Multimedia, PT",
+    "asn": "AS18052",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Fiqran Solusindo Mediatama",
+    "asn": "AS138079",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Global Media Inti Semesta",
+    "asn": "AS138080",
+    "count": "1,024"
+  },
+  {
+    "name": "INHERENT",
+    "asn": "AS18007",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Rtiga Global Media",
+    "asn": "AS59150",
+    "count": "1,024"
+  },
+  {
+    "name": "PT JAVA MEDIANET TEKHNOLOGI",
+    "asn": "AS138087",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Wave Communication Indonesia",
+    "asn": "AS138090",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Hexa Sarana Intermedia",
+    "asn": "AS138099",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Mahameru Media Nusantara",
+    "asn": "AS138100",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Baraya Telematika Nusantara",
+    "asn": "AS138102",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Lintas Telematika Nusantara",
+    "asn": "AS138106",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Virtual Data Centra Indonesia",
+    "asn": "AS138107",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Rasi Bintang Perkasa",
+    "asn": "AS138109",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Megarap Mitra Solusi",
+    "asn": "AS138112",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Amron Citinet",
+    "asn": "AS138113",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Media Tekno Nusantara",
+    "asn": "AS138116",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Xepia Prima",
+    "asn": "AS59148",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Integra Kreasitama Solusindo",
+    "asn": "AS138119",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Sinar Alam Abadi",
+    "asn": "AS17440",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. ADEAKSA INDO JAYATAMA",
+    "asn": "AS138123",
+    "count": "1,024"
+  },
+  {
+    "name": "PT PHATRIA INTI PERSADA",
+    "asn": "AS138130",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Palapa Network Nusantara",
+    "asn": "AS139399",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Pusat Informasi Kredit",
+    "asn": "AS139398",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Multimedia Network Indonesia",
+    "asn": "AS139397",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Master Global Solusi",
+    "asn": "AS139396",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Trans Indonesia Superkoridor",
+    "asn": "AS138871",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Jaringan Komunikasi Lintas Data",
+    "asn": "AS138139",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Daya Sinergi Telekomunikasi",
+    "asn": "AS59133",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Adidaya Infocom Lestari",
+    "asn": "AS138839",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Global Media Pratama Solusindo",
+    "asn": "AS138810",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Intech Esa Mandiri",
+    "asn": "AS138808",
+    "count": "1,024"
+  },
+  {
+    "name": "Dinas Komunikasi dan Informatika Kabupaten Kulon Progo",
+    "asn": "AS138806",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Bukalapak.com",
+    "asn": "AS138802",
+    "count": "1,024"
+  },
+  {
+    "name": "Universitas Muhammadiyah Yogyakarta",
+    "asn": "AS58818",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Usaha Mediantara Intranet",
+    "asn": "AS58817",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Integrasi Logistik Cipta Solusi",
+    "asn": "AS132639",
+    "count": "1,024"
+  },
+  {
+    "name": "Universitas Ahmad Dahlan",
+    "asn": "AS132642",
+    "count": "1,024"
+  },
+  {
+    "name": "Politeknik Perkapalan Negeri Surabaya",
+    "asn": "AS132645",
+    "count": "1,024"
+  },
+  {
+    "name": "PT 3D Tech",
+    "asn": "AS58553",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Mediatama Telematika Nusantara",
+    "asn": "AS58551",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Pusat Media Indonesia",
+    "asn": "AS58503",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Transdata Sejahtera",
+    "asn": "AS132653",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Integra Ventura",
+    "asn": "AS58497",
+    "count": "1,024"
+  },
+  {
+    "name": "Universitas Islam Sultan Agung",
+    "asn": "AS58492",
+    "count": "1,024"
+  },
+  {
+    "name": "PUSDATIN KKP",
+    "asn": "AS58488",
+    "count": "1,024"
+  },
+  {
+    "name": "Universitas Negeri Gorontalo",
+    "asn": "AS132660",
+    "count": "1,024"
+  },
+  {
+    "name": "Wifian Solution PT.",
+    "asn": "AS58485",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Bank CIMB Niaga Tbk",
+    "asn": "AS58480",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Bali Towerindo Sentra",
+    "asn": "AS132668",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Globalnet Multi Data",
+    "asn": "AS132669",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Pasifik Satelit Nusantara",
+    "asn": "AS58478",
+    "count": "1,024"
+  },
+  {
+    "name": "Universitas Lambung Mangkurat",
+    "asn": "AS58475",
+    "count": "1,024"
+  },
+  {
+    "name": "Universitas Sriwijaya",
+    "asn": "AS132676",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Garuda Media Informatika",
+    "asn": "AS132677",
+    "count": "1,024"
+  },
+  {
+    "name": "Universitas Jember",
+    "asn": "AS132678",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Nusa Satu Inti Artha",
+    "asn": "AS58449",
+    "count": "1,024"
+  },
+  {
+    "name": "Universitas Negeri Semarang",
+    "asn": "AS58400",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. DUNIACATFISH KREATIF MEDIA",
+    "asn": "AS58395",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Sewiwi Indonesia",
+    "asn": "AS58392",
+    "count": "1,024"
+  },
+  {
+    "name": "Badan Pengawas Obat dan Makanan",
+    "asn": "AS58387",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Bank Syariah Mandiri",
+    "asn": "AS58385",
+    "count": "1,024"
+  },
+  {
+    "name": "Sentra Niaga Solusindo, PT.",
+    "asn": "AS58377",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Astra Graphia Information Technology",
+    "asn": "AS56259",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. PGAS TELEKOMUNIKASI NUSANTARA",
+    "asn": "AS56258",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Corous Three Sixty",
+    "asn": "AS56251",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Jasa Utama Capital",
+    "asn": "AS133349",
+    "count": "1,024"
+  },
+  {
+    "name": "PT INDAH KIAT PULP & PAPER Tbk",
+    "asn": "AS56248",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Berdikari Prima Mandiri",
+    "asn": "AS133352",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Naraya Telematika",
+    "asn": "AS56234",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. NAP Info Lintas Nusa",
+    "asn": "AS64313",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Awinet Global Mandiri",
+    "asn": "AS133360",
+    "count": "1,024"
+  },
+  {
+    "name": "Kementerian Agama (KEMENAG)",
+    "asn": "AS131693",
+    "count": "1,024"
+  },
+  {
+    "name": "PT WIRELESS INDONESIA",
+    "asn": "AS64304",
+    "count": "1,024"
+  },
+  {
+    "name": "Infomedia Nusantara PT.",
+    "asn": "AS55698",
+    "count": "1,024"
+  },
+  {
+    "name": "Universitas Islam Negeri Sunan Kalijaga Yogyakarta",
+    "asn": "AS55695",
+    "count": "1,024"
+  },
+  {
+    "name": "IDREN - Indonesia Research and Education Network",
+    "asn": "AS64302",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Virtual Jaringan Nasional",
+    "asn": "AS64301",
+    "count": "1,024"
+  },
+  {
+    "name": "PT FANGBIAN ISKAN CORPORINDO",
+    "asn": "AS133804",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Artorius Telemetri Sentosa",
+    "asn": "AS133809",
+    "count": "1,024"
+  },
+  {
+    "name": "LCM NETWORKS",
+    "asn": "AS133812",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Inti Data Telematika",
+    "asn": "AS133817",
+    "count": "1,024"
+  },
+  {
+    "name": "PT CITRA INFOMEDIA",
+    "asn": "AS133819",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Hawk Teknologi Solusi",
+    "asn": "AS55677",
+    "count": "1,024"
+  },
+  {
+    "name": "Universitas Negeri Yogyakarta",
+    "asn": "AS55674",
+    "count": "1,024"
+  },
+  {
+    "name": "UNIVERSITAS ISLAM INDONESIA",
+    "asn": "AS133827",
+    "count": "1,024"
+  },
+  {
+    "name": "PT DELTAULI TEKNIKARYA UTAMA",
+    "asn": "AS133829",
+    "count": "1,024"
+  },
+  {
+    "name": "CV. CITRAWEB NUSA INFOMEDIA",
+    "asn": "AS55662",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Deltrasindo Mitra Asiatama",
+    "asn": "AS131699",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Kreasi Sejahtera Teknologi",
+    "asn": "AS64031",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Bank Rakyat Indonesia",
+    "asn": "AS133843",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Rabik Bangun Nusantara",
+    "asn": "AS134618",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. RAMA WIMA NUSANTARA",
+    "asn": "AS64029",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Aristi Jasadata",
+    "asn": "AS134626",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Yesi Media Utama",
+    "asn": "AS64024",
+    "count": "1,024"
+  },
+  {
+    "name": "Direktorat Jenderal Administrasi Hukum Umum",
+    "asn": "AS134633",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Inovasi Tjaraka Buana",
+    "asn": "AS63885",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Senosan Multi Artha",
+    "asn": "AS63883",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Bank DBS Indonesia",
+    "asn": "AS134636",
+    "count": "1,024"
+  },
+  {
+    "name": "Politeknik Elektronika Negeri Surabaya",
+    "asn": "AS46052",
+    "count": "1,024"
+  },
+  {
+    "name": "PT JEMBATAN CITRA NUSANTARA",
+    "asn": "AS46051",
+    "count": "1,024"
+  },
+  {
+    "name": "PT DCI Indonesia",
+    "asn": "AS134640",
+    "count": "1,024"
+  },
+  {
+    "name": "PT JC Indonesia",
+    "asn": "AS46050",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Victory Network Indonesia",
+    "asn": "AS63878",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Jaya Kartha Solusindo",
+    "asn": "AS134643",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Cakrawala Lintas Kepri",
+    "asn": "AS134644",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Midtrans",
+    "asn": "AS134645",
+    "count": "1,024"
+  },
+  {
+    "name": "Politeknik Negeri Sriwijaya",
+    "asn": "AS46047",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Jingdong Indonesia Pertama",
+    "asn": "AS134649",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Bosowa Network Media",
+    "asn": "AS63874",
+    "count": "1,024"
+  },
+  {
+    "name": "Universitas Padjadjaran",
+    "asn": "AS46044",
+    "count": "1,024"
+  },
+  {
+    "name": "Gunadarma University",
+    "asn": "AS46042",
+    "count": "1,024"
+  },
+  {
+    "name": "Departemen Kesehatan",
+    "asn": "AS46034",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Aero Systems Indonesia",
+    "asn": "AS131710",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Sano Komunikasi",
+    "asn": "AS131713",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Broadband Indonesia Pratama",
+    "asn": "AS135449",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Media Alvina Sejati",
+    "asn": "AS135451",
+    "count": "1,024"
+  },
+  {
+    "name": "LKBN ANTARA",
+    "asn": "AS46016",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Alam Informasi Teknologi",
+    "asn": "AS63872",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Media Televisi Indonesia",
+    "asn": "AS45734",
+    "count": "1,024"
+  },
+  {
+    "name": "PT.GLOBALRIAU DATA SOLUSI",
+    "asn": "AS135459",
+    "count": "1,024"
+  },
+  {
+    "name": "THE HONGKONG AND SHANGHAI BANKING CORPORATION LIMITED",
+    "asn": "AS135460",
+    "count": "1,024"
+  },
+  {
+    "name": "Winet Media Persada",
+    "asn": "AS135464",
+    "count": "1,024"
+  },
+  {
+    "name": "PT BINA TECHINDO SOLUTION",
+    "asn": "AS135465",
+    "count": "1,024"
+  },
+  {
+    "name": "INDO Internet, PT",
+    "asn": "AS45729",
+    "count": "1,024"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS45728",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Wahana Internet Nusantara",
+    "asn": "AS135468",
+    "count": "1,024"
+  },
+  {
+    "name": "PT MERAH PUTIH TELEMATIKA",
+    "asn": "AS63869",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Hafiz Jaya Infotama",
+    "asn": "AS135474",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. XIRKA DAMA PERSADA",
+    "asn": "AS135479",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Arjuna Global Teknologi Indonesia",
+    "asn": "AS135480",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Bentang Selaras Teknologi",
+    "asn": "AS135484",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Daxa Networks International",
+    "asn": "AS45713",
+    "count": "1,024"
+  },
+  {
+    "name": "Departemen Luar Negeri Republik Indonesia",
+    "asn": "AS45712",
+    "count": "1,024"
+  },
+  {
+    "name": "PT OTHMAR MATRA MEDIA",
+    "asn": "AS135488",
+    "count": "1,024"
+  },
+  {
+    "name": "SCTV Tower - Senayan City",
+    "asn": "AS45658",
+    "count": "1,024"
+  },
+  {
+    "name": "Global Media Teknologi, PT",
+    "asn": "AS45324",
+    "count": "1,024"
+  },
+  {
+    "name": "Departemen Komunikasi dan Informasi Republik Indonesia",
+    "asn": "AS45320",
+    "count": "1,024"
+  },
+  {
+    "name": "PT.COMTELINDO",
+    "asn": "AS136054",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Nasional Online",
+    "asn": "AS63868",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Tirta Karya Buana",
+    "asn": "AS63867",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Pascal Solusi Nusantara",
+    "asn": "AS63862",
+    "count": "1,024"
+  },
+  {
+    "name": "Dinas Informasi dan Pengolahan Data TNI AL (DISINFOLAHTAL)",
+    "asn": "AS136060",
+    "count": "1,024"
+  },
+  {
+    "name": "Badan Pengusahaan Batam",
+    "asn": "AS136061",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Aktif Tengah Malam",
+    "asn": "AS63861",
+    "count": "1,024"
+  },
+  {
+    "name": "PetraNet, Surabaya, Indonesia",
+    "asn": "AS45304",
+    "count": "1,024"
+  },
+  {
+    "name": "DINHUBKOMINFO PEMPROV. JAWA TENGAH",
+    "asn": "AS131724",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Surfindo Network",
+    "asn": "AS45291",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Sarana Cipta Komunikasi",
+    "asn": "AS136074",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Cinoxmedia Network Indonesia",
+    "asn": "AS136075",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Hesta Media Sinergi",
+    "asn": "AS136076",
+    "count": "1,024"
+  },
+  {
+    "name": "KOMUNIKA LIMA DUABELAS, PT",
+    "asn": "AS45288",
+    "count": "1,024"
+  },
+  {
+    "name": "Pemerintah Kabupaten Bojonegoro",
+    "asn": "AS136085",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Sumatra Sistem Integrasi",
+    "asn": "AS63514",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Araz Inti Line",
+    "asn": "AS136088",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Gudang Garam Tbk",
+    "asn": "AS63513",
+    "count": "1,024"
+  },
+  {
+    "name": "Markas Besar TNI Angkatan Darat",
+    "asn": "AS136094",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Garuda Rias Teknologi",
+    "asn": "AS63512",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Matra Mandiri Prima",
+    "asn": "AS63509",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. BKVNET TELEMEDIA",
+    "asn": "AS136100",
+    "count": "1,024"
+  },
+  {
+    "name": "Pemerintah Kota Bandung",
+    "asn": "AS136101",
+    "count": "1,024"
+  },
+  {
+    "name": "Universitas Semarang",
+    "asn": "AS136103",
+    "count": "1,024"
+  },
+  {
+    "name": "CV. ANINDISA KOMPUTINDO PRATAMA",
+    "asn": "AS136105",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Mega Akses Persada",
+    "asn": "AS136106",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Tujuh Ion Indonesia",
+    "asn": "AS136107",
+    "count": "1,024"
+  },
+  {
+    "name": "Kementerian Sosial Republik Indonesia",
+    "asn": "AS136111",
+    "count": "1,024"
+  },
+  {
+    "name": "PT DINAMIKA MEDIAKOM",
+    "asn": "AS63508",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Mitra Abdi Solusi",
+    "asn": "AS38781",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. ALIANSI TEKNOLOGI INDONESIA",
+    "asn": "AS136116",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Awan Media Semesta",
+    "asn": "AS38767",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Tujuh Akses Mentari Prima",
+    "asn": "AS136127",
+    "count": "1,024"
+  },
+  {
+    "name": "Departemen Energi dan Sumber Daya Mineral",
+    "asn": "AS38765",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Media Sarana Akses",
+    "asn": "AS38760",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. LISAR INTERNATIONAL NETWORKING",
+    "asn": "AS136820",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Arka Data Primatama",
+    "asn": "AS136823",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Inovasi Jaringan Nusantara",
+    "asn": "AS63494",
+    "count": "1,024"
+  },
+  {
+    "name": "PRIMEDIA ARMOEKADATA INTERNET, PT.",
+    "asn": "AS38754",
+    "count": "1,024"
+  },
+  {
+    "name": "PT GNET BIARO AKSES",
+    "asn": "AS131743",
+    "count": "1,024"
+  },
+  {
+    "name": "Dinas Komunikasi Informatika dan Persandian Kota Yogyakarta",
+    "asn": "AS38526",
+    "count": "1,024"
+  },
+  {
+    "name": "PT BIT TEKNOLOGI NUSANTARA",
+    "asn": "AS136838",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Graha Lintas Nusantara",
+    "asn": "AS136840",
+    "count": "1,024"
+  },
+  {
+    "name": "PT.Bangsawan Cyberindo",
+    "asn": "AS38517",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. RUMAH TEKNOLOGI",
+    "asn": "AS136850",
+    "count": "1,024"
+  },
+  {
+    "name": "Universitas Muhammadiyah Magelang",
+    "asn": "AS136853",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. PALAPA RING BARAT",
+    "asn": "AS136854",
+    "count": "1,024"
+  },
+  {
+    "name": "PT.PERSADA KARYA LESTARI MANDIRI",
+    "asn": "AS136855",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Tower Bersama",
+    "asn": "AS136856",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. ARTAMEDIA CITRA TELEMATIKA INDONESIA",
+    "asn": "AS136861",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Arthatama Adhiprima Persada",
+    "asn": "AS131749",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Terasys Virtual",
+    "asn": "AS136868",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. LIMA MENARA BINTANG",
+    "asn": "AS136869",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. MEGA ARTHA LINTAS DATA",
+    "asn": "AS136873",
+    "count": "1,024"
+  },
+  {
+    "name": "BIZNET-BII",
+    "asn": "AS38498",
+    "count": "1,024"
+  },
+  {
+    "name": "CV. VERD",
+    "asn": "AS131753",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Visionet Data Internasional",
+    "asn": "AS136877",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Media Jaringan Indonesia",
+    "asn": "AS136879",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Latansa Teknologi Multimedia",
+    "asn": "AS59285",
+    "count": "1,024"
+  },
+  {
+    "name": "PT BINTANG MATARAM TEKNOLOGI",
+    "asn": "AS136885",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Arupa Cloud Nusantara",
+    "asn": "AS137286",
+    "count": "1,024"
+  },
+  {
+    "name": "Diskominfo Kabupaten Trenggalek",
+    "asn": "AS137291",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Infomedia Global Nusantara",
+    "asn": "AS137370",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Pelangi Nusantara Multimedia",
+    "asn": "AS137298",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Kaili Global",
+    "asn": "AS59280",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Solusi Prima Connectivist",
+    "asn": "AS137306",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Nielsen Audience Measurment",
+    "asn": "AS137307",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Shangkuriang Telekomunikasi Indonesia",
+    "asn": "AS137310",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Bali Ning",
+    "asn": "AS131758",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Internet Service Provider",
+    "asn": "AS137320",
+    "count": "1,024"
+  },
+  {
+    "name": "PT THE NIELSEN COMPANY INDONESIA",
+    "asn": "AS137321",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. GLOBAL SARANA TELEMATIKA",
+    "asn": "AS137322",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Web Data Solusindo",
+    "asn": "AS131759",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. ARTHA LINTAS DATA MANDIRI",
+    "asn": "AS137329",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Raja Mitra Informatika",
+    "asn": "AS59279",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. VISIONET INTERNASIONAL",
+    "asn": "AS137336",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. KHAZANAH MEDIA NETWORK NUSANTARA",
+    "asn": "AS137343",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. TRANS NASIONAL TEKNOLOGI",
+    "asn": "AS137344",
+    "count": "1,024"
+  },
+  {
+    "name": "PT KOMUNIKASI LINTAS NUSA",
+    "asn": "AS59273",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. PASIFIKTEL INDOTAMA",
+    "asn": "AS24202",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. SKYREACH",
+    "asn": "AS137359",
+    "count": "1,024"
+  },
+  {
+    "name": "PT. Quanta Tunas Abadi",
+    "asn": "AS137363",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Lawang Sewu Teknologi",
+    "asn": "AS59272",
+    "count": "1,024"
+  },
+  {
+    "name": "PT Indonesia Media Komunikasi Masyarakat",
+    "asn": "AS132663",
+    "count": "768"
+  },
+  {
+    "name": "PT Adau Putra Network",
+    "asn": "AS132649",
+    "count": "768"
+  },
+  {
+    "name": "PT Jejaring Mitra Persada",
+    "asn": "AS138070",
+    "count": "768"
+  },
+  {
+    "name": "PT INFORMASI NUSANTARA TEKNOLOGI",
+    "asn": "AS138096",
+    "count": "768"
+  },
+  {
+    "name": "PT Metrocom Indonesia",
+    "asn": "AS137324",
+    "count": "768"
+  },
+  {
+    "name": "STMIK Amikom Yogyakarta",
+    "asn": "AS136079",
+    "count": "768"
+  },
+  {
+    "name": "PT. Infotama Lintas Global",
+    "asn": "AS24529",
+    "count": "768"
+  },
+  {
+    "name": "PT. FOXLINE MEDIADATA INDONUSA",
+    "asn": "AS136078",
+    "count": "768"
+  },
+  {
+    "name": "Kementrian Pekerjaan Umum",
+    "asn": "AS131722",
+    "count": "768"
+  },
+  {
+    "name": "PT GERBANG AKSES INDONESIA",
+    "asn": "AS138143",
+    "count": "768"
+  },
+  {
+    "name": "PT. AMBHARA DUTA SHANTI",
+    "asn": "AS138847",
+    "count": "768"
+  },
+  {
+    "name": "PT POLARISNET",
+    "asn": "AS45315",
+    "count": "768"
+  },
+  {
+    "name": "Center For International Forestry Research(CIFOR)",
+    "asn": "AS45733",
+    "count": "768"
+  },
+  {
+    "name": "PT. PATRA TELEKOMUNIKASI INDONESIA",
+    "asn": "AS46031",
+    "count": "768"
+  },
+  {
+    "name": "PT JULIA MULTIMEDIA NUSANTARA",
+    "asn": "AS134658",
+    "count": "768"
+  },
+  {
+    "name": "PENGGUNA DIKS PTH UNSOED",
+    "asn": "AS131709",
+    "count": "768"
+  },
+  {
+    "name": "Kaskus Networks",
+    "asn": "AS132164",
+    "count": "768"
+  },
+  {
+    "name": "Badan Pengawas Pasar Modal dan Lembaga Keuangan",
+    "asn": "AS46039",
+    "count": "768"
+  },
+  {
+    "name": "PT Tidar Lintas Nusa",
+    "asn": "AS134648",
+    "count": "768"
+  },
+  {
+    "name": "PT Jovimaro Karya Agung",
+    "asn": "AS46056",
+    "count": "768"
+  },
+  {
+    "name": "Universitas Negeri Malang",
+    "asn": "AS46059",
+    "count": "768"
+  },
+  {
+    "name": "PT SURYA TEKNIKA PRATAMA",
+    "asn": "AS64027",
+    "count": "768"
+  },
+  {
+    "name": "PT. DIGITAL NETWORK ANTANUSA",
+    "asn": "AS134623",
+    "count": "768"
+  },
+  {
+    "name": "Lembaga Penerbangan dan Antariksa Nasional (LAPAN)",
+    "asn": "AS131776",
+    "count": "768"
+  },
+  {
+    "name": "Mahkamah Agung RI",
+    "asn": "AS131785",
+    "count": "768"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS4622",
+    "count": "768"
+  },
+  {
+    "name": "Linknet-IDX ASN",
+    "asn": "AS55673",
+    "count": "768"
+  },
+  {
+    "name": "PT Sumatera Global Mediatek",
+    "asn": "AS133814",
+    "count": "768"
+  },
+  {
+    "name": "PT Inti Bangun Sejahtera, tbk",
+    "asn": "AS133811",
+    "count": "768"
+  },
+  {
+    "name": "Kementerian Dalam Negeri Republik Indonesia",
+    "asn": "AS131765",
+    "count": "768"
+  },
+  {
+    "name": "Universitas Tanjungpura",
+    "asn": "AS55687",
+    "count": "768"
+  },
+  {
+    "name": "PT. Inova Duapuluh Duapuluh",
+    "asn": "AS38147",
+    "count": "768"
+  },
+  {
+    "name": "PT. Pasifik Satelit Nusantara",
+    "asn": "AS38154",
+    "count": "768"
+  },
+  {
+    "name": "PT. Sumatra Multimedia Solusi",
+    "asn": "AS136880",
+    "count": "768"
+  },
+  {
+    "name": "PT Altro Abirama",
+    "asn": "AS59290",
+    "count": "768"
+  },
+  {
+    "name": "PT Andira Infomedia",
+    "asn": "AS55690",
+    "count": "768"
+  },
+  {
+    "name": "PT. Indomarco Prismatama",
+    "asn": "AS131783",
+    "count": "768"
+  },
+  {
+    "name": "PT. Bank Tabungan Pensiunan Nasional Tbk",
+    "asn": "AS56253",
+    "count": "768"
+  },
+  {
+    "name": "PT Solusi Lintas Data",
+    "asn": "AS38501",
+    "count": "768"
+  },
+  {
+    "name": "PT ARDETAMEDIA GLOBAL KOMPUTINDO",
+    "asn": "AS136851",
+    "count": "768"
+  },
+  {
+    "name": "PT Pertamina (Persero)",
+    "asn": "AS133166",
+    "count": "768"
+  },
+  {
+    "name": "PT. Alif Investama Teknologi Indonesia",
+    "asn": "AS136847",
+    "count": "768"
+  },
+  {
+    "name": "PEMERINTAH PROVINSI PAPUA",
+    "asn": "AS136842",
+    "count": "768"
+  },
+  {
+    "name": "PT.PGAS TELEKOMUNIKASI NUSANTARA",
+    "asn": "AS58463",
+    "count": "768"
+  },
+  {
+    "name": "Biro Statistics",
+    "asn": "AS38755",
+    "count": "768"
+  },
+  {
+    "name": "PT Bintang Komunikasi Utama",
+    "asn": "AS38756",
+    "count": "768"
+  },
+  {
+    "name": "PT RACKH LINTAS ASIA",
+    "asn": "AS136824",
+    "count": "768"
+  },
+  {
+    "name": "PT. Global Inti Corporatama",
+    "asn": "AS38784",
+    "count": "768"
+  },
+  {
+    "name": "PT EDI INDONESIA",
+    "asn": "AS45286",
+    "count": "768"
+  },
+  {
+    "name": "PT. Frozbit Multimedia Indonesia",
+    "asn": "AS136082",
+    "count": "768"
+  },
+  {
+    "name": "Kantor Komunikasi Dan Informatika Kota Bogor",
+    "asn": "AS45316",
+    "count": "512"
+  },
+  {
+    "name": "PT. Bank Tabungan Negara (Persero) Tbk",
+    "asn": "AS131715",
+    "count": "512"
+  },
+  {
+    "name": "PT. Bens Data Solusi",
+    "asn": "AS131716",
+    "count": "512"
+  },
+  {
+    "name": "PT. COGINDO DAYABERSAMA",
+    "asn": "AS131732",
+    "count": "512"
+  },
+  {
+    "name": "Universitas Islam Negeri Syarif Hidayatullah Jakarta",
+    "asn": "AS131734",
+    "count": "512"
+  },
+  {
+    "name": "Golden IT",
+    "asn": "AS131738",
+    "count": "512"
+  },
+  {
+    "name": "Kementerian Pendayagunaan Aparatur Negara dan Reformasi Birokrasi",
+    "asn": "AS131739",
+    "count": "512"
+  },
+  {
+    "name": "Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah",
+    "asn": "AS131741",
+    "count": "512"
+  },
+  {
+    "name": "Premier oil Indonesia",
+    "asn": "AS131760",
+    "count": "512"
+  },
+  {
+    "name": "Universitas Tadulako",
+    "asn": "AS131763",
+    "count": "512"
+  },
+  {
+    "name": "Bidang Data dan Sarana Informasi (BDSI) Sekjen DPR RI",
+    "asn": "AS131779",
+    "count": "512"
+  },
+  {
+    "name": "Universitas Islam Negeri Maulana Malik Ibrahin (UIN Maliki)",
+    "asn": "AS131781",
+    "count": "512"
+  },
+  {
+    "name": "Kementerian Badan Usaha Milik Negara",
+    "asn": "AS131782",
+    "count": "512"
+  },
+  {
+    "name": "Direktorat E-Goverment Kementerian KOMINFO",
+    "asn": "AS132634",
+    "count": "512"
+  },
+  {
+    "name": "Komisi Pemilihan Umum",
+    "asn": "AS132643",
+    "count": "512"
+  },
+  {
+    "name": "Sekretariat Jenderal Dewan Perwakilan Daerah Republik Indonesia",
+    "asn": "AS132655",
+    "count": "512"
+  },
+  {
+    "name": "Dinas Komunikasi dan Informatika Kota Bandar Lampung",
+    "asn": "AS132666",
+    "count": "512"
+  },
+  {
+    "name": "PT Hutchison 3 Indonesia",
+    "asn": "AS133214",
+    "count": "512"
+  },
+  {
+    "name": "BADAN PERENCANAAN PEMBANGUNAN NASIONAL",
+    "asn": "AS133343",
+    "count": "512"
+  },
+  {
+    "name": "PT Global Digital Niaga",
+    "asn": "AS133346",
+    "count": "512"
+  },
+  {
+    "name": "PT. Erudeye Indonesia",
+    "asn": "AS133359",
+    "count": "512"
+  },
+  {
+    "name": "Universitas Katolik Parahyangan",
+    "asn": "AS133361",
+    "count": "512"
+  },
+  {
+    "name": "Politeknik Negeri Jakarta",
+    "asn": "AS133364",
+    "count": "512"
+  },
+  {
+    "name": "Universitas Pasundan Bandung",
+    "asn": "AS133802",
+    "count": "512"
+  },
+  {
+    "name": "PT Semesta Teknologi Informatika",
+    "asn": "AS133803",
+    "count": "512"
+  },
+  {
+    "name": "Badan Pertanahan Nasional",
+    "asn": "AS133807",
+    "count": "512"
+  },
+  {
+    "name": "Bank ICBC Indonesia",
+    "asn": "AS133834",
+    "count": "512"
+  },
+  {
+    "name": "Dinas Komunikasi dan Informatika Tangerang Kota",
+    "asn": "AS133839",
+    "count": "512"
+  },
+  {
+    "name": "PT BNI Life Insurance",
+    "asn": "AS133842",
+    "count": "512"
+  },
+  {
+    "name": "Pusinfolahta TNI",
+    "asn": "AS134620",
+    "count": "512"
+  },
+  {
+    "name": "PT. FUJITSU INDONESIA",
+    "asn": "AS134624",
+    "count": "512"
+  },
+  {
+    "name": "PT Lippo Malls Indonesia",
+    "asn": "AS134632",
+    "count": "512"
+  },
+  {
+    "name": "Sekretariat Daerah Kota Salatiga",
+    "asn": "AS134634",
+    "count": "512"
+  },
+  {
+    "name": "Dinas Perhubungan, Komunikasi dan Informatika Kabupaten Banyuwangi",
+    "asn": "AS134635",
+    "count": "512"
+  },
+  {
+    "name": "Pemerintah Provinsi Kepulauan Bangka Belitung",
+    "asn": "AS134639",
+    "count": "512"
+  },
+  {
+    "name": "Bank Shinhan Indonesia",
+    "asn": "AS134642",
+    "count": "512"
+  },
+  {
+    "name": "PT Yetoya Solusi Indonesia",
+    "asn": "AS134651",
+    "count": "512"
+  },
+  {
+    "name": "PT Cheil Jedang Indonesia",
+    "asn": "AS134656",
+    "count": "512"
+  },
+  {
+    "name": "PT ADNET MEDIA INDONESIA",
+    "asn": "AS135439",
+    "count": "512"
+  },
+  {
+    "name": "PT. FASA CENTRA ARTAJAYA",
+    "asn": "AS135441",
+    "count": "512"
+  },
+  {
+    "name": "PT Sumber Cipta Multiniaga",
+    "asn": "AS135446",
+    "count": "512"
+  },
+  {
+    "name": "PT. Bank Mega Tbk",
+    "asn": "AS135447",
+    "count": "512"
+  },
+  {
+    "name": "YAYASAN BADAN PENDIDIKAN KRISTEN PENABUR (YBPK)",
+    "asn": "AS135455",
+    "count": "512"
+  },
+  {
+    "name": "BADAN SIBER DAN SANDI NEGARA (BSSN)",
+    "asn": "AS135457",
+    "count": "512"
+  },
+  {
+    "name": "PEMERINTAH KABUPATEN BOYOLALI",
+    "asn": "AS135471",
+    "count": "512"
+  },
+  {
+    "name": "Dinas Kominfo Kabupaten Sleman",
+    "asn": "AS135472",
+    "count": "512"
+  },
+  {
+    "name": "BPJS Ketenagakerjaan",
+    "asn": "AS135473",
+    "count": "512"
+  },
+  {
+    "name": "PT. Sanghiang Perkasa",
+    "asn": "AS136056",
+    "count": "512"
+  },
+  {
+    "name": "PT.PLATINUM CITRA INDONESIA",
+    "asn": "AS136057",
+    "count": "512"
+  },
+  {
+    "name": "Universitas Nusa Cendana",
+    "asn": "AS136059",
+    "count": "512"
+  },
+  {
+    "name": "PT. WINUSA CIPTA TELEMATIKA",
+    "asn": "AS136064",
+    "count": "512"
+  },
+  {
+    "name": "PT SOLUSI TRIMEGAH PERSADA",
+    "asn": "AS136065",
+    "count": "512"
+  },
+  {
+    "name": "Kantor Pengolahan Data Telematika",
+    "asn": "AS136067",
+    "count": "512"
+  },
+  {
+    "name": "PEMERINTAH KABUPATEN KEBUMEN",
+    "asn": "AS136081",
+    "count": "512"
+  },
+  {
+    "name": "Dinas Komunikasi, Informatika dan Statistika Kota Magelang",
+    "asn": "AS136083",
+    "count": "512"
+  },
+  {
+    "name": "PT PRADIPA SAPTA MEDIA",
+    "asn": "AS136086",
+    "count": "512"
+  },
+  {
+    "name": "Kementerian Ketenagakerjaan RI",
+    "asn": "AS136087",
+    "count": "512"
+  },
+  {
+    "name": "PT DAYA AKSES NUSANTARA",
+    "asn": "AS136092",
+    "count": "512"
+  },
+  {
+    "name": "PT. Timerindo Perkasa International",
+    "asn": "AS136095",
+    "count": "512"
+  },
+  {
+    "name": "PT. IDMARCO PERKASA INDONESIA",
+    "asn": "AS136097",
+    "count": "512"
+  },
+  {
+    "name": "Badan Kepegawaian Negara",
+    "asn": "AS136098",
+    "count": "512"
+  },
+  {
+    "name": "Universitas Teknologi Yogyakarta",
+    "asn": "AS136112",
+    "count": "512"
+  },
+  {
+    "name": "PT Bank Pembangunan Daerah Jawa Barat & Banten",
+    "asn": "AS136117",
+    "count": "512"
+  },
+  {
+    "name": "PT Telemarketing Indonesia",
+    "asn": "AS136123",
+    "count": "512"
+  },
+  {
+    "name": "PT. BLUE BIRD Tbk",
+    "asn": "AS136126",
+    "count": "512"
+  },
+  {
+    "name": "PT CITRA AKSES INDONUSA",
+    "asn": "AS136128",
+    "count": "512"
+  },
+  {
+    "name": "Kementerian Koordinator Bidang Kemaritiman RI",
+    "asn": "AS136129",
+    "count": "512"
+  },
+  {
+    "name": "PT Tiga Satu Cyber Network",
+    "asn": "AS136131",
+    "count": "512"
+  },
+  {
+    "name": "PT TRIMEDIA SETIYA DATA",
+    "asn": "AS136821",
+    "count": "512"
+  },
+  {
+    "name": "Universitas PGRI Semarang",
+    "asn": "AS136827",
+    "count": "512"
+  },
+  {
+    "name": "PT ASURANSI JIWA MANULIFE INDONESIA",
+    "asn": "AS136830",
+    "count": "512"
+  },
+  {
+    "name": "PT. Docotel Teknologi",
+    "asn": "AS136832",
+    "count": "512"
+  },
+  {
+    "name": "Universitas Muhammadiyah Palembang",
+    "asn": "AS136837",
+    "count": "512"
+  },
+  {
+    "name": "PT Apik Media Inovasi",
+    "asn": "AS136845",
+    "count": "512"
+  },
+  {
+    "name": "PT. ASURANSI JIWA INHEALTH INDONESIA",
+    "asn": "AS136857",
+    "count": "512"
+  },
+  {
+    "name": "PT XL Planet",
+    "asn": "AS136858",
+    "count": "512"
+  },
+  {
+    "name": "PT Mega Medica Pharmaceuticals",
+    "asn": "AS136860",
+    "count": "512"
+  },
+  {
+    "name": "PT. GLOBAL MEDIA REMBANG",
+    "asn": "AS136865",
+    "count": "512"
+  },
+  {
+    "name": "PT. Teltranet Aplikasi Solusi (Telkomtelstra)",
+    "asn": "AS136867",
+    "count": "512"
+  },
+  {
+    "name": "PT Global Mediacom Tbk",
+    "asn": "AS136870",
+    "count": "512"
+  },
+  {
+    "name": "PT Global Digital Niaga",
+    "asn": "AS136872",
+    "count": "512"
+  },
+  {
+    "name": "PT Solusi Inforindo Prima",
+    "asn": "AS136875",
+    "count": "512"
+  },
+  {
+    "name": "Universitas Nahdlatul Ulama Surabaya",
+    "asn": "AS136883",
+    "count": "512"
+  },
+  {
+    "name": "PT Petro One Indonesia",
+    "asn": "AS136888",
+    "count": "512"
+  },
+  {
+    "name": "DINAS KOMUNIKASI DAN INFORMATIKA KAB. BEKASI",
+    "asn": "AS137287",
+    "count": "512"
+  },
+  {
+    "name": "PT. INTI DUNIA SUKSES",
+    "asn": "AS137305",
+    "count": "512"
+  },
+  {
+    "name": "Kementerian Koordinator Bidang Perekonomian",
+    "asn": "AS137313",
+    "count": "512"
+  },
+  {
+    "name": "DINAS KOMINFO PEMDA PAPUA BARAT",
+    "asn": "AS137323",
+    "count": "512"
+  },
+  {
+    "name": "Universitas Hang Tuah",
+    "asn": "AS137327",
+    "count": "512"
+  },
+  {
+    "name": "PT Pisangmas Rayatama Perkasa",
+    "asn": "AS137330",
+    "count": "512"
+  },
+  {
+    "name": "PT Phinisi Media Indonesia",
+    "asn": "AS137334",
+    "count": "512"
+  },
+  {
+    "name": "Dinas Komunikasi dan Informatika Pemerintah Kota Depok",
+    "asn": "AS137340",
+    "count": "512"
+  },
+  {
+    "name": "PT. Sigra Adhi Sejahtera",
+    "asn": "AS137341",
+    "count": "512"
+  },
+  {
+    "name": "PT. GEMILANG SARANA MANDIRI",
+    "asn": "AS137349",
+    "count": "512"
+  },
+  {
+    "name": "PT. Cloudata Indonesia",
+    "asn": "AS137352",
+    "count": "512"
+  },
+  {
+    "name": "PT. Data Sinergitama Jaya",
+    "asn": "AS137354",
+    "count": "512"
+  },
+  {
+    "name": "PT iForte Solusi Infotek - NAP",
+    "asn": "AS137366",
+    "count": "512"
+  },
+  {
+    "name": "Dinas Komunikasi, Informatika dan Statistik Provinsi Bali",
+    "asn": "AS137374",
+    "count": "512"
+  },
+  {
+    "name": "PT. Mandiri Sekuritas",
+    "asn": "AS137383",
+    "count": "512"
+  },
+  {
+    "name": "PT. Global Oase Indonesia",
+    "asn": "AS138049",
+    "count": "512"
+  },
+  {
+    "name": "Dinas Komunikasi Provins Jawa Barat",
+    "asn": "AS138050",
+    "count": "512"
+  },
+  {
+    "name": "PT .Bank Common Wealth",
+    "asn": "AS138054",
+    "count": "512"
+  },
+  {
+    "name": "PT. JABARMAYA KRIYA SENTOSA",
+    "asn": "AS138056",
+    "count": "512"
+  },
+  {
+    "name": "PT Teknovatus Solusi Sejahtera",
+    "asn": "AS138065",
+    "count": "512"
+  },
+  {
+    "name": "PEMERINTAH PROVINSI KALIMANTAN TENGAH",
+    "asn": "AS138071",
+    "count": "512"
+  },
+  {
+    "name": "PT ELNUSA Tbk",
+    "asn": "AS138073",
+    "count": "512"
+  },
+  {
+    "name": "PT Pos Indonesia (Persero)",
+    "asn": "AS138076",
+    "count": "512"
+  },
+  {
+    "name": "PT. Supra Boga Lestari",
+    "asn": "AS138083",
+    "count": "512"
+  },
+  {
+    "name": "MAHKAMAH KONSTITUSI RI",
+    "asn": "AS138086",
+    "count": "512"
+  },
+  {
+    "name": "PT. LINTASMAYA MULTI MEDIA",
+    "asn": "AS138093",
+    "count": "512"
+  },
+  {
+    "name": "PT Melon Indonesia",
+    "asn": "AS138098",
+    "count": "512"
+  },
+  {
+    "name": "Kementerian Desa, Pembangunan Daerah Tertinggal dan Transmigrasi",
+    "asn": "AS138105",
+    "count": "512"
+  },
+  {
+    "name": "Diskominfo Kabupaten Tangerang",
+    "asn": "AS138114",
+    "count": "512"
+  },
+  {
+    "name": "PT Deneva",
+    "asn": "AS138115",
+    "count": "512"
+  },
+  {
+    "name": "PT. Solusindo Basis Teknologi",
+    "asn": "AS138117",
+    "count": "512"
+  },
+  {
+    "name": "PT Mandiri Citra Informasi Teknologi",
+    "asn": "AS138125",
+    "count": "512"
+  },
+  {
+    "name": "PEMERINTAH KABUPATEN MADIUN",
+    "asn": "AS138127",
+    "count": "512"
+  },
+  {
+    "name": "CV. NATANETWORK SOLUTION",
+    "asn": "AS138131",
+    "count": "512"
+  },
+  {
+    "name": "PT Tunas Link Indonesia",
+    "asn": "AS138134",
+    "count": "512"
+  },
+  {
+    "name": "PT. Waluya Istana Nusantara",
+    "asn": "AS138141",
+    "count": "512"
+  },
+  {
+    "name": "Dinas Komunikasi dan Informatika Kota Malang",
+    "asn": "AS138805",
+    "count": "512"
+  },
+  {
+    "name": "PT Sakalaguna Semesta",
+    "asn": "AS138811",
+    "count": "512"
+  },
+  {
+    "name": "PT Jaya Komunikasi Indonesia",
+    "asn": "AS138822",
+    "count": "512"
+  },
+  {
+    "name": "PT. Gemilang Jaya Elektrindo",
+    "asn": "AS138824",
+    "count": "512"
+  },
+  {
+    "name": "PT TELIO INTI NUSA",
+    "asn": "AS138828",
+    "count": "512"
+  },
+  {
+    "name": "PT Capoeng Digital Nusantara",
+    "asn": "AS138829",
+    "count": "512"
+  },
+  {
+    "name": "Dinas Komunikasi dan Informatika Kota Tebing Tinggi",
+    "asn": "AS138832",
+    "count": "512"
+  },
+  {
+    "name": "PT Andi Internet Globalindo",
+    "asn": "AS138833",
+    "count": "512"
+  },
+  {
+    "name": "PT. TRI DATU TELEKOMUNIKASI",
+    "asn": "AS138837",
+    "count": "512"
+  },
+  {
+    "name": "PT NET Super Cepat",
+    "asn": "AS138838",
+    "count": "512"
+  },
+  {
+    "name": "PT Internetwork Komunikasi Indonesia",
+    "asn": "AS138842",
+    "count": "512"
+  },
+  {
+    "name": "PT GLOBAL LINTAS SOLUSI",
+    "asn": "AS138843",
+    "count": "512"
+  },
+  {
+    "name": "PT Akses Prima Indonesia",
+    "asn": "AS138845",
+    "count": "512"
+  },
+  {
+    "name": "PT. Trimitra Media Internet",
+    "asn": "AS138849",
+    "count": "512"
+  },
+  {
+    "name": "Dinas Komunikasi dan Informatika Kabupaten Badung",
+    "asn": "AS138852",
+    "count": "512"
+  },
+  {
+    "name": "PT INTER MEDIALINK SOLUSI",
+    "asn": "AS138854",
+    "count": "512"
+  },
+  {
+    "name": "PT BANK BRIsyariah",
+    "asn": "AS138856",
+    "count": "512"
+  },
+  {
+    "name": "PEMERINTAH DAERAH KABUPATEN JAYAPURA",
+    "asn": "AS138858",
+    "count": "512"
+  },
+  {
+    "name": "PT. JAYA LINTAS INDONESIA",
+    "asn": "AS138860",
+    "count": "512"
+  },
+  {
+    "name": "PT. DIGITAL NETWORK SETIAWAN",
+    "asn": "AS138862",
+    "count": "512"
+  },
+  {
+    "name": "PT BERNOFARM",
+    "asn": "AS138863",
+    "count": "512"
+  },
+  {
+    "name": "PT. PRIMA NUSANTARA TELEKOMUNIKASI",
+    "asn": "AS138865",
+    "count": "512"
+  },
+  {
+    "name": "PT Mitra Media Data",
+    "asn": "AS138866",
+    "count": "512"
+  },
+  {
+    "name": "CV. RUMAH CLOUD INDONESIA",
+    "asn": "AS138868",
+    "count": "512"
+  },
+  {
+    "name": "PT GREEN NET INDONESIA",
+    "asn": "AS138873",
+    "count": "512"
+  },
+  {
+    "name": "PT Anugerah Pratama Indonesia",
+    "asn": "AS138874",
+    "count": "512"
+  },
+  {
+    "name": "PT Inetindo Terestrial Solusi",
+    "asn": "AS138875",
+    "count": "512"
+  },
+  {
+    "name": "CV. Saranaindo",
+    "asn": "AS138876",
+    "count": "512"
+  },
+  {
+    "name": "PT. SHEN SAMUDRA INTERKONEKSI",
+    "asn": "AS138877",
+    "count": "512"
+  },
+  {
+    "name": "PT INDONESIA TRANS NETWORK",
+    "asn": "AS138881",
+    "count": "512"
+  },
+  {
+    "name": "PT Centronet Data Indonesia",
+    "asn": "AS138884",
+    "count": "512"
+  },
+  {
+    "name": "PT Data Buana Nusantara",
+    "asn": "AS138886",
+    "count": "512"
+  },
+  {
+    "name": "PT ADIZKA LINTAS DATA",
+    "asn": "AS138887",
+    "count": "512"
+  },
+  {
+    "name": "PT. Kayong Muara Teknoindo",
+    "asn": "AS138891",
+    "count": "512"
+  },
+  {
+    "name": "Pemerintah Kota Padang",
+    "asn": "AS138892",
+    "count": "512"
+  },
+  {
+    "name": "PT ASLI Rancangan Indonesia",
+    "asn": "AS138894",
+    "count": "512"
+  },
+  {
+    "name": "PT. Global Komunikasi Mandiri",
+    "asn": "AS138895",
+    "count": "512"
+  },
+  {
+    "name": "PT. TIWU TELU ONLINE",
+    "asn": "AS138896",
+    "count": "512"
+  },
+  {
+    "name": "Dinas Komunikasi dan Informatika Kabupaten Blitar",
+    "asn": "AS138901",
+    "count": "512"
+  },
+  {
+    "name": "PT Anugerah General Netindo",
+    "asn": "AS139361",
+    "count": "512"
+  },
+  {
+    "name": "PT Amerta Indah Otsuka",
+    "asn": "AS139363",
+    "count": "512"
+  },
+  {
+    "name": "PT PATRIA LINTAS JAYA",
+    "asn": "AS139365",
+    "count": "512"
+  },
+  {
+    "name": "PT Higo Fitur Indonesia",
+    "asn": "AS139366",
+    "count": "512"
+  },
+  {
+    "name": "Dinas Kominfo Kota Jambi",
+    "asn": "AS139367",
+    "count": "512"
+  },
+  {
+    "name": "Dinas Komunikasi Dan Informatika Pemerintah Provinsi Kalimantan Selatan",
+    "asn": "AS139368",
+    "count": "512"
+  },
+  {
+    "name": "PT. UTARA NUSA MEDIA",
+    "asn": "AS139369",
+    "count": "512"
+  },
+  {
+    "name": "PT. Panji Perkasa Indonesia",
+    "asn": "AS139370",
+    "count": "512"
+  },
+  {
+    "name": "PT Bank Agris Tbk",
+    "asn": "AS139371",
+    "count": "512"
+  },
+  {
+    "name": "PT Akses Artha Media",
+    "asn": "AS139373",
+    "count": "512"
+  },
+  {
+    "name": "Pemerintah Kabupaten Jombang",
+    "asn": "AS139375",
+    "count": "512"
+  },
+  {
+    "name": "Universitas Sultan Ageng Tirtayasa",
+    "asn": "AS139377",
+    "count": "512"
+  },
+  {
+    "name": "PT. NEX Solusi Teknologi",
+    "asn": "AS139378",
+    "count": "512"
+  },
+  {
+    "name": "PT Theko Digital Solusindo",
+    "asn": "AS139379",
+    "count": "512"
+  },
+  {
+    "name": "PT Multi Teknologi Telematika",
+    "asn": "AS139382",
+    "count": "512"
+  },
+  {
+    "name": "PT Nusantara Sejahtera Raya",
+    "asn": "AS139386",
+    "count": "512"
+  },
+  {
+    "name": "Pemerintah Kabupaten Gresik",
+    "asn": "AS139387",
+    "count": "512"
+  },
+  {
+    "name": "PT. Marawa Transmisi Media",
+    "asn": "AS139389",
+    "count": "512"
+  },
+  {
+    "name": "PT Langit Mandiri Sukses",
+    "asn": "AS139390",
+    "count": "512"
+  },
+  {
+    "name": "PT KREASI MANDALA TEKNOLOGI",
+    "asn": "AS139393",
+    "count": "512"
+  },
+  {
+    "name": "PT Patra Drilling Contractor",
+    "asn": "AS139394",
+    "count": "512"
+  },
+  {
+    "name": "CV. Inti Berkat",
+    "asn": "AS139395",
+    "count": "512"
+  },
+  {
+    "name": "PT PELANGI SURYA PERSADA",
+    "asn": "AS139401",
+    "count": "512"
+  },
+  {
+    "name": "Pemerintah Kabupaten Pesisir Selatan",
+    "asn": "AS139402",
+    "count": "512"
+  },
+  {
+    "name": "PT SOLUSI SURYA DESWATA",
+    "asn": "AS139406",
+    "count": "512"
+  },
+  {
+    "name": "PT Sanatel",
+    "asn": "AS139408",
+    "count": "512"
+  },
+  {
+    "name": "PT JERNIH MULTI KOMUNIKASI",
+    "asn": "AS139409",
+    "count": "512"
+  },
+  {
+    "name": "PT Zegen Laraka Utama",
+    "asn": "AS139412",
+    "count": "512"
+  },
+  {
+    "name": "PT Trinity Teknologi Nusantara",
+    "asn": "AS139415",
+    "count": "512"
+  },
+  {
+    "name": "PT Gasatek Bintang Nusantara",
+    "asn": "AS139418",
+    "count": "512"
+  },
+  {
+    "name": "PT Dharma Sarana Solusindo",
+    "asn": "AS139421",
+    "count": "512"
+  },
+  {
+    "name": "PT. BIG NET INDONESIA",
+    "asn": "AS139424",
+    "count": "512"
+  },
+  {
+    "name": "PT RESTU PANCA ALAM",
+    "asn": "AS139425",
+    "count": "512"
+  },
+  {
+    "name": "PT. Media Nusantara Dinamis",
+    "asn": "AS139430",
+    "count": "512"
+  },
+  {
+    "name": "PT. Integrasi Jasa Nusantara",
+    "asn": "AS139431",
+    "count": "512"
+  },
+  {
+    "name": "PT Sakaeng Solata Infrastruktur",
+    "asn": "AS139433",
+    "count": "512"
+  },
+  {
+    "name": "PT SWADAYA TEKNO SOLUSI",
+    "asn": "AS139435",
+    "count": "512"
+  },
+  {
+    "name": "PT Pembangunan Sarana Telematika",
+    "asn": "AS139438",
+    "count": "512"
+  },
+  {
+    "name": "PT Tiga Putra Pandawa",
+    "asn": "AS139440",
+    "count": "512"
+  },
+  {
+    "name": "PT. Gonet Teknologi Indonesia",
+    "asn": "AS139446",
+    "count": "512"
+  },
+  {
+    "name": "PT Lintas Data Multimedia",
+    "asn": "AS139449",
+    "count": "512"
+  },
+  {
+    "name": "PT FASTRATA BUANA",
+    "asn": "AS139453",
+    "count": "512"
+  },
+  {
+    "name": "PT. KERETA COMMUTER INDONESIA (KCI)",
+    "asn": "AS139454",
+    "count": "512"
+  },
+  {
+    "name": "PT Mikro Mulia Agung Sentosa",
+    "asn": "AS139455",
+    "count": "512"
+  },
+  {
+    "name": "PT DEWAWEB",
+    "asn": "AS139456",
+    "count": "512"
+  },
+  {
+    "name": "Dinas Komunikasi dan Informatika Pemerintah Kota Probolinggo",
+    "asn": "AS139459",
+    "count": "512"
+  },
+  {
+    "name": "PT Kuantum Bhinneka Wishaka",
+    "asn": "AS139937",
+    "count": "512"
+  },
+  {
+    "name": "Dinas Komunikasi dan Informatika Kabupaten Sampang",
+    "asn": "AS139940",
+    "count": "512"
+  },
+  {
+    "name": "PT. Global Indo Multimedia",
+    "asn": "AS139944",
+    "count": "512"
+  },
+  {
+    "name": "Pemerintah Kabupaten Purbalingga",
+    "asn": "AS139945",
+    "count": "512"
+  },
+  {
+    "name": "PT. Teknologi Bumi Nusantara",
+    "asn": "AS139946",
+    "count": "512"
+  },
+  {
+    "name": "PT Sumber Teknologi Sejahtera",
+    "asn": "AS139947",
+    "count": "512"
+  },
+  {
+    "name": "PT. Bintang Kejora Teknologi",
+    "asn": "AS139949",
+    "count": "512"
+  },
+  {
+    "name": "PT Alfatih Indo Teknologi",
+    "asn": "AS139951",
+    "count": "512"
+  },
+  {
+    "name": "PT Trisari Data Indonusa",
+    "asn": "AS139952",
+    "count": "512"
+  },
+  {
+    "name": "PT DATA PRIMA SOLUSINDO",
+    "asn": "AS139955",
+    "count": "512"
+  },
+  {
+    "name": "Dinas Komunikasi Informatika dan Statistik Provinsi Lampung",
+    "asn": "AS139957",
+    "count": "512"
+  },
+  {
+    "name": "PT Fakta Jabbar Industri",
+    "asn": "AS139958",
+    "count": "512"
+  },
+  {
+    "name": "PT Wizzy Smart Technology",
+    "asn": "AS139961",
+    "count": "512"
+  },
+  {
+    "name": "PT.Bestcamp Prima Data",
+    "asn": "AS139962",
+    "count": "512"
+  },
+  {
+    "name": "PT. Edmasan Citra Telekomindo",
+    "asn": "AS139964",
+    "count": "512"
+  },
+  {
+    "name": "PT. QAULI AMALI INTEGRA",
+    "asn": "AS139966",
+    "count": "512"
+  },
+  {
+    "name": "PT. Yasmin Amanah Media",
+    "asn": "AS139967",
+    "count": "512"
+  },
+  {
+    "name": "PT JUNINDO",
+    "asn": "AS139969",
+    "count": "512"
+  },
+  {
+    "name": "PT. Medialink Intercontinental",
+    "asn": "AS139971",
+    "count": "512"
+  },
+  {
+    "name": "PT. Putra Lebak Banten",
+    "asn": "AS139972",
+    "count": "512"
+  },
+  {
+    "name": "PT PRISMA MEDIA NUSANTARA",
+    "asn": "AS139977",
+    "count": "512"
+  },
+  {
+    "name": "PT Jaringan Rtrwnet Nusantara",
+    "asn": "AS139978",
+    "count": "512"
+  },
+  {
+    "name": "PT. Menaksopal Link Nusantara",
+    "asn": "AS139981",
+    "count": "512"
+  },
+  {
+    "name": "PT Buana Visualnet Sentra",
+    "asn": "AS139982",
+    "count": "512"
+  },
+  {
+    "name": "PT. Borneo Cakrawala Media",
+    "asn": "AS139983",
+    "count": "512"
+  },
+  {
+    "name": "PT. HENAN PUTIHRAI SEKURITAS",
+    "asn": "AS139986",
+    "count": "512"
+  },
+  {
+    "name": "PT. GARUDA PRIMA INTERNETINDO",
+    "asn": "AS139988",
+    "count": "512"
+  },
+  {
+    "name": "CV Atha Media Prima",
+    "asn": "AS139989",
+    "count": "512"
+  },
+  {
+    "name": "PT. FORIT ASTA SOLUSINDO",
+    "asn": "AS139993",
+    "count": "512"
+  },
+  {
+    "name": "PT. Akashia Thuba Jaya",
+    "asn": "AS139995",
+    "count": "512"
+  },
+  {
+    "name": "PT Wortel",
+    "asn": "AS139997",
+    "count": "512"
+  },
+  {
+    "name": "SEKRETARIAT BADAN LITBANG DAN INOVASI KEMENTRIAN LINGKUNGAN HIDUP DAN KEHUTANAN",
+    "asn": "AS140001",
+    "count": "512"
+  },
+  {
+    "name": "DINAS KOMUNIKASI INFORMATIKA DAN STATISTIK KOTA BLITAR",
+    "asn": "AS140004",
+    "count": "512"
+  },
+  {
+    "name": "PT. DANKOM MITRA ABADI",
+    "asn": "AS140007",
+    "count": "512"
+  },
+  {
+    "name": "PT Inti Media Teknologi",
+    "asn": "AS140008",
+    "count": "512"
+  },
+  {
+    "name": "PT. Riau Satu Net",
+    "asn": "AS140009",
+    "count": "512"
+  },
+  {
+    "name": "PT. KRISNA BERKAT INVESTINDO",
+    "asn": "AS140011",
+    "count": "512"
+  },
+  {
+    "name": "PT Dewata Solusi Tehnologi",
+    "asn": "AS140012",
+    "count": "512"
+  },
+  {
+    "name": "PT. CYBER TEKNOLOGI PUTRAWAN",
+    "asn": "AS140018",
+    "count": "512"
+  },
+  {
+    "name": "PT Brankas Teknologi Indonesia",
+    "asn": "AS140021",
+    "count": "512"
+  },
+  {
+    "name": "Dinas Komunikasi dan Informatika Kota Madiun",
+    "asn": "AS140023",
+    "count": "512"
+  },
+  {
+    "name": "PT. KUPANG INTERMEDIA",
+    "asn": "AS140026",
+    "count": "512"
+  },
+  {
+    "name": "PT Brahmayasa Sejahtera Abadi",
+    "asn": "AS140028",
+    "count": "512"
+  },
+  {
+    "name": "PT BITNIAGA CIPTA GEMILANG",
+    "asn": "AS140384",
+    "count": "512"
+  },
+  {
+    "name": "PT Inti Tech Indonesia",
+    "asn": "AS140385",
+    "count": "512"
+  },
+  {
+    "name": "PT. Multi Terminal Indonesia",
+    "asn": "AS140387",
+    "count": "512"
+  },
+  {
+    "name": "PT BUROQ SARANA INFORMATIKA",
+    "asn": "AS140390",
+    "count": "512"
+  },
+  {
+    "name": "DIREKTORAT JENDERAL KEKAYAAN INTELEKTUAL KEMENTERIAN HUKUM DAN HAM REPUBLIK INDONESIA",
+    "asn": "AS140394",
+    "count": "512"
+  },
+  {
+    "name": "PT RADNET DIGITAL INDONESIA",
+    "asn": "AS140395",
+    "count": "512"
+  },
+  {
+    "name": "PT. PANDU PALAPA TELEMATIKA",
+    "asn": "AS140396",
+    "count": "512"
+  },
+  {
+    "name": "PT Proxi Jaringan Nusantara",
+    "asn": "AS140401",
+    "count": "512"
+  },
+  {
+    "name": "PT. ALGA JAYA SOLUSI",
+    "asn": "AS140402",
+    "count": "512"
+  },
+  {
+    "name": "PT TERABYTE INDONESIA",
+    "asn": "AS140404",
+    "count": "512"
+  },
+  {
+    "name": "KitaNet",
+    "asn": "AS140407",
+    "count": "512"
+  },
+  {
+    "name": "PT. GAYUH MEDIA INFORMATIKA",
+    "asn": "AS140413",
+    "count": "512"
+  },
+  {
+    "name": "PT Indotechno Digital Komputasi",
+    "asn": "AS140417",
+    "count": "512"
+  },
+  {
+    "name": "PT APLIKA DATA NUSANTARA",
+    "asn": "AS140421",
+    "count": "512"
+  },
+  {
+    "name": "PT Chandra Media Nusantara",
+    "asn": "AS140423",
+    "count": "512"
+  },
+  {
+    "name": "INDOSAT Internet Network Provider",
+    "asn": "AS17922",
+    "count": "512"
+  },
+  {
+    "name": "PT. Dongsuh Securities",
+    "asn": "AS18355",
+    "count": "512"
+  },
+  {
+    "name": "PT. Bank Mandiri (Persero) Tbk.",
+    "asn": "AS23954",
+    "count": "512"
+  },
+  {
+    "name": "PT. Bank Permata Tbk.",
+    "asn": "AS24205",
+    "count": "512"
+  },
+  {
+    "name": "Tentara Nasional Indonesia Angkatan Udara (TNI-AU)",
+    "asn": "AS38157",
+    "count": "512"
+  },
+  {
+    "name": "PT. Maxima Data",
+    "asn": "AS38509",
+    "count": "512"
+  },
+  {
+    "name": "KEMENTERIAN PERTANIAN REPUBLIK INDONESIA",
+    "asn": "AS38510",
+    "count": "512"
+  },
+  {
+    "name": "PT. Rekayasa Industri",
+    "asn": "AS38567",
+    "count": "512"
+  },
+  {
+    "name": "PT. Platinum Network Indonesia",
+    "asn": "AS38768",
+    "count": "512"
+  },
+  {
+    "name": "PT. Tangara Mitrakom",
+    "asn": "AS38770",
+    "count": "512"
+  },
+  {
+    "name": "Indonesia SIRT",
+    "asn": "AS38775",
+    "count": "512"
+  },
+  {
+    "name": "Badan Meteorologi dan Geofisika",
+    "asn": "AS38779",
+    "count": "512"
+  },
+  {
+    "name": "Universitas Terbuka",
+    "asn": "AS45293",
+    "count": "512"
+  },
+  {
+    "name": "PT AJN Solusindo",
+    "asn": "AS45300",
+    "count": "512"
+  },
+  {
+    "name": "Pusat Pelaporan dan Analisis Transaksi Keuangan",
+    "asn": "AS45696",
+    "count": "512"
+  },
+  {
+    "name": "Universitas Surabaya",
+    "asn": "AS45697",
+    "count": "512"
+  },
+  {
+    "name": "Badan Koordinasi Penanaman Modal (BKPM)",
+    "asn": "AS45703",
+    "count": "512"
+  },
+  {
+    "name": "Sampoerna Telekomunikasi Indonesia, PT",
+    "asn": "AS45714",
+    "count": "512"
+  },
+  {
+    "name": "Lembaga Pengelola Dana Bergulir",
+    "asn": "AS45720",
+    "count": "512"
+  },
+  {
+    "name": "Omadata Indonesia, PT",
+    "asn": "AS45723",
+    "count": "512"
+  },
+  {
+    "name": "Lion Mentari Airlines, PT",
+    "asn": "AS45726",
+    "count": "512"
+  },
+  {
+    "name": "Badan Koordinasi Survei dan Pemetaan Nasional (BAKOSURTANAL)",
+    "asn": "AS46017",
+    "count": "512"
+  },
+  {
+    "name": "Orange Garden Indonesia, PT",
+    "asn": "AS46020",
+    "count": "512"
+  },
+  {
+    "name": "PT ALIANSI SAKTI",
+    "asn": "AS46022",
+    "count": "512"
+  },
+  {
+    "name": "Direktorat Jenderal Pos dan Telekomunikasi (Dirjen Postel)",
+    "asn": "AS46027",
+    "count": "512"
+  },
+  {
+    "name": "Phillip Securities Indonesia, PT",
+    "asn": "AS46037",
+    "count": "512"
+  },
+  {
+    "name": "PT Trimegah Securities Tbk",
+    "asn": "AS46048",
+    "count": "512"
+  },
+  {
+    "name": "Universitas Muhammadiyah Malang",
+    "asn": "AS46057",
+    "count": "512"
+  },
+  {
+    "name": "PT. Triwahana Gemasakti",
+    "asn": "AS46058",
+    "count": "512"
+  },
+  {
+    "name": "Ministry of Transportation Republic of Indonesia",
+    "asn": "AS55656",
+    "count": "512"
+  },
+  {
+    "name": "PT Informasi Teknologi Indonesia",
+    "asn": "AS55661",
+    "count": "512"
+  },
+  {
+    "name": "PT Poros Network Nusantara",
+    "asn": "AS55663",
+    "count": "512"
+  },
+  {
+    "name": "Kantor Sistem Informasi Universitas Atma Jaya Yogyakarta",
+    "asn": "AS55680",
+    "count": "512"
+  },
+  {
+    "name": "CV Argon Data Interkoneksi",
+    "asn": "AS55683",
+    "count": "512"
+  },
+  {
+    "name": "Universitas Ciputra",
+    "asn": "AS55694",
+    "count": "512"
+  },
+  {
+    "name": "Starcom Solusindo PT.",
+    "asn": "AS55696",
+    "count": "512"
+  },
+  {
+    "name": "Universitas Sumatera Utara",
+    "asn": "AS55697",
+    "count": "512"
+  },
+  {
+    "name": "Gedung Kompas Gramedia Unit II Lantai 5",
+    "asn": "AS55825",
+    "count": "512"
+  },
+  {
+    "name": "PT ARTHA TELEKOMINDO",
+    "asn": "AS56060",
+    "count": "512"
+  },
+  {
+    "name": "PT KOMATSU INDONESIA",
+    "asn": "AS56235",
+    "count": "512"
+  },
+  {
+    "name": "Badan Narkotika Nasional",
+    "asn": "AS56236",
+    "count": "512"
+  },
+  {
+    "name": "PT DJARUM",
+    "asn": "AS56240",
+    "count": "512"
+  },
+  {
+    "name": "PT Transtech Communication Media",
+    "asn": "AS56255",
+    "count": "512"
+  },
+  {
+    "name": "Perpustakaan Nasional RI",
+    "asn": "AS56256",
+    "count": "512"
+  },
+  {
+    "name": "Balai Penyedia dan Pengelola Pembiayaan Telekomunikasi dan Informatika",
+    "asn": "AS56257",
+    "count": "512"
+  },
+  {
+    "name": "PT Pascal Indonesia",
+    "asn": "AS56260",
+    "count": "512"
+  },
+  {
+    "name": "Universitas Udayana",
+    "asn": "AS58375",
+    "count": "512"
+  },
+  {
+    "name": "PT. Faasri Utama Sakti",
+    "asn": "AS58390",
+    "count": "512"
+  },
+  {
+    "name": "PT Citra Media Solusindo",
+    "asn": "AS58391",
+    "count": "512"
+  },
+  {
+    "name": "Badan Pemeriksa Keuangan (BPK RI)",
+    "asn": "AS58394",
+    "count": "512"
+  },
+  {
+    "name": "PT. Indika Energy Tbk",
+    "asn": "AS58398",
+    "count": "512"
+  },
+  {
+    "name": "PT Infrastruktur Bisnis Sejahtera",
+    "asn": "AS58498",
+    "count": "512"
+  },
+  {
+    "name": "CV TIKA UTAMA",
+    "asn": "AS58499",
+    "count": "512"
+  },
+  {
+    "name": "PT Universal Komunikatama",
+    "asn": "AS58556",
+    "count": "512"
+  },
+  {
+    "name": "PT IONPay Networks",
+    "asn": "AS58557",
+    "count": "512"
+  },
+  {
+    "name": "PT Suraloka Digital Kreatif",
+    "asn": "AS59135",
+    "count": "512"
+  },
+  {
+    "name": "PT. Wijaya Karya",
+    "asn": "AS59143",
+    "count": "512"
+  },
+  {
+    "name": "BP Berau Indonesia",
+    "asn": "AS59146",
+    "count": "512"
+  },
+  {
+    "name": "PT Mitra Solusi Telematika",
+    "asn": "AS59274",
+    "count": "512"
+  },
+  {
+    "name": "PT Maximedia Cakrawala",
+    "asn": "AS59287",
+    "count": "512"
+  },
+  {
+    "name": "Lembaga Pengembangan Teknologi Informasi dan Komunikasi",
+    "asn": "AS63500",
+    "count": "512"
+  },
+  {
+    "name": "PT. Dhecyber Flow Indonesia",
+    "asn": "AS63502",
+    "count": "512"
+  },
+  {
+    "name": "Yayasan Panca Dharma",
+    "asn": "AS63504",
+    "count": "512"
+  },
+  {
+    "name": "Syiah Kuala University (Unsyiah)",
+    "asn": "AS63510",
+    "count": "512"
+  },
+  {
+    "name": "PT Universal Internet Service",
+    "asn": "AS63877",
+    "count": "512"
+  },
+  {
+    "name": "PT Giga Prima Lestari",
+    "asn": "AS63882",
+    "count": "512"
+  },
+  {
+    "name": "PT. AIA FINANCIAL",
+    "asn": "AS64020",
+    "count": "512"
+  },
+  {
+    "name": "UPN Veteran Surabaya",
+    "asn": "AS64298",
+    "count": "512"
+  },
+  {
+    "name": "PEMERINTAH KABUPATEN TEMANGGUNG",
+    "asn": "AS64306",
+    "count": "512"
+  },
+  {
+    "name": "PT. PRUDENTIAL LIFE ASSURANCE",
+    "asn": "AS64307",
+    "count": "512"
+  },
+  {
+    "name": "Home Credit Indonesia",
+    "asn": "AS64309",
+    "count": "512"
+  },
+  {
+    "name": "PT. INTEGRASI NETWORK PERKASA",
+    "asn": "AS64314",
+    "count": "512"
+  },
+  {
+    "name": "TRANSMEDIA-ID",
+    "asn": "AS7587",
+    "count": "512"
+  },
+  {
+    "name": "Universitas Hasanuddin",
+    "asn": "AS134614",
+    "count": "256"
+  },
+  {
+    "name": "PT GTA Indonesia",
+    "asn": "AS134613",
+    "count": "256"
+  },
+  {
+    "name": "PT. Garuda Media Telematika",
+    "asn": "AS136874",
+    "count": "256"
+  },
+  {
+    "name": "DINAS KOMINFO PASURUAN",
+    "asn": "AS138082",
+    "count": "256"
+  },
+  {
+    "name": "Institut Teknologi Nasional",
+    "asn": "AS136871",
+    "count": "256"
+  },
+  {
+    "name": "Institut Seni Indonesia Surakarta",
+    "asn": "AS136866",
+    "count": "256"
+  },
+  {
+    "name": "PT Jala Lintas Media",
+    "asn": "AS133840",
+    "count": "256"
+  },
+  {
+    "name": "PT Kalla Inti Karsa",
+    "asn": "AS136864",
+    "count": "256"
+  },
+  {
+    "name": "Kementerian Keuangan Ditjen Bea Cukai",
+    "asn": "AS131723",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Siliwangi",
+    "asn": "AS138078",
+    "count": "256"
+  },
+  {
+    "name": "IAIN Surakarta",
+    "asn": "AS55654",
+    "count": "256"
+  },
+  {
+    "name": "Badan SAR Nasional",
+    "asn": "AS63506",
+    "count": "256"
+  },
+  {
+    "name": "DINAS KOMUNIKASI DAN INFORMATIKA KOTA SERANG",
+    "asn": "AS136862",
+    "count": "256"
+  },
+  {
+    "name": "Pemerintah Kabupaten Bolaang Mongondow",
+    "asn": "AS140406",
+    "count": "256"
+  },
+  {
+    "name": "PT.KALBE FARMA Tbk",
+    "asn": "AS131721",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Negeri Manado",
+    "asn": "AS138066",
+    "count": "256"
+  },
+  {
+    "name": "CV Xtra Prosolusindo",
+    "asn": "AS133835",
+    "count": "256"
+  },
+  {
+    "name": "Politeknik Negeri Semarang",
+    "asn": "AS64030",
+    "count": "256"
+  },
+  {
+    "name": "PT. Personel Alih Daya",
+    "asn": "AS138063",
+    "count": "256"
+  },
+  {
+    "name": "PT MEISSA Berkah Teknologi",
+    "asn": "AS138061",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Mercu Buana Yogyakarta",
+    "asn": "AS133832",
+    "count": "256"
+  },
+  {
+    "name": "PT. DATAUTAMA DINAMIKA - NAP",
+    "asn": "AS139976",
+    "count": "256"
+  },
+  {
+    "name": "PT Diginet Media",
+    "asn": "AS136852",
+    "count": "256"
+  },
+  {
+    "name": "PT Jakarta International Container Terminal",
+    "asn": "AS131737",
+    "count": "256"
+  },
+  {
+    "name": "Kantor Dispenda Kota Batam",
+    "asn": "AS136849",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Pattimura",
+    "asn": "AS133825",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Islam Negeri Alauddin Makasar",
+    "asn": "AS133824",
+    "count": "256"
+  },
+  {
+    "name": "Infokom Elektrindo, PT.",
+    "asn": "AS38516",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Sanata Dharma",
+    "asn": "AS55672",
+    "count": "256"
+  },
+  {
+    "name": "PT Kereta Api Indonesia (Persero)",
+    "asn": "AS133822",
+    "count": "256"
+  },
+  {
+    "name": "Politeknik Negeri Lampung",
+    "asn": "AS140410",
+    "count": "256"
+  },
+  {
+    "name": "UNIVERSITAS PARAMADINA",
+    "asn": "AS140411",
+    "count": "256"
+  },
+  {
+    "name": "PEMERINTAH KABUPATEN PURWOREJO",
+    "asn": "AS138059",
+    "count": "256"
+  },
+  {
+    "name": "Dinas Perhubungan Kominfo Provinsi Sumatera Selatan",
+    "asn": "AS131719",
+    "count": "256"
+  },
+  {
+    "name": "KEMENTERIAN PARIWISATA DAN EKONOMI KREATIF",
+    "asn": "AS140014",
+    "count": "256"
+  },
+  {
+    "name": "Lembaga Layanan Pendidikan Tinggi Wilayah IV",
+    "asn": "AS138058",
+    "count": "256"
+  },
+  {
+    "name": "PT. VERBIND INTERNET SOLUSINDO",
+    "asn": "AS136844",
+    "count": "256"
+  },
+  {
+    "name": "Dinas Komunikasi dan Informatika Pemerintah Kota Semarang",
+    "asn": "AS136843",
+    "count": "256"
+  },
+  {
+    "name": "Kementrian Lingkungan Hidup",
+    "asn": "AS133816",
+    "count": "256"
+  },
+  {
+    "name": "STMIK AKAKOM",
+    "asn": "AS136839",
+    "count": "256"
+  },
+  {
+    "name": "PT Seameo Biotrop",
+    "asn": "AS136836",
+    "count": "256"
+  },
+  {
+    "name": "PT. GLobal Intermedia Nusantara",
+    "asn": "AS136835",
+    "count": "256"
+  },
+  {
+    "name": "PT.GLOBAL INTERNET DATA",
+    "asn": "AS139953",
+    "count": "256"
+  },
+  {
+    "name": "CV. NATANETWORK SOLUTION",
+    "asn": "AS139956",
+    "count": "256"
+  },
+  {
+    "name": "Politeknik Manufaktur Negeri Bandung",
+    "asn": "AS133805",
+    "count": "256"
+  },
+  {
+    "name": "POLITANI Pangkep",
+    "asn": "AS136834",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Pendidikan Indonesia",
+    "asn": "AS18394",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Multimedia Nusantara",
+    "asn": "AS55691",
+    "count": "256"
+  },
+  {
+    "name": "PT JASAMARGA TOLLROAD OPERATOR",
+    "asn": "AS140415",
+    "count": "256"
+  },
+  {
+    "name": "Subbid Sistem Jaringan dan Infrastruktur",
+    "asn": "AS133796",
+    "count": "256"
+  },
+  {
+    "name": "UNIVERSITAS MUHAMMADIYAH SEMARANG",
+    "asn": "AS136833",
+    "count": "256"
+  },
+  {
+    "name": "DINAS KOMUNIKASI DAN INFORMATIKA KUTAI KARTANEGARA",
+    "asn": "AS136831",
+    "count": "256"
+  },
+  {
+    "name": "Dinas Kominfo Kota Pekalongan",
+    "asn": "AS136829",
+    "count": "256"
+  },
+  {
+    "name": "PT Samudera Indonesia Tbk.",
+    "asn": "AS131697",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Bina Darma Palembang",
+    "asn": "AS136828",
+    "count": "256"
+  },
+  {
+    "name": "Dinas Komunikasi dan Informatika Pemerintah Kabupaten Cilacap",
+    "asn": "AS139992",
+    "count": "256"
+  },
+  {
+    "name": "Politeknik Pertanian Negeri Payakumbuh",
+    "asn": "AS136822",
+    "count": "256"
+  },
+  {
+    "name": "TRANSMEDIA INDONESIA, PT",
+    "asn": "AS38759",
+    "count": "256"
+  },
+  {
+    "name": "PT Sentra Data Persada",
+    "asn": "AS138051",
+    "count": "256"
+  },
+  {
+    "name": "PT. PARADIGMA MATRA INDONESIA",
+    "asn": "AS138048",
+    "count": "256"
+  },
+  {
+    "name": "PT. SURYAPUTRA ADIPRADANA",
+    "asn": "AS63498",
+    "count": "256"
+  },
+  {
+    "name": "INSTITUT BISNIS DAN INFORMATIKA STIKOM SURABAYA",
+    "asn": "AS138046",
+    "count": "256"
+  },
+  {
+    "name": "PANDI - Pengelola Nama Domain Internet Indonesia",
+    "asn": "AS56088",
+    "count": "256"
+  },
+  {
+    "name": "Telekomunikasi Indonesia International PT",
+    "asn": "AS136221",
+    "count": "256"
+  },
+  {
+    "name": "Pemerintah Kabupaten Tegal",
+    "asn": "AS136130",
+    "count": "256"
+  },
+  {
+    "name": "PT. ASTRA SEDAYA FINANCE",
+    "asn": "AS136125",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Islam Bandung",
+    "asn": "AS64303",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Advent Indonesia",
+    "asn": "AS140019",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Lampung",
+    "asn": "AS56237",
+    "count": "256"
+  },
+  {
+    "name": "PT. SURYAPUTRA ADIPRADANA",
+    "asn": "AS56238",
+    "count": "256"
+  },
+  {
+    "name": "TELKOM UNIVERSITY",
+    "asn": "AS133357",
+    "count": "256"
+  },
+  {
+    "name": "UNIVERSITAS MUHAMMADIYAH PONOROGO",
+    "asn": "AS64305",
+    "count": "256"
+  },
+  {
+    "name": "PT. Klik Indomaret Sukses",
+    "asn": "AS140020",
+    "count": "256"
+  },
+  {
+    "name": "Politeknik Negeri Bandung",
+    "asn": "AS133355",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Muhammadiyah Purwokerto",
+    "asn": "AS137384",
+    "count": "256"
+  },
+  {
+    "name": "Institut Seni Indonesia Yogyakarta",
+    "asn": "AS63876",
+    "count": "256"
+  },
+  {
+    "name": "PT. Enseval Putera Megatrading, Tbk",
+    "asn": "AS139979",
+    "count": "256"
+  },
+  {
+    "name": "PT INTEGRA INDOLESTARI",
+    "asn": "AS136120",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Mercubuana",
+    "asn": "AS136118",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Negeri Padang",
+    "asn": "AS63499",
+    "count": "256"
+  },
+  {
+    "name": "Internet Service Provider",
+    "asn": "AS131119",
+    "count": "256"
+  },
+  {
+    "name": "STMIK Indonesia Padang",
+    "asn": "AS136115",
+    "count": "256"
+  },
+  {
+    "name": "Dinas Komunikasi dan Informatika Kabupaten Grobogan",
+    "asn": "AS137381",
+    "count": "256"
+  },
+  {
+    "name": "PT. Kreatif Pasific",
+    "asn": "AS56252",
+    "count": "256"
+  },
+  {
+    "name": "PT Indo Premier Securities",
+    "asn": "AS133347",
+    "count": "256"
+  },
+  {
+    "name": "UNIVERSITAS RIAU",
+    "asn": "AS56254",
+    "count": "256"
+  },
+  {
+    "name": "PT MITRA VISIONER SOLUSINDO",
+    "asn": "AS137380",
+    "count": "256"
+  },
+  {
+    "name": "Diskominfo Kota Bekasi",
+    "asn": "AS137379",
+    "count": "256"
+  },
+  {
+    "name": "PT IndoDev Niaga Internet",
+    "asn": "AS64308",
+    "count": "256"
+  },
+  {
+    "name": "KEMENKO POLHUKAM RI",
+    "asn": "AS133345",
+    "count": "256"
+  },
+  {
+    "name": "PT MetraPlasa",
+    "asn": "AS133344",
+    "count": "256"
+  },
+  {
+    "name": "PT Pelabuhan Indonesia III (Persero)",
+    "asn": "AS140024",
+    "count": "256"
+  },
+  {
+    "name": "DINAS KOMUNIKASI INFORMATIKA STATISTIK DAN PERSANDIAN PROVINSI SULAWESI SELATAN",
+    "asn": "AS140424",
+    "count": "256"
+  },
+  {
+    "name": "PT Dunia Informasi Teknologi (TOPNET)",
+    "asn": "AS23946",
+    "count": "256"
+  },
+  {
+    "name": "UNIVERSITAS 17 AGUSTUS 1945 BANYUWANGI",
+    "asn": "AS136110",
+    "count": "256"
+  },
+  {
+    "name": "PDAM TIRTA RAHARJA",
+    "asn": "AS64310",
+    "count": "256"
+  },
+  {
+    "name": "PT IP NETWORK SOLUSINDO",
+    "asn": "AS136109",
+    "count": "256"
+  },
+  {
+    "name": "Association Of Southeast Asian Nation",
+    "asn": "AS137372",
+    "count": "256"
+  },
+  {
+    "name": "Dinas Komunikasi dan Informatika Kota Medan",
+    "asn": "AS137371",
+    "count": "256"
+  },
+  {
+    "name": "PT INTEGRAL DATA PRIMA",
+    "asn": "AS137369",
+    "count": "256"
+  },
+  {
+    "name": "IAIN Imam Bonjol Padang",
+    "asn": "AS136104",
+    "count": "256"
+  },
+  {
+    "name": "INSTITUT AGAMA ISLAM NEGERI (IAIN) PONOROGO",
+    "asn": "AS140025",
+    "count": "256"
+  },
+  {
+    "name": "Pusat Jantung Nasional Harapan Kita",
+    "asn": "AS136099",
+    "count": "256"
+  },
+  {
+    "name": "PT. Sejahtera Damai Bersama",
+    "asn": "AS58383",
+    "count": "256"
+  },
+  {
+    "name": "PT. Terminal Teluk Lamong",
+    "asn": "AS136096",
+    "count": "256"
+  },
+  {
+    "name": "Dinas Komunikasi, Informatika, Statistik dan Persandian Provinsi Banten",
+    "asn": "AS136091",
+    "count": "256"
+  },
+  {
+    "name": "Institut Agama Islam Negeri Raden Intan Lampung",
+    "asn": "AS136090",
+    "count": "256"
+  },
+  {
+    "name": "PT Menara Sinar Semesta",
+    "asn": "AS133337",
+    "count": "256"
+  },
+  {
+    "name": "Poltekkes Kemenkes Surakarta",
+    "asn": "AS137368",
+    "count": "256"
+  },
+  {
+    "name": "PT iForte Solusi Infotek - NAP",
+    "asn": "AS137367",
+    "count": "256"
+  },
+  {
+    "name": "PT. MAKMUR SUPRA NUSANTARA",
+    "asn": "AS136084",
+    "count": "256"
+  },
+  {
+    "name": "PT DUTA VISUAL NUSANTARA TIVI TUJUH",
+    "asn": "AS137365",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Islam Negeri Mataram",
+    "asn": "AS136077",
+    "count": "256"
+  },
+  {
+    "name": "Lembaga Kebijakan Pengadaan Barang/Jasa Pemerintah",
+    "asn": "AS136073",
+    "count": "256"
+  },
+  {
+    "name": "Network Access Provider and Internet Service Provider",
+    "asn": "AS131718",
+    "count": "256"
+  },
+  {
+    "name": "Politeknik Negeri Padang",
+    "asn": "AS133335",
+    "count": "256"
+  },
+  {
+    "name": "Internet Systems Consortium, Inc.",
+    "asn": "AS24048",
+    "count": "256"
+  },
+  {
+    "name": "Lembaga Ilmu Pengetahuan Indonesia - LIPI",
+    "asn": "AS45292",
+    "count": "256"
+  },
+  {
+    "name": "UIN Sunan Gunung Djati Bandung",
+    "asn": "AS63879",
+    "count": "256"
+  },
+  {
+    "name": "PPPPTK MATEMATIKA",
+    "asn": "AS136071",
+    "count": "256"
+  },
+  {
+    "name": "UNIVERSITAS SAM RATULANGI",
+    "asn": "AS136070",
+    "count": "256"
+  },
+  {
+    "name": "PT. DEWATA TELEMATIKA",
+    "asn": "AS58401",
+    "count": "256"
+  },
+  {
+    "name": "PT Pelabuhan Indonesia III (Persero)",
+    "asn": "AS63511",
+    "count": "256"
+  },
+  {
+    "name": "Bank Pembangunan Daerah DIY",
+    "asn": "AS58403",
+    "count": "256"
+  },
+  {
+    "name": "PT. AIA FINANCIAL, Insurance company, Indonesia",
+    "asn": "AS24057",
+    "count": "256"
+  },
+  {
+    "name": "PT. Ruang Siber Indonesia",
+    "asn": "AS140027",
+    "count": "256"
+  },
+  {
+    "name": "DINAS KOMUNIKASI DAN INFORMATIKA KABUPATEN TABANAN",
+    "asn": "AS139996",
+    "count": "256"
+  },
+  {
+    "name": "Badan Pendapatan Daerah Provinsi Riau",
+    "asn": "AS137364",
+    "count": "256"
+  },
+  {
+    "name": "PUSAT LITBANG SUMBER DAYA AIR",
+    "asn": "AS140029",
+    "count": "256"
+  },
+  {
+    "name": "DINAS KOMUNIKASI DAN INFORMATIKA KABUPATEN PEKALONGAN",
+    "asn": "AS140030",
+    "count": "256"
+  },
+  {
+    "name": "PT. Datakom Wijaya Pratama",
+    "asn": "AS24198",
+    "count": "256"
+  },
+  {
+    "name": "Pemerintah Kota Surakarta",
+    "asn": "AS137362",
+    "count": "256"
+  },
+  {
+    "name": "PDAM SURYA SEMBADA KOTA SURABAYA",
+    "asn": "AS136063",
+    "count": "256"
+  },
+  {
+    "name": "KHASANAH TEKNOLOGI PERSADA, PT",
+    "asn": "AS45306",
+    "count": "256"
+  },
+  {
+    "name": "Pusat Litbang Perumahan dan Permukiman Badan Penelitian dan Pengembangan",
+    "asn": "AS138807",
+    "count": "256"
+  },
+  {
+    "name": "DISKOMINFO Kab. Magelang",
+    "asn": "AS137361",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Muhammadiyah Surabaya",
+    "asn": "AS137360",
+    "count": "256"
+  },
+  {
+    "name": "Dinas Komunikasi dan Informatika Kabupaten Wonogiri",
+    "asn": "AS140431",
+    "count": "256"
+  },
+  {
+    "name": "PT BUKIT MAKMUR MANDIRI UTAMA",
+    "asn": "AS137357",
+    "count": "256"
+  },
+  {
+    "name": "PT Global Kassa Sejahtera",
+    "asn": "AS138812",
+    "count": "256"
+  },
+  {
+    "name": "Bank Indonesia",
+    "asn": "AS138813",
+    "count": "256"
+  },
+  {
+    "name": "PT Telemedia Prima Nusantara",
+    "asn": "AS138814",
+    "count": "256"
+  },
+  {
+    "name": "Universitas PGRI Yogyakarta",
+    "asn": "AS137356",
+    "count": "256"
+  },
+  {
+    "name": "Pemerintah Kabupaten Banjar",
+    "asn": "AS138816",
+    "count": "256"
+  },
+  {
+    "name": "PT ITS Tekno Sains",
+    "asn": "AS138817",
+    "count": "256"
+  },
+  {
+    "name": "PT. Jurnal Consulting Indonesia",
+    "asn": "AS136062",
+    "count": "256"
+  },
+  {
+    "name": "UNIVERSITAS TRUNOJOYO MADURA",
+    "asn": "AS136058",
+    "count": "256"
+  },
+  {
+    "name": "Medco E&P Indonesia, PT",
+    "asn": "AS45314",
+    "count": "256"
+  },
+  {
+    "name": "PT. INFINETWORKS GLOBAL",
+    "asn": "AS136053",
+    "count": "256"
+  },
+  {
+    "name": "Dinas Komunikasi Informasi Kota Tasikmalaya",
+    "asn": "AS139980",
+    "count": "256"
+  },
+  {
+    "name": "Institut Agama Islam Negeri Kediri",
+    "asn": "AS138144",
+    "count": "256"
+  },
+  {
+    "name": "PT Aseli Dagadu Djokdja",
+    "asn": "AS132670",
+    "count": "256"
+  },
+  {
+    "name": "LPSE Kota Makassar",
+    "asn": "AS138825",
+    "count": "256"
+  },
+  {
+    "name": "IDREN - Indonesia Research and Education Network",
+    "asn": "AS138826",
+    "count": "256"
+  },
+  {
+    "name": "Politeknik Negeri Samarinda",
+    "asn": "AS139960",
+    "count": "256"
+  },
+  {
+    "name": "Trisakti University",
+    "asn": "AS58479",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Jambi",
+    "asn": "AS132667",
+    "count": "256"
+  },
+  {
+    "name": "Institut Teknologi Sumatera",
+    "asn": "AS45318",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Bhayangkara",
+    "asn": "AS45319",
+    "count": "256"
+  },
+  {
+    "name": "DINAS KOMINFO KABUPATEN PAKPAK BHARAT",
+    "asn": "AS137353",
+    "count": "256"
+  },
+  {
+    "name": "PT. Merah Cipta Media",
+    "asn": "AS132664",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Mulawarman",
+    "asn": "AS131754",
+    "count": "256"
+  },
+  {
+    "name": "DINAS KOMUNIKASI DAN INFORMATIKA KABUPATEN PACITAN",
+    "asn": "AS138835",
+    "count": "256"
+  },
+  {
+    "name": "Dinas Komunikasi dan Informatisa Kabupaten OKU",
+    "asn": "AS138836",
+    "count": "256"
+  },
+  {
+    "name": "PT. Djaya Sampoerna Net",
+    "asn": "AS137351",
+    "count": "256"
+  },
+  {
+    "name": "PT. PRATESIS",
+    "asn": "AS58484",
+    "count": "256"
+  },
+  {
+    "name": "Institut Informatika & Bisnis Darmajaya",
+    "asn": "AS138142",
+    "count": "256"
+  },
+  {
+    "name": "PT. PARSAORAN GLOBAL DATATRANS - NAP",
+    "asn": "AS138840",
+    "count": "256"
+  },
+  {
+    "name": "CV. E-Smart B",
+    "asn": "AS140435",
+    "count": "256"
+  },
+  {
+    "name": "PT. Lotte Data Communication Indonesia (LDCI)",
+    "asn": "AS132662",
+    "count": "256"
+  },
+  {
+    "name": "PT. Intelex Technet Global",
+    "asn": "AS58486",
+    "count": "256"
+  },
+  {
+    "name": "PT. PERTAMINA BINA MEDIKA",
+    "asn": "AS138844",
+    "count": "256"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS132661",
+    "count": "256"
+  },
+  {
+    "name": "DINAS KOMUNIKASI DAN INFORMATIKA PEMERINTAH KOTA TANJUNGBALAI",
+    "asn": "AS140436",
+    "count": "256"
+  },
+  {
+    "name": "Politeknik Ilmu Pelayaran Semarang",
+    "asn": "AS137347",
+    "count": "256"
+  },
+  {
+    "name": "Pemerintah Daerah Kabupaten Fakfak",
+    "asn": "AS138848",
+    "count": "256"
+  },
+  {
+    "name": "PT Cyber Network Indonesia",
+    "asn": "AS137346",
+    "count": "256"
+  },
+  {
+    "name": "Pemerintah Kota Palembang",
+    "asn": "AS138850",
+    "count": "256"
+  },
+  {
+    "name": "Pemerintah Kota Payakumbuh",
+    "asn": "AS138851",
+    "count": "256"
+  },
+  {
+    "name": "PT. Progressivmedia Indonesia",
+    "asn": "AS58489",
+    "count": "256"
+  },
+  {
+    "name": "PT LOTTE Data Communication Indonesia",
+    "asn": "AS138853",
+    "count": "256"
+  },
+  {
+    "name": "Pemerintah Kabupaten Muara Enim",
+    "asn": "AS139973",
+    "count": "256"
+  },
+  {
+    "name": "PUSAT PENGELOLAAN DANA PEMBIAYAAN PERUMAHAN (PPDPP)",
+    "asn": "AS140386",
+    "count": "256"
+  },
+  {
+    "name": "Dinas Komunikasi dan Informatika Provinsi Sumatera Utara",
+    "asn": "AS132658",
+    "count": "256"
+  },
+  {
+    "name": "KANTOR KESEHATAN PELABUHAN KELAS II SEMARANG",
+    "asn": "AS140002",
+    "count": "256"
+  },
+  {
+    "name": "PT Indomedia Solusi net",
+    "asn": "AS139984",
+    "count": "256"
+  },
+  {
+    "name": "Dinas Komunikasi dan Informatika Kabupaten Semarang",
+    "asn": "AS138859",
+    "count": "256"
+  },
+  {
+    "name": "Dinas Komunikasi dan Informatika Kabupaten Pinrang",
+    "asn": "AS137339",
+    "count": "256"
+  },
+  {
+    "name": "Dinas Komunikasi dan Informatika Kab. Hulu Sungai Tengah",
+    "asn": "AS139985",
+    "count": "256"
+  },
+  {
+    "name": "Koperasi PRIMKOKAS",
+    "asn": "AS131757",
+    "count": "256"
+  },
+  {
+    "name": "Pemerintah Daerah Provinsi Kalimantan Timur",
+    "asn": "AS24524",
+    "count": "256"
+  },
+  {
+    "name": "UNIVERSITAS MUHAMMADIYAH KUDUS",
+    "asn": "AS138864",
+    "count": "256"
+  },
+  {
+    "name": "Dinas Komunikasi dan Informatika Banjarnegara",
+    "asn": "AS137335",
+    "count": "256"
+  },
+  {
+    "name": "RSUP DR KARIADI",
+    "asn": "AS140006",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Komputer Indonesia",
+    "asn": "AS137332",
+    "count": "256"
+  },
+  {
+    "name": "PT. Nadyne Media Tama",
+    "asn": "AS63503",
+    "count": "256"
+  },
+  {
+    "name": "PT. GRAHAMEDIA INFORMASI",
+    "asn": "AS137326",
+    "count": "256"
+  },
+  {
+    "name": "PT Sanbe Farma",
+    "asn": "AS137325",
+    "count": "256"
+  },
+  {
+    "name": "IAIN Langsa",
+    "asn": "AS138122",
+    "count": "256"
+  },
+  {
+    "name": "Koordinasi Perguruan Tinggi Swasta (KOPERTIS) Wilayah X",
+    "asn": "AS137319",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Islam Negeri Raden Fatah Palembang",
+    "asn": "AS64316",
+    "count": "256"
+  },
+  {
+    "name": "UNTAR - YAYASAN TARUMANAGARA",
+    "asn": "AS135487",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Samudra",
+    "asn": "AS138124",
+    "count": "256"
+  },
+  {
+    "name": "PEMERINTAH KOTA KEDIRI",
+    "asn": "AS135485",
+    "count": "256"
+  },
+  {
+    "name": "Sekolah Tinggi Agama Islam Negeri (STAIN) Kudus",
+    "asn": "AS63884",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Muhammadiyah Sidoarjo",
+    "asn": "AS138878",
+    "count": "256"
+  },
+  {
+    "name": "DISKOMINFO KABUPATEN PATI",
+    "asn": "AS137318",
+    "count": "256"
+  },
+  {
+    "name": "CV Dwi Tunggal Abadi",
+    "asn": "AS138880",
+    "count": "256"
+  },
+  {
+    "name": "PT. WISESA CONSULTING INDONESIA",
+    "asn": "AS135483",
+    "count": "256"
+  },
+  {
+    "name": "PT Surya Anugrah Mulya",
+    "asn": "AS63517",
+    "count": "256"
+  },
+  {
+    "name": "Yayasan Pendidikan Universitas Presiden",
+    "asn": "AS135482",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Negeri Makassar",
+    "asn": "AS135481",
+    "count": "256"
+  },
+  {
+    "name": "PT Cyber Network Indonesia",
+    "asn": "AS138885",
+    "count": "256"
+  },
+  {
+    "name": "Politeknik Negeri Banyuwangi",
+    "asn": "AS137315",
+    "count": "256"
+  },
+  {
+    "name": "Politeknik Negeri Jember",
+    "asn": "AS137314",
+    "count": "256"
+  },
+  {
+    "name": "PT Bintang Komunikasi Utama",
+    "asn": "AS138889",
+    "count": "256"
+  },
+  {
+    "name": "PT. Bank Tabungan Pensiunan Nasional Tbk",
+    "asn": "AS135476",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Pembangunan Nasional Veteran Yogyakarta",
+    "asn": "AS63886",
+    "count": "256"
+  },
+  {
+    "name": "Pemerintah Kabupaten Banyuasin",
+    "asn": "AS135475",
+    "count": "256"
+  },
+  {
+    "name": "PT PRIMA MULTI TERMINAL",
+    "asn": "AS138893",
+    "count": "256"
+  },
+  {
+    "name": "UNIVERSITAS TIDAR",
+    "asn": "AS137312",
+    "count": "256"
+  },
+  {
+    "name": "PT ALTO Network",
+    "asn": "AS137309",
+    "count": "256"
+  },
+  {
+    "name": "Sekolah Tinggi Multi Media MMTC Yogyakarta",
+    "asn": "AS131112",
+    "count": "256"
+  },
+  {
+    "name": "IAIN SYEKHNURJATI",
+    "asn": "AS138897",
+    "count": "256"
+  },
+  {
+    "name": "Dinas Komunikasi, Informatika dan Statistik Provinsi Gorontalo",
+    "asn": "AS135469",
+    "count": "256"
+  },
+  {
+    "name": "PT. Mega Akses Persada",
+    "asn": "AS138899",
+    "count": "256"
+  },
+  {
+    "name": "PT. Bank Bukopin, Tbk",
+    "asn": "AS135467",
+    "count": "256"
+  },
+  {
+    "name": "PT Phinisi Global Data",
+    "asn": "AS135466",
+    "count": "256"
+  },
+  {
+    "name": "DISKOMINFO KLATEN",
+    "asn": "AS137308",
+    "count": "256"
+  },
+  {
+    "name": "PDE Setda Kabupaten Sukoharjo",
+    "asn": "AS135463",
+    "count": "256"
+  },
+  {
+    "name": "PT Republika Media Mandiri",
+    "asn": "AS58561",
+    "count": "256"
+  },
+  {
+    "name": "Pemerintah Kabupaten Gunungkidul",
+    "asn": "AS139364",
+    "count": "256"
+  },
+  {
+    "name": "Telekomunikasi Indonesia International PT",
+    "asn": "AS58815",
+    "count": "256"
+  },
+  {
+    "name": "IAIN Walisongo Semarang",
+    "asn": "AS132638",
+    "count": "256"
+  },
+  {
+    "name": "PT Pelabuhan Indonesia I (Persero)",
+    "asn": "AS135461",
+    "count": "256"
+  },
+  {
+    "name": "Dishubkominfo Kota Tegal",
+    "asn": "AS131726",
+    "count": "256"
+  },
+  {
+    "name": "Kementerian Koperasi dan Usaha Kecil dan Menengah RI",
+    "asn": "AS135456",
+    "count": "256"
+  },
+  {
+    "name": "UIN Sunan Ampel -  Surabaya",
+    "asn": "AS63505",
+    "count": "256"
+  },
+  {
+    "name": "PT Pelabuhan Indonesia II",
+    "asn": "AS131761",
+    "count": "256"
+  },
+  {
+    "name": "Institut Agama Islam Negeri Pekalongan",
+    "asn": "AS139372",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Negeri Surabaya",
+    "asn": "AS58822",
+    "count": "256"
+  },
+  {
+    "name": "Bagian Administrasi Pembangunan Pemerintah Kota Surabaya",
+    "asn": "AS45770",
+    "count": "256"
+  },
+  {
+    "name": "AXA Tech Indonesia",
+    "asn": "AS135454",
+    "count": "256"
+  },
+  {
+    "name": "Dinas Komunikasi Dan Informatika Prabumulih",
+    "asn": "AS137304",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Negeri Medan",
+    "asn": "AS58824",
+    "count": "256"
+  },
+  {
+    "name": "PT. AIA FINANCIAL",
+    "asn": "AS63941",
+    "count": "256"
+  },
+  {
+    "name": "Departemen Perindustrian Republik Indonesia",
+    "asn": "AS46018",
+    "count": "256"
+  },
+  {
+    "name": "PT BOMM AKSES TEKNOLOGI",
+    "asn": "AS139380",
+    "count": "256"
+  },
+  {
+    "name": "PT. Starcom Technology Indonesia",
+    "asn": "AS140397",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Katolik Soegijapranata",
+    "asn": "AS59131",
+    "count": "256"
+  },
+  {
+    "name": "DINAS KOMUNIKASI INFORMATIKA DAN STATISTIK PROVINSI RIAU",
+    "asn": "AS137302",
+    "count": "256"
+  },
+  {
+    "name": "Pemerintah Kota Mojokerto",
+    "asn": "AS139384",
+    "count": "256"
+  },
+  {
+    "name": "PT. LANTIP TEKNOLOGI PRIMA",
+    "asn": "AS139385",
+    "count": "256"
+  },
+  {
+    "name": "Bank Indonesia",
+    "asn": "AS59132",
+    "count": "256"
+  },
+  {
+    "name": "POLTEKKES KEMENKES YOGYAKARTA",
+    "asn": "AS137301",
+    "count": "256"
+  },
+  {
+    "name": "UIN AR-RANIRY",
+    "asn": "AS137300",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Malikussaleh",
+    "asn": "AS137299",
+    "count": "256"
+  },
+  {
+    "name": "PT. ASDP INDONESIAFERRY (PERSERO)",
+    "asn": "AS135442",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Muhammadiyah Kalimantan Timur",
+    "asn": "AS137297",
+    "count": "256"
+  },
+  {
+    "name": "PT APLIKA KARYA SOLUSI BISNIS",
+    "asn": "AS139392",
+    "count": "256"
+  },
+  {
+    "name": "PELABUHAN INDONESIA IV",
+    "asn": "AS135440",
+    "count": "256"
+  },
+  {
+    "name": "PUSDATIN KEMHAN RI",
+    "asn": "AS59137",
+    "count": "256"
+  },
+  {
+    "name": "Universitas STIKUBANK",
+    "asn": "AS59138",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Mataram",
+    "asn": "AS138136",
+    "count": "256"
+  },
+  {
+    "name": "Pemerintah Kabupaten Tanah Bumbu",
+    "asn": "AS138135",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Muslim Indonesia",
+    "asn": "AS138133",
+    "count": "256"
+  },
+  {
+    "name": "PT. FASTEL SARANA INDONESIA",
+    "asn": "AS138132",
+    "count": "256"
+  },
+  {
+    "name": "PT. Rak Super Ninja",
+    "asn": "AS139400",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Negeri Jakarta",
+    "asn": "AS131703",
+    "count": "256"
+  },
+  {
+    "name": "PT. Orion Data Teknologi",
+    "asn": "AS135035",
+    "count": "256"
+  },
+  {
+    "name": "PEMERINTAH KOTA PEMATANGSIANTAR",
+    "asn": "AS139403",
+    "count": "256"
+  },
+  {
+    "name": "Dinas Komunikasi Dan Informatika Kabupaten Natuna",
+    "asn": "AS140398",
+    "count": "256"
+  },
+  {
+    "name": "PT.MEDIA CIPTA TRIMETIKA",
+    "asn": "AS139405",
+    "count": "256"
+  },
+  {
+    "name": "SHINHAN INDO FINANCE",
+    "asn": "AS134661",
+    "count": "256"
+  },
+  {
+    "name": "Badan Pengelola Keuangan dan Aset Daerah Kota Batu",
+    "asn": "AS134660",
+    "count": "256"
+  },
+  {
+    "name": "Pemerintah Kota Batam",
+    "asn": "AS59142",
+    "count": "256"
+  },
+  {
+    "name": "Diskominfo DKI Jakarta",
+    "asn": "AS134659",
+    "count": "256"
+  },
+  {
+    "name": "PT Parsaoran Global Datatrans",
+    "asn": "AS140399",
+    "count": "256"
+  },
+  {
+    "name": "PT Mandiri Tunas Finance",
+    "asn": "AS138104",
+    "count": "256"
+  },
+  {
+    "name": "PT Trikomsel Oke Tbk",
+    "asn": "AS46035",
+    "count": "256"
+  },
+  {
+    "name": "Pertamina Hulu Energi ONWJ",
+    "asn": "AS17725",
+    "count": "256"
+  },
+  {
+    "name": "Pemerintah Kabupaten Kudus",
+    "asn": "AS139414",
+    "count": "256"
+  },
+  {
+    "name": "Pusat Hidrografi dan Oseanografi TNI Angkatan Laut",
+    "asn": "AS137294",
+    "count": "256"
+  },
+  {
+    "name": "INSTITUT AGAMA ISLAM NEGERI PURWOKERTO",
+    "asn": "AS140010",
+    "count": "256"
+  },
+  {
+    "name": "PT. Nawakara Perkasa Nusantara",
+    "asn": "AS138101",
+    "count": "256"
+  },
+  {
+    "name": "PT Vitya Persada Informatika",
+    "asn": "AS63860",
+    "count": "256"
+  },
+  {
+    "name": "DINAS KOMUNIKASI DAN INFORMATIKA PROVINSI KEPULAUAN RIAU",
+    "asn": "AS138097",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Muhammadiyah Prof. DR. HAMKA",
+    "asn": "AS134653",
+    "count": "256"
+  },
+  {
+    "name": "PT UNGARAN SARI GARMENTS",
+    "asn": "AS137288",
+    "count": "256"
+  },
+  {
+    "name": "Dinas Komunikasi dan Informatika Kota Balikpapan",
+    "asn": "AS139422",
+    "count": "256"
+  },
+  {
+    "name": "PT Rajawali Sinergi Group",
+    "asn": "AS139423",
+    "count": "256"
+  },
+  {
+    "name": "PT Sprint Asia Technology",
+    "asn": "AS131786",
+    "count": "256"
+  },
+  {
+    "name": "Sumber Daya Dan Perangkat Pos Dan Informatika SIMS",
+    "asn": "AS131784",
+    "count": "256"
+  },
+  {
+    "name": "PT Rinjani Citra Solusi",
+    "asn": "AS139426",
+    "count": "256"
+  },
+  {
+    "name": "PT Sinergi Inti Andalan Prima",
+    "asn": "AS138129",
+    "count": "256"
+  },
+  {
+    "name": "PT.LEXXA DATA INDONUSA",
+    "asn": "AS139428",
+    "count": "256"
+  },
+  {
+    "name": "PT ARTATEL INDOKARYA",
+    "asn": "AS139429",
+    "count": "256"
+  },
+  {
+    "name": "PT Orion Cyber Internet",
+    "asn": "AS131780",
+    "count": "256"
+  },
+  {
+    "name": "PPM Manajemen",
+    "asn": "AS134652",
+    "count": "256"
+  },
+  {
+    "name": "Diskominfo Kab. Bogor",
+    "asn": "AS139432",
+    "count": "256"
+  },
+  {
+    "name": "Politeknik Negeri Batam",
+    "asn": "AS134650",
+    "count": "256"
+  },
+  {
+    "name": "PT Reliance Sekuritas Indonesia, Tbk",
+    "asn": "AS139434",
+    "count": "256"
+  },
+  {
+    "name": "PT. METISKA FARMA",
+    "asn": "AS137285",
+    "count": "256"
+  },
+  {
+    "name": "PEMERINTAH KABUPATEN NGAWI",
+    "asn": "AS138095",
+    "count": "256"
+  },
+  {
+    "name": "Pemerintah Kabupaten Cirebon",
+    "asn": "AS64026",
+    "count": "256"
+  },
+  {
+    "name": "PT Vieda Prakarsa Indonesia",
+    "asn": "AS138094",
+    "count": "256"
+  },
+  {
+    "name": "Corporate / Direct Member IDNIC",
+    "asn": "AS139439",
+    "count": "256"
+  },
+  {
+    "name": "PEMERINTAH KABUPATEN MAGETAN",
+    "asn": "AS134641",
+    "count": "256"
+  },
+  {
+    "name": "Pemerintah Kabupaten Belitung Timur",
+    "asn": "AS139441",
+    "count": "256"
+  },
+  {
+    "name": "KEMENTERIAN HUKUM DAN HAK ASASI MANUSIA",
+    "asn": "AS139442",
+    "count": "256"
+  },
+  {
+    "name": "Institut Teknologi Nasional Yogyakarta",
+    "asn": "AS139443",
+    "count": "256"
+  },
+  {
+    "name": "PT.Tangara Mitrakom",
+    "asn": "AS134638",
+    "count": "256"
+  },
+  {
+    "name": "PT Adira Dinamika Multi Finance",
+    "asn": "AS139445",
+    "count": "256"
+  },
+  {
+    "name": "PT Mitra Persada Lentera Sejahtera",
+    "asn": "AS131772",
+    "count": "256"
+  },
+  {
+    "name": "PT Transportasi Jakarta",
+    "asn": "AS139447",
+    "count": "256"
+  },
+  {
+    "name": "PT Raharja Sinergi Komunikasi",
+    "asn": "AS139448",
+    "count": "256"
+  },
+  {
+    "name": "Sekolah Tinggi Kesejahteraan Sosial",
+    "asn": "AS59157",
+    "count": "256"
+  },
+  {
+    "name": "PT. FWD Life Indonesia",
+    "asn": "AS137002",
+    "count": "256"
+  },
+  {
+    "name": "PT. Nebula  Surya Corpora",
+    "asn": "AS138092",
+    "count": "256"
+  },
+  {
+    "name": "BADAN PENGELOLAAN KEUANGAN DAN ASET DAERAH KOTA MAKASSAR",
+    "asn": "AS131720",
+    "count": "256"
+  },
+  {
+    "name": "PT Mitra Pajakku",
+    "asn": "AS138091",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Kristen Satya Wacana",
+    "asn": "AS134627",
+    "count": "256"
+  },
+  {
+    "name": "Badan Kependudukan dan Keluarga Berencana Nasional",
+    "asn": "AS59160",
+    "count": "256"
+  },
+  {
+    "name": "DINAS KOMUNIKASI DAN INFORMATIKA KABUPATEN SIDOARJO",
+    "asn": "AS136889",
+    "count": "256"
+  },
+  {
+    "name": "PT Solnet Indonesia",
+    "asn": "AS138128",
+    "count": "256"
+  },
+  {
+    "name": "PT Matahari Putra Prima",
+    "asn": "AS139458",
+    "count": "256"
+  },
+  {
+    "name": "PT. Graha Fatta",
+    "asn": "AS140403",
+    "count": "256"
+  },
+  {
+    "name": "PT. NEWTON CIPTA INFORMATIKA",
+    "asn": "AS138126",
+    "count": "256"
+  },
+  {
+    "name": "PT METRASAT",
+    "asn": "AS136887",
+    "count": "256"
+  },
+  {
+    "name": "DINAS KOMUNIKASI DAN INFORMATIKA KABUPATEN KARAWANG",
+    "asn": "AS139932",
+    "count": "256"
+  },
+  {
+    "name": "INSTITUT AGAMA ISLAM NEGERI TULUNGAGUNG",
+    "asn": "AS136886",
+    "count": "256"
+  },
+  {
+    "name": "Dinas Komunikasi dan Informatika Provinsi jawa timur",
+    "asn": "AS136884",
+    "count": "256"
+  },
+  {
+    "name": "PT Jurnalindo Aksara Grafika",
+    "asn": "AS134621",
+    "count": "256"
+  },
+  {
+    "name": "Dinas Komunikasi Informatika dan Statistik Kota Cirebon",
+    "asn": "AS136882",
+    "count": "256"
+  },
+  {
+    "name": "PT Sepulsa Teknologi Indonesia",
+    "asn": "AS138085",
+    "count": "256"
+  },
+  {
+    "name": "PT Permodalan Nasional Madani",
+    "asn": "AS136881",
+    "count": "256"
+  },
+  {
+    "name": "Institut Seni Budaya Indonesia Bandung",
+    "asn": "AS139939",
+    "count": "256"
+  },
+  {
+    "name": "PT. InfoMedia Solusi Net",
+    "asn": "AS136878",
+    "count": "256"
+  },
+  {
+    "name": "RIYAD NETWORK",
+    "asn": "AS139941",
+    "count": "256"
+  },
+  {
+    "name": "Dinas Komunikasi dan Informasi Kabupaten Batang",
+    "asn": "AS139942",
+    "count": "256"
+  },
+  {
+    "name": "Dinas Komunikasi dan Informatika Kabupaten Garut",
+    "asn": "AS139943",
+    "count": "256"
+  },
+  {
+    "name": "Universitas Muhammadiyah Surakarta",
+    "asn": "AS59275",
+    "count": "256"
+  },
+  {
+    "name": "PEMERINTAH KABUPATEN BANYUMAS",
+    "asn": "AS136876",
+    "count": "256"
+  },
+  {
+    "name": "INSTITUT TEKNOLOGI NASIONAL MALANG",
+    "asn": "AS138084",
+    "count": "256"
+  },
+  {
+    "name": "PT. VOLTRAS International",
+    "asn": "AS131762",
+    "count": "256"
+  },
+  {
+    "name": "Dinas Komunikasi dan Informatika Kota Banjarbaru",
+    "asn": "AS139948",
+    "count": "256"
+  },
+  {
+    "name": "PT. Kinez Network Solutions",
+    "asn": "AS133356",
+    "count": "0"
+  },
+  {
+    "name": "Indonusa System Integrator Prima PT.",
+    "asn": "AS56243",
+    "count": "0"
+  },
+  {
+    "name": "PT Teracord Indonesia",
+    "asn": "AS56244",
+    "count": "0"
+  },
+  {
+    "name": "PT Digita Media Utama",
+    "asn": "AS133353",
+    "count": "0"
+  },
+  {
+    "name": "PT Indoportal Nusantara",
+    "asn": "AS133351",
+    "count": "0"
+  },
+  {
+    "name": "PT Quasar Jaringan Mandiri",
+    "asn": "AS56247",
+    "count": "0"
+  },
+  {
+    "name": "PT Ion Cybill",
+    "asn": "AS133350",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS56249",
+    "count": "0"
+  },
+  {
+    "name": "PT. SEMESTA ASA BERSAMA",
+    "asn": "AS56250",
+    "count": "0"
+  },
+  {
+    "name": "CNOOC SES LTD.",
+    "asn": "AS133348",
+    "count": "0"
+  },
+  {
+    "name": "PT. Core Mediatech (D-NET)",
+    "asn": "AS131116",
+    "count": "0"
+  },
+  {
+    "name": "Perdana Putindoguna, PT.",
+    "asn": "AS9791",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS131114",
+    "count": "0"
+  },
+  {
+    "name": "Balai Telekomunikasi dan Informatika Perdesaan",
+    "asn": "AS56261",
+    "count": "0"
+  },
+  {
+    "name": "PT. Citra International Pratama",
+    "asn": "AS56306",
+    "count": "0"
+  },
+  {
+    "name": "CV. Agung Rizki Group",
+    "asn": "AS133342",
+    "count": "0"
+  },
+  {
+    "name": "PT Diotri Global Media",
+    "asn": "AS133341",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS133340",
+    "count": "0"
+  },
+  {
+    "name": "Balai Telekomunikasi dan Informatika Perdesaan",
+    "asn": "AS58378",
+    "count": "0"
+  },
+  {
+    "name": "PT MPGames",
+    "asn": "AS58379",
+    "count": "0"
+  },
+  {
+    "name": "PT Mustang Inti Corpora",
+    "asn": "AS58380",
+    "count": "0"
+  },
+  {
+    "name": "DEWATA TELEMATIKA PT.",
+    "asn": "AS133339",
+    "count": "0"
+  },
+  {
+    "name": "PT. Indie Internet Solution",
+    "asn": "AS58382",
+    "count": "0"
+  },
+  {
+    "name": "PT Comradindo Lintasnusa Perkasa",
+    "asn": "AS58384",
+    "count": "0"
+  },
+  {
+    "name": "PT Mika Persada",
+    "asn": "AS133338",
+    "count": "0"
+  },
+  {
+    "name": "PT. Maxindo Network",
+    "asn": "AS58386",
+    "count": "0"
+  },
+  {
+    "name": "FirstMedia ASN",
+    "asn": "AS58388",
+    "count": "0"
+  },
+  {
+    "name": "PT Sumber Data Indonesia",
+    "asn": "AS58389",
+    "count": "0"
+  },
+  {
+    "name": "PT. BINTANG KOMUNIKASI INDONESIA",
+    "asn": "AS64311",
+    "count": "0"
+  },
+  {
+    "name": "Dewan Ketahanan Nasional",
+    "asn": "AS64312",
+    "count": "0"
+  },
+  {
+    "name": "Mahkamah Agung RI",
+    "asn": "AS133336",
+    "count": "0"
+  },
+  {
+    "name": "PT. Karya Kencana Karunia",
+    "asn": "AS58393",
+    "count": "0"
+  },
+  {
+    "name": "PT Angkasa Komunikasi Global Utama",
+    "asn": "AS131692",
+    "count": "0"
+  },
+  {
+    "name": "PT. PERMATA ABADI KELUARGA PERKASA",
+    "asn": "AS133213",
+    "count": "0"
+  },
+  {
+    "name": "PT. Kerbiz Mediatama",
+    "asn": "AS133207",
+    "count": "0"
+  },
+  {
+    "name": "CYBER2 Internet Exchange",
+    "asn": "AS131113",
+    "count": "0"
+  },
+  {
+    "name": "PT. Bubu Networks Indonesia",
+    "asn": "AS58399",
+    "count": "0"
+  },
+  {
+    "name": "PT. RIFFI BROTHERS & SONS",
+    "asn": "AS133182",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS58402",
+    "count": "0"
+  },
+  {
+    "name": "PT. DUTA KARYA PERKASA",
+    "asn": "AS133181",
+    "count": "0"
+  },
+  {
+    "name": "PT. Centra Global Investama",
+    "asn": "AS58425",
+    "count": "0"
+  },
+  {
+    "name": "PT. ABYAKTA DAYA NUSANTARA",
+    "asn": "AS133110",
+    "count": "0"
+  },
+  {
+    "name": "PT. Anta Mediakom",
+    "asn": "AS58452",
+    "count": "0"
+  },
+  {
+    "name": "PT. Terang Abadi Bersama",
+    "asn": "AS132675",
+    "count": "0"
+  },
+  {
+    "name": "Universitas Wijaya Kusuma",
+    "asn": "AS132674",
+    "count": "0"
+  },
+  {
+    "name": "PT.Surganya Motor Indonesia",
+    "asn": "AS138803",
+    "count": "0"
+  },
+  {
+    "name": "PT Sufia Televisi",
+    "asn": "AS138804",
+    "count": "0"
+  },
+  {
+    "name": "PT Arana Teknologi Indonesia",
+    "asn": "AS132673",
+    "count": "0"
+  },
+  {
+    "name": "PT Nevigate Telekomunikasi Indonesia",
+    "asn": "AS138598",
+    "count": "0"
+  },
+  {
+    "name": "PT Daya Arka Sejati",
+    "asn": "AS138533",
+    "count": "0"
+  },
+  {
+    "name": "PT Artacomindo Jejaring Nusa",
+    "asn": "AS138809",
+    "count": "0"
+  },
+  {
+    "name": "DCI Indonesia",
+    "asn": "AS138428",
+    "count": "0"
+  },
+  {
+    "name": "PT. Sahabat Prima Karya",
+    "asn": "AS132672",
+    "count": "0"
+  },
+  {
+    "name": "PT Super Sistem Ultima",
+    "asn": "AS138815",
+    "count": "0"
+  },
+  {
+    "name": "PT. Internet Ini Saja",
+    "asn": "AS138818",
+    "count": "0"
+  },
+  {
+    "name": "PT Askara Internal",
+    "asn": "AS138819",
+    "count": "0"
+  },
+  {
+    "name": "PT Unza Vitalis",
+    "asn": "AS138820",
+    "count": "0"
+  },
+  {
+    "name": "PT Global Nusantara Internet",
+    "asn": "AS138821",
+    "count": "0"
+  },
+  {
+    "name": "PT Andira IT Solutions",
+    "asn": "AS132671",
+    "count": "0"
+  },
+  {
+    "name": "PT ALFA DASA WARSA",
+    "asn": "AS138827",
+    "count": "0"
+  },
+  {
+    "name": "PT JARGARIA TELEMATIKA INDONESIA",
+    "asn": "AS138830",
+    "count": "0"
+  },
+  {
+    "name": "PT. Mega Akses Persada",
+    "asn": "AS138831",
+    "count": "0"
+  },
+  {
+    "name": "PT. Piranti Prestasi Informasi - NEUVIZ",
+    "asn": "AS132665",
+    "count": "0"
+  },
+  {
+    "name": "PT. BUNGO MULTIMEDIA",
+    "asn": "AS138834",
+    "count": "0"
+  },
+  {
+    "name": "PT Sarana Polaris Jaya",
+    "asn": "AS58483",
+    "count": "0"
+  },
+  {
+    "name": "Pusinfolahta TNI",
+    "asn": "AS138140",
+    "count": "0"
+  },
+  {
+    "name": "PT Ajusnet Lintas Global Data",
+    "asn": "AS138846",
+    "count": "0"
+  },
+  {
+    "name": "PT. Cyberindo Aditama",
+    "asn": "AS138138",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS132659",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS58490",
+    "count": "0"
+  },
+  {
+    "name": "PT iForte Solusi Infotek - ISP",
+    "asn": "AS138855",
+    "count": "0"
+  },
+  {
+    "name": "PROVINSI SULAWESI TENGAH",
+    "asn": "AS138857",
+    "count": "0"
+  },
+  {
+    "name": "PT Hexatama Mitra Jaya Abadi",
+    "asn": "AS132657",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS58493",
+    "count": "0"
+  },
+  {
+    "name": "Otoritas Jasa Keuangan",
+    "asn": "AS138861",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS58494",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS132656",
+    "count": "0"
+  },
+  {
+    "name": "PT XL AXIATA Tbk",
+    "asn": "AS58496",
+    "count": "0"
+  },
+  {
+    "name": "PT Norlec Telekomunikasi Indonesia",
+    "asn": "AS132654",
+    "count": "0"
+  },
+  {
+    "name": "PT BISNIS BERBAGI NASIONAL",
+    "asn": "AS138867",
+    "count": "0"
+  },
+  {
+    "name": "Jasa Terpadu Telematika (Jasatel)",
+    "asn": "AS131691",
+    "count": "0"
+  },
+  {
+    "name": "PT INSAN SARANA TELEMATIKA",
+    "asn": "AS138869",
+    "count": "0"
+  },
+  {
+    "name": "Pemerintah Kabupaten Berau",
+    "asn": "AS138870",
+    "count": "0"
+  },
+  {
+    "name": "PT INTERCOM GOLBAL NUSANTARA",
+    "asn": "AS138137",
+    "count": "0"
+  },
+  {
+    "name": "PT Simprug Mahkota Indah",
+    "asn": "AS138872",
+    "count": "0"
+  },
+  {
+    "name": "Citra Internet Exchange",
+    "asn": "AS58500",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS58501",
+    "count": "0"
+  },
+  {
+    "name": "PT. Antar jaringan Nusantara",
+    "asn": "AS58502",
+    "count": "0"
+  },
+  {
+    "name": "Datautama Dinamika, PT",
+    "asn": "AS132651",
+    "count": "0"
+  },
+  {
+    "name": "PT DRAGON CAPITAL CENTRE",
+    "asn": "AS138879",
+    "count": "0"
+  },
+  {
+    "name": "PT. Supernet Advance Teknologi",
+    "asn": "AS58514",
+    "count": "0"
+  },
+  {
+    "name": "Sekolah Tinggi Pariwisata Bandung",
+    "asn": "AS138882",
+    "count": "0"
+  },
+  {
+    "name": "GENERALI",
+    "asn": "AS138883",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS58549",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS58550",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS132650",
+    "count": "0"
+  },
+  {
+    "name": "PT Acehlink Media",
+    "asn": "AS138890",
+    "count": "0"
+  },
+  {
+    "name": "PT Tinelo Digital Network",
+    "asn": "AS132648",
+    "count": "0"
+  },
+  {
+    "name": "PT Hanza Telecom",
+    "asn": "AS132646",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS58554",
+    "count": "0"
+  },
+  {
+    "name": "PT UNINET Media Sakti - NAP",
+    "asn": "AS58555",
+    "count": "0"
+  },
+  {
+    "name": "PT Angkasa Pura Suport",
+    "asn": "AS138898",
+    "count": "0"
+  },
+  {
+    "name": "PT Fintek Integrasi Digital",
+    "asn": "AS138900",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Internet Exchange",
+    "asn": "AS7597",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS132640",
+    "count": "0"
+  },
+  {
+    "name": "PT Tata Telemedia Nusantara",
+    "asn": "AS139362",
+    "count": "0"
+  },
+  {
+    "name": "PT Sarana Mediatama Indonesia",
+    "asn": "AS132636",
+    "count": "0"
+  },
+  {
+    "name": "PT Wonoarto Media Nusantara",
+    "asn": "AS132635",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS132633",
+    "count": "0"
+  },
+  {
+    "name": "PT Beyond Integrasi Teknologi",
+    "asn": "AS132632",
+    "count": "0"
+  },
+  {
+    "name": "PT TRICOM SAKTI",
+    "asn": "AS139374",
+    "count": "0"
+  },
+  {
+    "name": "PT Jagat Media Teknologi",
+    "asn": "AS58823",
+    "count": "0"
+  },
+  {
+    "name": "PT. ARTAJASA PEMBAYARAN ELEKTRONIS",
+    "asn": "AS139376",
+    "count": "0"
+  },
+  {
+    "name": "PT Cometsnet Mandiri Sejahtera",
+    "asn": "AS58825",
+    "count": "0"
+  },
+  {
+    "name": "Perhimpunan Klik Indonesia",
+    "asn": "AS58961",
+    "count": "0"
+  },
+  {
+    "name": "PT.CITRA BERDIKARI NUSANTARA",
+    "asn": "AS139381",
+    "count": "0"
+  },
+  {
+    "name": "PT. INDONESIA BISNIS DIGITAL",
+    "asn": "AS139383",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS132630",
+    "count": "0"
+  },
+  {
+    "name": "PT Abhinawa Sumberdaya Asia",
+    "asn": "AS139388",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS132629",
+    "count": "0"
+  },
+  {
+    "name": "PT. Net2Cyber Indonesia",
+    "asn": "AS131690",
+    "count": "0"
+  },
+  {
+    "name": "PT. Semesta Teknologi Mediasi",
+    "asn": "AS139391",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS59136",
+    "count": "0"
+  },
+  {
+    "name": "CV. Takara",
+    "asn": "AS132628",
+    "count": "0"
+  },
+  {
+    "name": "PT Global Borneo Nusantara",
+    "asn": "AS59140",
+    "count": "0"
+  },
+  {
+    "name": "PT JURAGAN ONLINE SOLUSI",
+    "asn": "AS139404",
+    "count": "0"
+  },
+  {
+    "name": "PT Centrin Online Prima",
+    "asn": "AS59141",
+    "count": "0"
+  },
+  {
+    "name": "PT LAPAK DIGITAL TEKNOLOGI",
+    "asn": "AS139407",
+    "count": "0"
+  },
+  {
+    "name": "QIANDRA INFORMATION TECHNOLOGY PT",
+    "asn": "AS131689",
+    "count": "0"
+  },
+  {
+    "name": "PT Azec Indonesia Management Services",
+    "asn": "AS139410",
+    "count": "0"
+  },
+  {
+    "name": "PT Digital Teradata Informasi",
+    "asn": "AS139411",
+    "count": "0"
+  },
+  {
+    "name": "PT RHB OSK SECURITIES INDONESIA",
+    "asn": "AS59144",
+    "count": "0"
+  },
+  {
+    "name": "PT Arya Azahra Arthama",
+    "asn": "AS139413",
+    "count": "0"
+  },
+  {
+    "name": "Cipta Sarana Borneo",
+    "asn": "AS59145",
+    "count": "0"
+  },
+  {
+    "name": "PT Langkat Investama Fideliti",
+    "asn": "AS139416",
+    "count": "0"
+  },
+  {
+    "name": "PT Iweka Digital Solution",
+    "asn": "AS139417",
+    "count": "0"
+  },
+  {
+    "name": "OpenIXP ASN",
+    "asn": "AS7717",
+    "count": "0"
+  },
+  {
+    "name": "PT GURITA CYBER NUSANTARA",
+    "asn": "AS139419",
+    "count": "0"
+  },
+  {
+    "name": "PT. Alif Teknologi Sinergi",
+    "asn": "AS139420",
+    "count": "0"
+  },
+  {
+    "name": "PGAS-IX",
+    "asn": "AS132105",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS131777",
+    "count": "0"
+  },
+  {
+    "name": "PT Pro-Int Dinamika",
+    "asn": "AS59152",
+    "count": "0"
+  },
+  {
+    "name": "PT Digital Registra Indonesia",
+    "asn": "AS59153",
+    "count": "0"
+  },
+  {
+    "name": "PT. Cakrawala Lintas Karsa",
+    "asn": "AS139436",
+    "count": "0"
+  },
+  {
+    "name": "Yayasan Tarakanita",
+    "asn": "AS139437",
+    "count": "0"
+  },
+  {
+    "name": "Yayasan Indonesia Memberi Solusi",
+    "asn": "AS59154",
+    "count": "0"
+  },
+  {
+    "name": "PT Jaya Kreasi Putera Indonesia",
+    "asn": "AS131774",
+    "count": "0"
+  },
+  {
+    "name": "Universitas Jenderal Achmad Yani",
+    "asn": "AS139444",
+    "count": "0"
+  },
+  {
+    "name": "PT. DIDANATANECA ANUGERAH SEJAHTERA",
+    "asn": "AS139450",
+    "count": "0"
+  },
+  {
+    "name": "PT SARANA INTI MAKMUR BERSAMA",
+    "asn": "AS139451",
+    "count": "0"
+  },
+  {
+    "name": "PT. Eka Mas Republik",
+    "asn": "AS139452",
+    "count": "0"
+  },
+  {
+    "name": "PT Pelangi Indodata",
+    "asn": "AS131771",
+    "count": "0"
+  },
+  {
+    "name": "PT Solusindo Bintang Pratama",
+    "asn": "AS131770",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS59271",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS131768",
+    "count": "0"
+  },
+  {
+    "name": "IndoVirtue",
+    "asn": "AS139676",
+    "count": "0"
+  },
+  {
+    "name": "PT. SIBER SEKURINDO TEKNOLOGI",
+    "asn": "AS139933",
+    "count": "0"
+  },
+  {
+    "name": "PT TUJUH MEDIA TERNAMA",
+    "asn": "AS139934",
+    "count": "0"
+  },
+  {
+    "name": "RSU DR. SOETOMO",
+    "asn": "AS139935",
+    "count": "0"
+  },
+  {
+    "name": "PT. PARSAORAN GLOBAL DATATRANS - JTL",
+    "asn": "AS139936",
+    "count": "0"
+  },
+  {
+    "name": "PT Pakuwon Jati, Tbk.",
+    "asn": "AS131766",
+    "count": "0"
+  },
+  {
+    "name": "PT Bintang Global Abadi",
+    "asn": "AS139938",
+    "count": "0"
+  },
+  {
+    "name": "Fotografer Net Global, PT",
+    "asn": "AS131688",
+    "count": "0"
+  },
+  {
+    "name": "PT. Wira Mulia Technology",
+    "asn": "AS131764",
+    "count": "0"
+  },
+  {
+    "name": "PT. Pemuda Berkarya Indonesia",
+    "asn": "AS59277",
+    "count": "0"
+  },
+  {
+    "name": "PT Raytel Indonesia",
+    "asn": "AS132631",
+    "count": "0"
+  },
+  {
+    "name": "Arsip Nasional Republik Indonesia",
+    "asn": "AS139950",
+    "count": "0"
+  },
+  {
+    "name": "PT Sumber Koneksi Indonesia",
+    "asn": "AS59281",
+    "count": "0"
+  },
+  {
+    "name": "PT. Cemerlang Multimedia",
+    "asn": "AS139954",
+    "count": "0"
+  },
+  {
+    "name": "PT. Indo Web Media",
+    "asn": "AS131756",
+    "count": "0"
+  },
+  {
+    "name": "PT Cyber Data Technology",
+    "asn": "AS59283",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS59284",
+    "count": "0"
+  },
+  {
+    "name": "Universitas Pembangunan Nasional 'Veteran' Jakarta",
+    "asn": "AS139959",
+    "count": "0"
+  },
+  {
+    "name": "PT Menara Infrastruktur Indonesia",
+    "asn": "AS59286",
+    "count": "0"
+  },
+  {
+    "name": "PT.MURNI MAKMUR ABADI",
+    "asn": "AS139963",
+    "count": "0"
+  },
+  {
+    "name": "PT Speed Internet Digital",
+    "asn": "AS9251",
+    "count": "0"
+  },
+  {
+    "name": "PT Mitra Jaringan Nusantara",
+    "asn": "AS139965",
+    "count": "0"
+  },
+  {
+    "name": "PT. Sangat Cepat",
+    "asn": "AS131752",
+    "count": "0"
+  },
+  {
+    "name": "PT Ion Cybill",
+    "asn": "AS59289",
+    "count": "0"
+  },
+  {
+    "name": "PT Gstation Indonesia",
+    "asn": "AS131751",
+    "count": "0"
+  },
+  {
+    "name": "Batam Internet Exchange",
+    "asn": "AS139970",
+    "count": "0"
+  },
+  {
+    "name": "PT Gisindo Inti Solusi",
+    "asn": "AS131750",
+    "count": "0"
+  },
+  {
+    "name": "Balai Pelatihan Riset TIK BLSDM Kemkominfo",
+    "asn": "AS63489",
+    "count": "0"
+  },
+  {
+    "name": "Universitas Muria Kudus",
+    "asn": "AS139974",
+    "count": "0"
+  },
+  {
+    "name": "PT Sano Komunikasi",
+    "asn": "AS139975",
+    "count": "0"
+  },
+  {
+    "name": "PT. Baswara Gema Persada",
+    "asn": "AS131748",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS131747",
+    "count": "0"
+  },
+  {
+    "name": "PT Tunas Sukses Mandiri",
+    "asn": "AS63492",
+    "count": "0"
+  },
+  {
+    "name": "PT. MEDIA NUSANTARA GLOBAL DATA",
+    "asn": "AS131744",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS131742",
+    "count": "0"
+  },
+  {
+    "name": "PT Satelit Multimedia Indonesia",
+    "asn": "AS63495",
+    "count": "0"
+  },
+  {
+    "name": "PT Adhikarya Cipta Persada",
+    "asn": "AS139987",
+    "count": "0"
+  },
+  {
+    "name": "Universitas Negeri Papua",
+    "asn": "AS63496",
+    "count": "0"
+  },
+  {
+    "name": "PT. Yetoya Solusi Indonesia - JTL",
+    "asn": "AS139990",
+    "count": "0"
+  },
+  {
+    "name": "PT. Pasifik Satelit Nusantara, Ubiqu N1 & N2 Gateway",
+    "asn": "AS139991",
+    "count": "0"
+  },
+  {
+    "name": "PT XL Axiata Tbk",
+    "asn": "AS139994",
+    "count": "0"
+  },
+  {
+    "name": "PT. Bumi Merbabu Permai",
+    "asn": "AS131687",
+    "count": "0"
+  },
+  {
+    "name": "Universitas Islam Riau",
+    "asn": "AS139998",
+    "count": "0"
+  },
+  {
+    "name": "PT. PELABUHAN KUALA LANGSA ENERGI",
+    "asn": "AS139999",
+    "count": "0"
+  },
+  {
+    "name": "PT. BIS DATA INDONESIA",
+    "asn": "AS131736",
+    "count": "0"
+  },
+  {
+    "name": "Rumah Sakit Umum Pusat DR Hasan Sadikin",
+    "asn": "AS140003",
+    "count": "0"
+  },
+  {
+    "name": "PT. FWD Life Indonesia",
+    "asn": "AS131237",
+    "count": "0"
+  },
+  {
+    "name": "PT. FOXLINE MEDIADATA INDONUSA",
+    "asn": "AS140005",
+    "count": "0"
+  },
+  {
+    "name": "PT. MNC Kabel Mediacom",
+    "asn": "AS131205",
+    "count": "0"
+  },
+  {
+    "name": "Husky CNOOC Madura Ltd.",
+    "asn": "AS63507",
+    "count": "0"
+  },
+  {
+    "name": "PT Global Media Visual",
+    "asn": "AS140013",
+    "count": "0"
+  },
+  {
+    "name": "Politeknik Negeri Indramayu",
+    "asn": "AS140015",
+    "count": "0"
+  },
+  {
+    "name": "PT. DJATI WIBAWA MANDIRI",
+    "asn": "AS140016",
+    "count": "0"
+  },
+  {
+    "name": "Pengadilan Tinggi Banten",
+    "asn": "AS140017",
+    "count": "0"
+  },
+  {
+    "name": "PT Jendelaid persada Indonesia",
+    "asn": "AS131733",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS131731",
+    "count": "0"
+  },
+  {
+    "name": "Pemerintah Daerah kabupaten Hulu Sungai Utara",
+    "asn": "AS140022",
+    "count": "0"
+  },
+  {
+    "name": "PT. SATKOMINDO MEDIYASA",
+    "asn": "AS131730",
+    "count": "0"
+  },
+  {
+    "name": "PT Mandala Lintas Nusa",
+    "asn": "AS140031",
+    "count": "0"
+  },
+  {
+    "name": "PUSAT PENGEMBANGAN DAN PEMBERDAYAAN PENDIDIK DAN TENAGA KEPENDIDIKAN SENI DAN BUDAYA",
+    "asn": "AS140383",
+    "count": "0"
+  },
+  {
+    "name": "PT Indokonten Sukses Makmur",
+    "asn": "AS131729",
+    "count": "0"
+  },
+  {
+    "name": "PT Solusi Media Digital",
+    "asn": "AS131727",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS63515",
+    "count": "0"
+  },
+  {
+    "name": "PT. Garis Waktu Kita",
+    "asn": "AS140388",
+    "count": "0"
+  },
+  {
+    "name": "PT Dewa Bisnis Digital",
+    "asn": "AS140389",
+    "count": "0"
+  },
+  {
+    "name": "Transhybrid Internet Xchange",
+    "asn": "AS63516",
+    "count": "0"
+  },
+  {
+    "name": "PT. Ebdesk Teknologi",
+    "asn": "AS140391",
+    "count": "0"
+  },
+  {
+    "name": "PT Java United Services",
+    "asn": "AS140392",
+    "count": "0"
+  },
+  {
+    "name": "PT Mitra Adi Perkasa Tbk",
+    "asn": "AS140393",
+    "count": "0"
+  },
+  {
+    "name": "PT Mobile Coin Asia",
+    "asn": "AS63858",
+    "count": "0"
+  },
+  {
+    "name": "PT VTC Online Indonesia",
+    "asn": "AS131725",
+    "count": "0"
+  },
+  {
+    "name": "PT. Cybertechtonic Pratama",
+    "asn": "AS140405",
+    "count": "0"
+  },
+  {
+    "name": "PT ARJUNA DEWATA TELEMEDIA",
+    "asn": "AS140408",
+    "count": "0"
+  },
+  {
+    "name": "PT Berlian Sistem Informasi",
+    "asn": "AS140409",
+    "count": "0"
+  },
+  {
+    "name": "PT Muliamas International",
+    "asn": "AS140412",
+    "count": "0"
+  },
+  {
+    "name": "PT Balepoint",
+    "asn": "AS63863",
+    "count": "0"
+  },
+  {
+    "name": "Pengadilan Tinggi Agama Jawa Barat",
+    "asn": "AS140414",
+    "count": "0"
+  },
+  {
+    "name": "PT TRANS TELEKOMUNIKASI INDONESIA",
+    "asn": "AS140416",
+    "count": "0"
+  },
+  {
+    "name": "PT Multidata Rancana Prima",
+    "asn": "AS63864",
+    "count": "0"
+  },
+  {
+    "name": "CV. TJAH PERKASA",
+    "asn": "AS140418",
+    "count": "0"
+  },
+  {
+    "name": "PT. ASURANSI TAKAFUL KELUARGA",
+    "asn": "AS140419",
+    "count": "0"
+  },
+  {
+    "name": "MENTARI INTERNATIONAL SCHOOL - YAYASAN PERKEMBANGAN ANAK INDONESIA",
+    "asn": "AS140420",
+    "count": "0"
+  },
+  {
+    "name": "PT Bina Satria Agung Perkasa",
+    "asn": "AS63865",
+    "count": "0"
+  },
+  {
+    "name": "PT. Sintesa Kreasi Yudha",
+    "asn": "AS140422",
+    "count": "0"
+  },
+  {
+    "name": "PT iForte Global Internet",
+    "asn": "AS63866",
+    "count": "0"
+  },
+  {
+    "name": "DINAS KOMUNIKASI DAN INFORMATIKA KABUPATEN DEMAK",
+    "asn": "AS140425",
+    "count": "0"
+  },
+  {
+    "name": "Pemerintah Kabupaten Klungkung",
+    "asn": "AS140426",
+    "count": "0"
+  },
+  {
+    "name": "PT Perkebunan Nusantara IV (PTPN IV)",
+    "asn": "AS140427",
+    "count": "0"
+  },
+  {
+    "name": "PT Pancaran Samudera Transport",
+    "asn": "AS140428",
+    "count": "0"
+  },
+  {
+    "name": "PT. MEDIA DISTRIBUSI PRIMA",
+    "asn": "AS140429",
+    "count": "0"
+  },
+  {
+    "name": "PT Zoom Infotek Telesindo",
+    "asn": "AS140430",
+    "count": "0"
+  },
+  {
+    "name": "CV SOFTNET PRATAMA",
+    "asn": "AS140432",
+    "count": "0"
+  },
+  {
+    "name": "PT. Colo Media Netindo",
+    "asn": "AS140433",
+    "count": "0"
+  },
+  {
+    "name": "PT PERUSAHAAN GAS NEGARA",
+    "asn": "AS140434",
+    "count": "0"
+  },
+  {
+    "name": "PT MEDIA MANAKARRA NET",
+    "asn": "AS140437",
+    "count": "0"
+  },
+  {
+    "name": "PT. Inovasi Global Mumpuni",
+    "asn": "AS140438",
+    "count": "0"
+  },
+  {
+    "name": "Badan Pendapatan Daerah Provinsi Jawa Barat",
+    "asn": "AS140439",
+    "count": "0"
+  },
+  {
+    "name": "CV ARAYA MEDIA",
+    "asn": "AS140441",
+    "count": "0"
+  },
+  {
+    "name": "PT Nusantara Teknologi Semesta",
+    "asn": "AS140442",
+    "count": "0"
+  },
+  {
+    "name": "PT Herza Digital Indonesia",
+    "asn": "AS140443",
+    "count": "0"
+  },
+  {
+    "name": "PT Satu Nusa Bangsa",
+    "asn": "AS140445",
+    "count": "0"
+  },
+  {
+    "name": "IdeaNet",
+    "asn": "AS140482",
+    "count": "0"
+  },
+  {
+    "name": "PT Mora Telematika Indonesia",
+    "asn": "AS138121",
+    "count": "0"
+  },
+  {
+    "name": "PT. Swifect Solusi Indonesia",
+    "asn": "AS138120",
+    "count": "0"
+  },
+  {
+    "name": "PT Hasindo Net",
+    "asn": "AS17454",
+    "count": "0"
+  },
+  {
+    "name": "PT Net Sentra Cyberindo",
+    "asn": "AS138118",
+    "count": "0"
+  },
+  {
+    "name": "PT. Mega Akses Persada",
+    "asn": "AS138111",
+    "count": "0"
+  },
+  {
+    "name": "PT Eagleye Citra Khatulistiwa",
+    "asn": "AS138110",
+    "count": "0"
+  },
+  {
+    "name": "PT Solusi Aksesindo Pratama",
+    "asn": "AS138108",
+    "count": "0"
+  },
+  {
+    "name": "CV. JO TECHNOLOGY",
+    "asn": "AS138103",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Internet Exchange (IIX)",
+    "asn": "AS17800",
+    "count": "0"
+  },
+  {
+    "name": "PT. Gratelindo Lintas Global",
+    "asn": "AS138088",
+    "count": "0"
+  },
+  {
+    "name": "PT Primacom Interbuana - ISP",
+    "asn": "AS138081",
+    "count": "0"
+  },
+  {
+    "name": "PT MITRA TELEMEDIA MANUNGGAL",
+    "asn": "AS138075",
+    "count": "0"
+  },
+  {
+    "name": "PT. Super Sistem Ultima",
+    "asn": "AS138068",
+    "count": "0"
+  },
+  {
+    "name": "PT. ZORINA INDO MEDIA",
+    "asn": "AS138067",
+    "count": "0"
+  },
+  {
+    "name": "Broadband Network Asia",
+    "asn": "AS18189",
+    "count": "0"
+  },
+  {
+    "name": "Visionnet AS Number",
+    "asn": "AS18237",
+    "count": "0"
+  },
+  {
+    "name": "Internet Governance Forum 2013",
+    "asn": "AS18251",
+    "count": "0"
+  },
+  {
+    "name": "Indo Pratama CyberNet, PT.",
+    "asn": "AS18347",
+    "count": "0"
+  },
+  {
+    "name": "PT Quasar Jaringan Mandiri",
+    "asn": "AS18364",
+    "count": "0"
+  },
+  {
+    "name": "Dompet Dhuafa Republika",
+    "asn": "AS138057",
+    "count": "0"
+  },
+  {
+    "name": "PT EMERIO INDONESIA",
+    "asn": "AS138053",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS23651",
+    "count": "0"
+  },
+  {
+    "name": "PT CARE TECHNOLOGIES",
+    "asn": "AS138052",
+    "count": "0"
+  },
+  {
+    "name": "PT Multi Teknologi Sejahtra",
+    "asn": "AS23691",
+    "count": "0"
+  },
+  {
+    "name": "PT Cipta Piranti Sejahtera",
+    "asn": "AS138045",
+    "count": "0"
+  },
+  {
+    "name": "PT. Cemerlang Multimedia",
+    "asn": "AS137832",
+    "count": "0"
+  },
+  {
+    "name": "PT.Indocement Tunggal Prakarsa",
+    "asn": "AS137382",
+    "count": "0"
+  },
+  {
+    "name": "PT Jalawave Cakrawala",
+    "asn": "AS23697",
+    "count": "0"
+  },
+  {
+    "name": "VIP.NET - Internet Service Provider",
+    "asn": "AS23698",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS137377",
+    "count": "0"
+  },
+  {
+    "name": "Indotrans Data, PT",
+    "asn": "AS23945",
+    "count": "0"
+  },
+  {
+    "name": "Generasi Indonesia Digital PT.",
+    "asn": "AS23950",
+    "count": "0"
+  },
+  {
+    "name": "INDOSATM2 Diamond Customer",
+    "asn": "AS24052",
+    "count": "0"
+  },
+  {
+    "name": "ccTLD-ID Anycast ASN",
+    "asn": "AS24180",
+    "count": "0"
+  },
+  {
+    "name": "MAGICNET - Triple Play",
+    "asn": "AS24194",
+    "count": "0"
+  },
+  {
+    "name": "PT Global Cibubur Access",
+    "asn": "AS24196",
+    "count": "0"
+  },
+  {
+    "name": "Elka Prakarsa Utama, PT",
+    "asn": "AS24197",
+    "count": "0"
+  },
+  {
+    "name": "PT. Jaringan Prima Data Nusantara",
+    "asn": "AS137358",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS63870",
+    "count": "0"
+  },
+  {
+    "name": "PT. MULTISTRADA ARAH SARANA TBK",
+    "asn": "AS137355",
+    "count": "0"
+  },
+  {
+    "name": "PT XL Axiata Tbk",
+    "asn": "AS24208",
+    "count": "0"
+  },
+  {
+    "name": "PT DUTA DAMAS KARIMUN",
+    "asn": "AS137350",
+    "count": "0"
+  },
+  {
+    "name": "PT. Trimasindo Data Media",
+    "asn": "AS137348",
+    "count": "0"
+  },
+  {
+    "name": "PT Rinjani Maxindo Internasional",
+    "asn": "AS137345",
+    "count": "0"
+  },
+  {
+    "name": "PT. Axis Telekom Indonesia",
+    "asn": "AS24518",
+    "count": "0"
+  },
+  {
+    "name": "PT Kusuma Dinatha Jaya Abadi",
+    "asn": "AS24519",
+    "count": "0"
+  },
+  {
+    "name": "PT. Cyber Network Indonesia",
+    "asn": "AS24520",
+    "count": "0"
+  },
+  {
+    "name": "PT Sentinel Sinergi Sukses",
+    "asn": "AS137338",
+    "count": "0"
+  },
+  {
+    "name": "PT. VISINESIA DIGITAL MEDIA",
+    "asn": "AS137337",
+    "count": "0"
+  },
+  {
+    "name": "PT. ANUGERAH SUMBER SUKSES ABADI",
+    "asn": "AS137333",
+    "count": "0"
+  },
+  {
+    "name": "CV Alif Data Communication",
+    "asn": "AS137328",
+    "count": "0"
+  },
+  {
+    "name": "Telemedia Nusantara, PT.",
+    "asn": "AS24531",
+    "count": "0"
+  },
+  {
+    "name": "Enciety Binakarya Cemerlang,P.T",
+    "asn": "AS24533",
+    "count": "0"
+  },
+  {
+    "name": "PT.Cipta Data Media",
+    "asn": "AS137317",
+    "count": "0"
+  },
+  {
+    "name": "Biznet NAP - Internet Exchange Provider",
+    "asn": "AS38060",
+    "count": "0"
+  },
+  {
+    "name": "PT. Citramedia Network",
+    "asn": "AS38141",
+    "count": "0"
+  },
+  {
+    "name": "PT Jala Lintas Media - NAP",
+    "asn": "AS137303",
+    "count": "0"
+  },
+  {
+    "name": "PT. IMAN TEKNOLOGI INFORMASI",
+    "asn": "AS137296",
+    "count": "0"
+  },
+  {
+    "name": "PT. NTT Indonesia",
+    "asn": "AS137295",
+    "count": "0"
+  },
+  {
+    "name": "APJII-RD",
+    "asn": "AS38151",
+    "count": "0"
+  },
+  {
+    "name": "PT Antar Mitra Prakarsa",
+    "asn": "AS38152",
+    "count": "0"
+  },
+  {
+    "name": "Diskominfo Kotamobagukota",
+    "asn": "AS137293",
+    "count": "0"
+  },
+  {
+    "name": "Audianet Sentra Data, PT",
+    "asn": "AS38155",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS137290",
+    "count": "0"
+  },
+  {
+    "name": "PT Bandhawa Tri Tirta",
+    "asn": "AS63871",
+    "count": "0"
+  },
+  {
+    "name": "Internet Service Provider",
+    "asn": "AS38160",
+    "count": "0"
+  },
+  {
+    "name": "PT CORBEC COMMUNICATION",
+    "asn": "AS38161",
+    "count": "0"
+  },
+  {
+    "name": "PT. Smartfren Telecom, Tbk",
+    "asn": "AS38163",
+    "count": "0"
+  },
+  {
+    "name": "PT BUMISEJAHTERA INTIKENCANA",
+    "asn": "AS38164",
+    "count": "0"
+  },
+  {
+    "name": "PT. Cemerlang Multimedia",
+    "asn": "AS136938",
+    "count": "0"
+  },
+  {
+    "name": "PT. Mnet Indonesia Transit AS",
+    "asn": "AS38202",
+    "count": "0"
+  },
+  {
+    "name": "Biznet ISP",
+    "asn": "AS38482",
+    "count": "0"
+  },
+  {
+    "name": "PT Sumber Data Indonesia",
+    "asn": "AS38497",
+    "count": "0"
+  },
+  {
+    "name": "PT ANDOWA TELECOM",
+    "asn": "AS38499",
+    "count": "0"
+  },
+  {
+    "name": "PT. Indomaya Wira Sejahtera",
+    "asn": "AS38503",
+    "count": "0"
+  },
+  {
+    "name": "PT ALUCIO NET",
+    "asn": "AS38504",
+    "count": "0"
+  },
+  {
+    "name": "Detasemen Khusus 88 - Kepolisian Negara Republik Indonesia",
+    "asn": "AS136863",
+    "count": "0"
+  },
+  {
+    "name": "PT. Mitra Internet Tech",
+    "asn": "AS38507",
+    "count": "0"
+  },
+  {
+    "name": "PT. Cyberindo Aditama",
+    "asn": "AS38508",
+    "count": "0"
+  },
+  {
+    "name": "CV. Pelangi Naya Putri",
+    "asn": "AS131714",
+    "count": "0"
+  },
+  {
+    "name": "Wimax Network Indonesia",
+    "asn": "AS131712",
+    "count": "0"
+  },
+  {
+    "name": "PT Max Internet Indonesia",
+    "asn": "AS136859",
+    "count": "0"
+  },
+  {
+    "name": "MVNO",
+    "asn": "AS38512",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS38514",
+    "count": "0"
+  },
+  {
+    "name": "PT Internusa Hasta Buana",
+    "asn": "AS136848",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS38518",
+    "count": "0"
+  },
+  {
+    "name": "PT. Smartfren Telecom, Tbk",
+    "asn": "AS38519",
+    "count": "0"
+  },
+  {
+    "name": "Visindo Telematika Nusantara, PT",
+    "asn": "AS38520",
+    "count": "0"
+  },
+  {
+    "name": "Pishon Wireless Teknologi, PT",
+    "asn": "AS38521",
+    "count": "0"
+  },
+  {
+    "name": "PT Haviest Cipta Mandiri",
+    "asn": "AS136846",
+    "count": "0"
+  },
+  {
+    "name": "Lintas Mandiri Surya PT.",
+    "asn": "AS131708",
+    "count": "0"
+  },
+  {
+    "name": "PT Lynx Mitra Asia",
+    "asn": "AS38569",
+    "count": "0"
+  },
+  {
+    "name": "PT Centra Global Investama",
+    "asn": "AS38751",
+    "count": "0"
+  },
+  {
+    "name": "Arsen Kusuma Indonesia , PT",
+    "asn": "AS38752",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS136826",
+    "count": "0"
+  },
+  {
+    "name": "PT. Majapahit Citra Gemilang",
+    "asn": "AS136459",
+    "count": "0"
+  },
+  {
+    "name": "PT. Kreasi Sukses Parahyangan",
+    "asn": "AS136401",
+    "count": "0"
+  },
+  {
+    "name": "Dwi Tunggal Putra PT.",
+    "asn": "AS38762",
+    "count": "0"
+  },
+  {
+    "name": "PT Sidat Indonesia",
+    "asn": "AS136235",
+    "count": "0"
+  },
+  {
+    "name": "Komando Armada Indonesia Kawasan Timur TNI Angkatan Laut",
+    "asn": "AS136124",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS63875",
+    "count": "0"
+  },
+  {
+    "name": "Universitas Lambung Mangkurat",
+    "asn": "AS136122",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS136121",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS38774",
+    "count": "0"
+  },
+  {
+    "name": "PT. MEDIA NUSANTARA GLOBAL DATA",
+    "asn": "AS9448",
+    "count": "0"
+  },
+  {
+    "name": "PT. NTT Indonesia",
+    "asn": "AS38777",
+    "count": "0"
+  },
+  {
+    "name": "PT. Uber Indonesia Technology",
+    "asn": "AS136114",
+    "count": "0"
+  },
+  {
+    "name": "PT Multidata Rancana Prima",
+    "asn": "AS131707",
+    "count": "0"
+  },
+  {
+    "name": "PT Viva Media Baru",
+    "asn": "AS38780",
+    "count": "0"
+  },
+  {
+    "name": "PT. Arkadia Media Nusantara",
+    "asn": "AS136113",
+    "count": "0"
+  },
+  {
+    "name": "PT.Mandiri Lintas Cakrawala",
+    "asn": "AS38782",
+    "count": "0"
+  },
+  {
+    "name": "PT. Cyberindo Aditama",
+    "asn": "AS136108",
+    "count": "0"
+  },
+  {
+    "name": "PT. PATTINDO",
+    "asn": "AS38786",
+    "count": "0"
+  },
+  {
+    "name": "Kampus ITS Keputih Sukolilo Surabaya",
+    "asn": "AS38787",
+    "count": "0"
+  },
+  {
+    "name": "CV. Duta Network Nusantara",
+    "asn": "AS38789",
+    "count": "0"
+  },
+  {
+    "name": "PT. GARANSINDO INTER GLOBAL",
+    "asn": "AS136089",
+    "count": "0"
+  },
+  {
+    "name": "Departemen Luar Negeri Indonesia",
+    "asn": "AS45239",
+    "count": "0"
+  },
+  {
+    "name": "PT Biznet Gio Nusantara",
+    "asn": "AS136080",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS45290",
+    "count": "0"
+  },
+  {
+    "name": "PT Klik Media Netindo",
+    "asn": "AS136072",
+    "count": "0"
+  },
+  {
+    "name": "Rabik Bangun Nusantara, PT",
+    "asn": "AS45296",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS45297",
+    "count": "0"
+  },
+  {
+    "name": "CV. Jamuzu",
+    "asn": "AS136069",
+    "count": "0"
+  },
+  {
+    "name": "PT. Maxima Data",
+    "asn": "AS45299",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS63880",
+    "count": "0"
+  },
+  {
+    "name": "PT. Inova Duapuluh Duapuluh",
+    "asn": "AS45301",
+    "count": "0"
+  },
+  {
+    "name": "PT Sqiva Sistem",
+    "asn": "AS136068",
+    "count": "0"
+  },
+  {
+    "name": "PT. Nurama Indotama",
+    "asn": "AS45303",
+    "count": "0"
+  },
+  {
+    "name": "PT Raya Digital Telematika",
+    "asn": "AS136066",
+    "count": "0"
+  },
+  {
+    "name": "Core Mediatech (D-NET), PT",
+    "asn": "AS45307",
+    "count": "0"
+  },
+  {
+    "name": "Gheananta Cahaya Abadi, PT",
+    "asn": "AS45308",
+    "count": "0"
+  },
+  {
+    "name": "Media Akses Global Indo, PT",
+    "asn": "AS45309",
+    "count": "0"
+  },
+  {
+    "name": "SMARTNET - Broadband Internet Service.",
+    "asn": "AS45310",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS45311",
+    "count": "0"
+  },
+  {
+    "name": "PT.Medialintas Antar Buana",
+    "asn": "AS10114",
+    "count": "0"
+  },
+  {
+    "name": "PT RIVEN TEKNO MANDIRI",
+    "asn": "AS136002",
+    "count": "0"
+  },
+  {
+    "name": "PT. EXAUDI SWARAMINDO",
+    "asn": "AS135674",
+    "count": "0"
+  },
+  {
+    "name": "INDOMOG, PT",
+    "asn": "AS45321",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS45322",
+    "count": "0"
+  },
+  {
+    "name": "KREON, PT",
+    "asn": "AS45323",
+    "count": "0"
+  },
+  {
+    "name": "PT. SANTOSA ASIH JAYA",
+    "asn": "AS135665",
+    "count": "0"
+  },
+  {
+    "name": "PT. CENTRO INTI MEDIA",
+    "asn": "AS135659",
+    "count": "0"
+  },
+  {
+    "name": "Biznet NAP - International Internet Exchange Provider",
+    "asn": "AS45493",
+    "count": "0"
+  },
+  {
+    "name": "PT. BUNGA LESTARI",
+    "asn": "AS135658",
+    "count": "0"
+  },
+  {
+    "name": "PT. Medianet Digital Indonesia",
+    "asn": "AS63881",
+    "count": "0"
+  },
+  {
+    "name": "Network Access Provider",
+    "asn": "AS131118",
+    "count": "0"
+  },
+  {
+    "name": "Bonet Utama, PT",
+    "asn": "AS45698",
+    "count": "0"
+  },
+  {
+    "name": "Jogja Digital, PT",
+    "asn": "AS45699",
+    "count": "0"
+  },
+  {
+    "name": "Open Akamai Indonesia",
+    "asn": "AS45700",
+    "count": "0"
+  },
+  {
+    "name": "PT. AMANDA GUMULUNG SEJAHTERA",
+    "asn": "AS135656",
+    "count": "0"
+  },
+  {
+    "name": "Fotografer Net Global, PT",
+    "asn": "AS45702",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS131705",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS45704",
+    "count": "0"
+  },
+  {
+    "name": "PT BRAMANTY ADHIKARI TIBRA SYANDANA",
+    "asn": "AS135650",
+    "count": "0"
+  },
+  {
+    "name": "PT. KARAGA INDONUSA PRATAMA",
+    "asn": "AS135649",
+    "count": "0"
+  },
+  {
+    "name": "PT. DIAN PRATAMA PERSADA",
+    "asn": "AS135648",
+    "count": "0"
+  },
+  {
+    "name": "PT Indonesia Comnet Plus",
+    "asn": "AS135614",
+    "count": "0"
+  },
+  {
+    "name": "LDP-EXCHANGE",
+    "asn": "AS45709",
+    "count": "0"
+  },
+  {
+    "name": "PT Indonesia Comnet Plus",
+    "asn": "AS135613",
+    "count": "0"
+  },
+  {
+    "name": "PT. Bank ANZ Indonesia",
+    "asn": "AS135486",
+    "count": "0"
+  },
+  {
+    "name": "PUSDATIN KEMHAN RI",
+    "asn": "AS45715",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS45717",
+    "count": "0"
+  },
+  {
+    "name": "PT Bank Central Asia, Tbk",
+    "asn": "AS131704",
+    "count": "0"
+  },
+  {
+    "name": "Varnion Technology Semesta, PT",
+    "asn": "AS45721",
+    "count": "0"
+  },
+  {
+    "name": "PT Multi Trans Data",
+    "asn": "AS135470",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS63887",
+    "count": "0"
+  },
+  {
+    "name": "Aplikanusa Lintasarta, PT",
+    "asn": "AS45730",
+    "count": "0"
+  },
+  {
+    "name": "PT Komunika Jaya Nusantara",
+    "asn": "AS135458",
+    "count": "0"
+  },
+  {
+    "name": "PT. UNINET MEDIA SAKTI",
+    "asn": "AS45735",
+    "count": "0"
+  },
+  {
+    "name": "DISKOMINFO TANGERANG SELATAN",
+    "asn": "AS135453",
+    "count": "0"
+  },
+  {
+    "name": "CV. INDONETMEDIA CORPORATION",
+    "asn": "AS135452",
+    "count": "0"
+  },
+  {
+    "name": "TTPL",
+    "asn": "AS9581",
+    "count": "0"
+  },
+  {
+    "name": "Abi Ummi Corporation",
+    "asn": "AS46021",
+    "count": "0"
+  },
+  {
+    "name": "PT Tunaspersada Cemerlang Jaya",
+    "asn": "AS64023",
+    "count": "0"
+  },
+  {
+    "name": "PT. Finansia Pacifica Raya",
+    "asn": "AS135443",
+    "count": "0"
+  },
+  {
+    "name": "PT. Cyberindo Aditama",
+    "asn": "AS46025",
+    "count": "0"
+  },
+  {
+    "name": "PT Delora Hosting Media",
+    "asn": "AS134662",
+    "count": "0"
+  },
+  {
+    "name": "Speedsoft, PT",
+    "asn": "AS46033",
+    "count": "0"
+  },
+  {
+    "name": "PT Multi Adiprakarsa Manunggal",
+    "asn": "AS134657",
+    "count": "0"
+  },
+  {
+    "name": "PT Hawk Teknologi Solusi",
+    "asn": "AS46036",
+    "count": "0"
+  },
+  {
+    "name": "PT Mitra Internet Makmur",
+    "asn": "AS64025",
+    "count": "0"
+  },
+  {
+    "name": "CepatNet",
+    "asn": "AS46038",
+    "count": "0"
+  },
+  {
+    "name": "PT Morentz Technovo Evolution",
+    "asn": "AS134654",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS46040",
+    "count": "0"
+  },
+  {
+    "name": "Mobility:Nomadic:Fixed::Last-Mile",
+    "asn": "AS46041",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS46043",
+    "count": "0"
+  },
+  {
+    "name": "Wireless Telecom Universal, PT",
+    "asn": "AS46046",
+    "count": "0"
+  },
+  {
+    "name": "Bank Metro Express",
+    "asn": "AS134647",
+    "count": "0"
+  },
+  {
+    "name": "PT Panorama Tours Indonesia",
+    "asn": "AS134646",
+    "count": "0"
+  },
+  {
+    "name": "PT.VELTRATEL",
+    "asn": "AS134637",
+    "count": "0"
+  },
+  {
+    "name": "PT. Global Komunika Dewata",
+    "asn": "AS46053",
+    "count": "0"
+  },
+  {
+    "name": "PT Awan Media Semesta",
+    "asn": "AS134629",
+    "count": "0"
+  },
+  {
+    "name": "PT Bina Informasi Optima Solusindo",
+    "asn": "AS134628",
+    "count": "0"
+  },
+  {
+    "name": "Moratelindo Internet Exchange Point",
+    "asn": "AS131702",
+    "count": "0"
+  },
+  {
+    "name": "PT Denbe Anugerah Solusindo",
+    "asn": "AS64028",
+    "count": "0"
+  },
+  {
+    "name": "PT. Maxindo Mitra Solusi",
+    "asn": "AS134625",
+    "count": "0"
+  },
+  {
+    "name": "PT. Sitti Teknologi Indonesia",
+    "asn": "AS46060",
+    "count": "0"
+  },
+  {
+    "name": "Ekadata Internet Service Provider",
+    "asn": "AS134622",
+    "count": "0"
+  },
+  {
+    "name": "PT Angkasa Pura Solusi",
+    "asn": "AS134619",
+    "count": "0"
+  },
+  {
+    "name": "CYBER2 Internet Exchange",
+    "asn": "AS46064",
+    "count": "0"
+  },
+  {
+    "name": "PT Indonesia Comnets Plus",
+    "asn": "AS46065",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS134617",
+    "count": "0"
+  },
+  {
+    "name": "PT. Andalas Media Informatika",
+    "asn": "AS134616",
+    "count": "0"
+  },
+  {
+    "name": "PT Jejaring Cepat Indonesia",
+    "asn": "AS134615",
+    "count": "0"
+  },
+  {
+    "name": "PT BUANA DOT NET",
+    "asn": "AS134516",
+    "count": "0"
+  },
+  {
+    "name": "PT PRAKARSA VISI VALUTAMA",
+    "asn": "AS133845",
+    "count": "0"
+  },
+  {
+    "name": "PT. INTERNUX",
+    "asn": "AS4832",
+    "count": "0"
+  },
+  {
+    "name": "Universitas Islam Negeri Suska Riau",
+    "asn": "AS133844",
+    "count": "0"
+  },
+  {
+    "name": "YAHOO! ID1",
+    "asn": "AS55418",
+    "count": "0"
+  },
+  {
+    "name": "CV NEGUBAKU INDONESIA",
+    "asn": "AS133837",
+    "count": "0"
+  },
+  {
+    "name": "PT Jaringan VNT Indonesia",
+    "asn": "AS133836",
+    "count": "0"
+  },
+  {
+    "name": "PT. Saranainsan Mudaselaras",
+    "asn": "AS55655",
+    "count": "0"
+  },
+  {
+    "name": "PT Sumber Data Indonesia",
+    "asn": "AS131701",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS55657",
+    "count": "0"
+  },
+  {
+    "name": "PT. HIPERNET INDODATA",
+    "asn": "AS55658",
+    "count": "0"
+  },
+  {
+    "name": "PT Omadata Indonesia (OMADATA Internet Exchange)",
+    "asn": "AS55659",
+    "count": "0"
+  },
+  {
+    "name": "Bank UOB Indonesia",
+    "asn": "AS133833",
+    "count": "0"
+  },
+  {
+    "name": "PT JEMBATAN CITRA NUSANTARA",
+    "asn": "AS131700",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS133831",
+    "count": "0"
+  },
+  {
+    "name": "PT Pika Media Komunika",
+    "asn": "AS133830",
+    "count": "0"
+  },
+  {
+    "name": "PT Duta Medialink",
+    "asn": "AS133828",
+    "count": "0"
+  },
+  {
+    "name": "Direktorat Jenderal Pendidikan Tinggi",
+    "asn": "AS133826",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS55671",
+    "count": "0"
+  },
+  {
+    "name": "PT Maxindo Content Solution",
+    "asn": "AS133821",
+    "count": "0"
+  },
+  {
+    "name": "Intiland Development Tbk. PT",
+    "asn": "AS55675",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS55676",
+    "count": "0"
+  },
+  {
+    "name": "PT Gudang Data Indonesia",
+    "asn": "AS133820",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS55678",
+    "count": "0"
+  },
+  {
+    "name": "Universitas Bangka Belitung",
+    "asn": "AS133818",
+    "count": "0"
+  },
+  {
+    "name": "PT Charoen Pokphand Indonesia Tbk",
+    "asn": "AS64032",
+    "count": "0"
+  },
+  {
+    "name": "PT.ASIASOFT INDONESIA",
+    "asn": "AS55681",
+    "count": "0"
+  },
+  {
+    "name": "PT Digital Inisiatif",
+    "asn": "AS131698",
+    "count": "0"
+  },
+  {
+    "name": "PT Cipta Skynindo",
+    "asn": "AS133813",
+    "count": "0"
+  },
+  {
+    "name": "PT Darta Media Indonesia",
+    "asn": "AS133810",
+    "count": "0"
+  },
+  {
+    "name": "PT INDONETWORK.",
+    "asn": "AS55686",
+    "count": "0"
+  },
+  {
+    "name": "PT. Internet Madju Abad Millenindo",
+    "asn": "AS133806",
+    "count": "0"
+  },
+  {
+    "name": "PT. CyberNusa Technology",
+    "asn": "AS55689",
+    "count": "0"
+  },
+  {
+    "name": "PT Lyto Datarindo Fortuna",
+    "asn": "AS133801",
+    "count": "0"
+  },
+  {
+    "name": "PT MILENIA MUKTI MANDIRI",
+    "asn": "AS55692",
+    "count": "0"
+  },
+  {
+    "name": "MPLS Network Provider",
+    "asn": "AS131117",
+    "count": "0"
+  },
+  {
+    "name": "PT. ARAGON SENTRAL TENIKA",
+    "asn": "AS133637",
+    "count": "0"
+  },
+  {
+    "name": "PT Interactive Prima Online",
+    "asn": "AS64299",
+    "count": "0"
+  },
+  {
+    "name": "PT. VERANITA PUTRI SEJATI",
+    "asn": "AS133464",
+    "count": "0"
+  },
+  {
+    "name": "PT. SOLUNA BERLIMA PUTRA",
+    "asn": "AS133458",
+    "count": "0"
+  },
+  {
+    "name": "Universitas Negeri Yogyakarta",
+    "asn": "AS55700",
+    "count": "0"
+  },
+  {
+    "name": "PT. DESTY SINARTHA JAYA",
+    "asn": "AS133446",
+    "count": "0"
+  },
+  {
+    "name": "PT. ALAM INSEKTINDO",
+    "asn": "AS133442",
+    "count": "0"
+  },
+  {
+    "name": "Argon Data Communication",
+    "asn": "AS133363",
+    "count": "0"
+  },
+  {
+    "name": "PT Qeon Interactive",
+    "asn": "AS131696",
+    "count": "0"
+  },
+  {
+    "name": "PT. KAPANLAGI.COM NETWORKS",
+    "asn": "AS131695",
+    "count": "0"
+  },
+  {
+    "name": "PT. INFINITY SARANA SUKSES",
+    "asn": "AS56232",
+    "count": "0"
+  },
+  {
+    "name": "Indonesia Network Information Center",
+    "asn": "AS133362",
+    "count": "0"
+  },
+  {
+    "name": "PT Axarva Media Teknologi",
+    "asn": "AS133358",
+    "count": "0"
+  },
+  {
+    "name": "PT Jabikha Teknologi Indonesia",
+    "asn": "AS131694",
+    "count": "0"
+  }
+]
