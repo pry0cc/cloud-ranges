@@ -15,5 +15,5 @@ do
         sleep 120
     done
     echo "Sleeping for 86400 seconds (24 hours!) See you tomorrow!"
-    sleep 360
+    sleep 3600
 done
