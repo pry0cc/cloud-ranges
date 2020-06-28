@@ -1,0 +1,615 @@
+103.113.40.0/22	 56 Russell Street	1,024
+103.122.126.0/24	 Skybird Co., Ltd	256
+103.129.147.0/24	 Taiwan Intelligent Home Corp.	256
+103.136.224.0/24	 Psydea Digital Inc.	256
+103.136.225.0/24	 Psydea Digital Inc.	256
+103.43.72.0/22	 Choopa, LLC	1,024
+103.69.212.0/24	 Nanjing Imperiosus Technology Co. Ltd	256
+103.69.213.0/24	 Nanjing Imperiosus Technology Co. Ltd	256
+103.69.214.0/24	 Nanjing Imperiosus Technology Co. Ltd	256
+103.69.215.0/24	 Nanjing Imperiosus Technology Co. Ltd	256
+103.82.155.0/24	 DNS Wizard Limited	256
+104.156.224.0/22	 Vultr Holdings, LLC	1,024
+104.156.228.0/22	 Vultr Holdings, LLC	1,024
+104.156.232.0/23	 Vultr Holdings, LLC	512
+104.156.234.0/23	 GameServers.com	512
+104.156.236.0/23	 Vultr Holdings, LLC	512
+104.156.238.0/23	 Vultr Holdings, LLC	512
+104.156.240.0/21	 Vultr Holdings, LLC	2,048
+104.156.248.0/22	 Vultr Holdings, LLC	1,024
+104.156.252.0/23	 Vultr Holdings, LLC	512
+104.156.254.0/23	 Vultr Holdings, LLC	512
+104.207.128.0/23	 Vultr Holdings, LLC	512
+104.207.130.0/23	 Vultr Holdings, LLC	512
+104.207.132.0/22	 Vultr Holdings, LLC	1,024
+104.207.136.0/21	 Vultr Holdings, LLC	2,048
+104.207.144.0/22	 Vultr Holdings, LLC	1,024
+104.207.148.0/22	 Vultr Holdings, LLC	1,024
+104.207.152.0/22	 Vultr Holdings, LLC	1,024
+104.207.156.0/22	 Vultr Holdings, LLC	1,024
+104.232.220.0/24	 Web2Objects LLC	256
+104.232.221.0/24	 Web2Objects LLC	256
+104.237.8.0/24	 Hosteros LLC	256
+104.238.128.0/21	 Vultr Holdings, LLC	2,048
+104.238.136.0/23	 Vultr Holdings, LLC	512
+104.238.138.0/23	 Vultr Holdings, LLC	512
+104.238.140.0/22	 Vultr Holdings, LLC	1,024
+104.238.144.0/22	 Vultr Holdings, LLC	1,024
+104.238.148.0/22	 Vultr Holdings, LLC	1,024
+104.238.152.0/22	 Vultr Holdings, LLC	1,024
+104.238.156.0/23	 Vultr Holdings, LLC	512
+104.238.158.0/23	 Vultr Holdings, LLC	512
+104.238.160.0/23	 Vultr Holdings, LLC	512
+104.238.162.0/23	 Vultr Holdings, LLC	512
+104.238.164.0/23	 Vultr Holdings, LLC	512
+104.238.166.0/23	 Vultr Holdings, LLC	512
+104.238.168.0/21	 Vultr Holdings, LLC	2,048
+104.238.176.0/23	 Vultr Holdings, LLC	512
+104.238.178.0/23	 Vultr Holdings, LLC	512
+104.238.180.0/22	 Vultr Holdings, LLC	1,024
+104.238.184.0/22	 Vultr Holdings, LLC	1,024
+104.238.188.0/22	 Vultr Holdings, LLC	1,024
+104.250.120.0/24	 DigitalFyre Internet Solutions, LLC.	256
+104.250.122.0/23	 DigitalFyre Internet Solutions, LLC.	512
+104.250.97.0/24	 DigitalFyre Internet Solutions, LLC.	256
+107.191.32.0/21	 Choopa, LLC	2,048
+107.191.40.0/22	 Vultr Holdings, LLC	1,024
+107.191.44.0/23	 Vultr Holdings, LLC	512
+107.191.46.0/23	 Vultr Holdings, LLC	512
+107.191.48.0/22	 Vultr Holdings, LLC	1,024
+107.191.52.0/23	 Vultr Holdings, LLC	512
+107.191.54.0/23	 Vultr Holdings, LLC	512
+107.191.56.0/23	 Vultr Holdings, LLC	512
+107.191.58.0/23	 Vultr Holdings, LLC	512
+107.191.60.0/23	 Vultr Holdings, LLC	512
+107.191.62.0/23	 Vultr Holdings, LLC	512
+108.160.128.0/20	 Reliable Servers LLC	4,096
+108.61.0.0/18	 Choopa, LLC	16,384
+108.61.100.0/23	 GameServers.com	512
+108.61.100.0/24	 GameServers.com	256
+108.61.103.0/24	 Vultr Holdings, LLC	256
+108.61.104.0/24	 GameServers.com	256
+108.61.105.0/24	 Vultr Holdings, LLC	256
+108.61.106.0/24	 GameServers.com	256
+108.61.107.0/24	 GameServers.com	256
+108.61.108.0/22	 GameServers.com	1,024
+108.61.112.0/23	 GameServers.com	512
+108.61.114.0/24	 GameServers.com	256
+108.61.115.0/24	 Vultr Holdings, LLC	256
+108.61.116.0/24	 GameServers.com	256
+108.61.117.0/24	 Vultr Holdings, LLC	256
+108.61.118.0/24	 GameServers.com	256
+108.61.119.0/24	 Vultr Holdings, LLC	256
+108.61.120.0/24	 GameServers.com	256
+108.61.121.0/24	 GameServers.com	256
+108.61.122.0/23	 GameServers.com	512
+108.61.124.0/24	 GameServers.com	256
+108.61.125.0/24	 GameServers.com	256
+108.61.126.0/23	 Vultr Holdings, LLC	512
+108.61.128.0/19	 Choopa, LLC	8,192
+108.61.160.0/22	 Vultr Holdings, LLC	1,024
+108.61.164.0/22	 Vultr Holdings, LLC	1,024
+108.61.168.0/23	 Vultr Holdings, LLC	512
+108.61.170.0/23	 Vultr Holdings, LLC	512
+108.61.172.0/22	 Vultr Holdings, LLC	1,024
+108.61.176.0/23	 Vultr Holdings, LLC	512
+108.61.178.0/23	 Vultr Holdings, LLC	512
+108.61.180.0/22	 Vultr Holdings, LLC	1,024
+108.61.184.0/23	 Vultr Holdings, LLC	512
+108.61.186.0/23	 Vultr Holdings, LLC	512
+108.61.188.0/23	 Vultr Holdings, LLC	512
+108.61.190.0/24	 Vultr Holdings, LLC	256
+108.61.191.0/24	 Vultr Holdings, LLC	256
+108.61.192.0/23	 Vultr Holdings, LLC	512
+108.61.194.0/23	 Vultr Holdings, LLC	512
+108.61.196.0/23	 Vultr Holdings, LLC	512
+108.61.198.0/23	 Vultr Holdings, LLC	512
+108.61.200.0/23	 Vultr Holdings, LLC	512
+108.61.202.0/23	 Vultr Holdings, LLC	512
+108.61.204.0/23	 Vultr Holdings, LLC	512
+108.61.206.0/23	 Vultr Holdings, LLC	512
+108.61.208.0/23	 Vultr Holdings, LLC	512
+108.61.210.0/23	 Vultr Holdings, LLC	512
+108.61.212.0/23	 Vultr Holdings, LLC	512
+108.61.214.0/24	 Vultr Holdings, LLC	256
+108.61.215.0/24	 Vultr Holdings, LLC	256
+108.61.216.0/22	 Vultr Holdings, LLC	1,024
+108.61.220.0/24	 Vultr Holdings, LLC	256
+108.61.221.0/24	 Vultr Holdings, LLC	256
+108.61.222.0/24	 Vultr Holdings, LLC	256
+108.61.223.0/24	 Vultr Holdings, LLC	256
+108.61.224.0/24	 Vultr Holdings, LLC	256
+108.61.225.0/24	 Vultr Holdings, LLC	256
+108.61.226.0/24	 Choopa, LLC	256
+108.61.227.0/24	 GameServers.com	256
+108.61.228.0/23	 Vultr Holdings, LLC	512
+108.61.230.0/24	 GameServers.com	256
+108.61.231.0/24	 GameServers.com	256
+108.61.232.0/24	 GameServers.com	256
+108.61.233.0/24	 GameServers.com	256
+108.61.234.0/24	 GameServers.com	256
+108.61.235.0/24	 GameServers.com	256
+108.61.236.0/24	 GameServers.com	256
+108.61.237.0/24	 GameServers.com	256
+108.61.238.0/24	 GameServers.com	256
+108.61.239.0/24	 GameServers.com	256
+108.61.240.0/24	 Choopa IRC	256
+108.61.241.0/24	 Vultr Holdings, LLC	256
+108.61.242.0/24	 Vultr Holdings, LLC	256
+108.61.243.0/24	 3 YEO, Inc.	256
+108.61.245.0/24	 Vultr Holdings, LLC	256
+108.61.246.0/23	 Vultr Holdings, LLC	512
+108.61.249.0/24	 Vultr Holdings, LLC	256
+108.61.250.0/24	 Vultr Holdings, LLC	256
+108.61.251.0/24	 Vultr Holdings, LLC	256
+108.61.252.0/24	 Vultr Holdings, LLC	256
+108.61.253.0/24	 GameServers.com	256
+108.61.254.0/23	 GameServers.com	512
+108.61.64.0/19	 Choopa, LLC	8,192
+108.61.96.0/24	 Vultr Holdings, LLC	256
+108.61.97.0/24	 GameServers.com	256
+108.61.98.0/23	 GameServers.com	512
+117.74.103.0/24	 BWIRED	256
+136.244.112.0/20	 Choopa, LLC	4,096
+136.244.64.0/20	 Choopa, LLC	4,096
+136.244.80.0/20	 Choopa, LLC	4,096
+136.244.96.0/20	 Choopa, LLC	4,096
+137.220.32.0/20	 Choopa, LLC	4,096
+137.220.48.0/22	 Vultr Holdings, LLC	1,024
+137.220.52.0/22	 Vultr Holdings, LLC	1,024
+137.220.56.0/21	 Choopa, LLC	2,048
+139.180.128.0/19	 SGP_VULTR_CUST	8,192
+139.180.160.0/20	 AUS_VULTR_CUST	4,096
+139.180.176.0/21	 AUS_VULTR_CUST	2,048
+139.180.184.0/21	 SGP_VULTR_CUST	2,048
+139.180.192.0/20	 TYO_VULTR_CUST	4,096
+139.180.208.0/20	 SGP_VULTR_CUST	4,096
+139.60.202.0/24	 Teridion inc	256
+139.60.204.0/24	 Teridion inc	256
+140.82.0.0/20	 Choopa, LLC	4,096
+140.82.16.0/21	 Vultr Holdings, LLC	2,048
+140.82.24.0/21	 Vultr Holdings, LLC	2,048
+140.82.32.0/21	 Vultr Holdings, LLC	2,048
+140.82.40.0/22	 Vultr Holdings, LLC	1,024
+140.82.44.0/22	 Vultr Holdings, LLC	1,024
+140.82.48.0/22	 Vultr Holdings, LLC	1,024
+140.82.52.0/22	 Vultr Holdings, LLC	1,024
+140.82.56.0/22	 Vultr Holdings, LLC	1,024
+140.82.60.0/22	 Vultr Holdings, LLC	1,024
+141.164.32.0/19	 Choopa, LLC	8,192
+144.202.0.0/20	 Vultr Holdings, LLC	4,096
+144.202.112.0/20	 Vultr Holdings, LLC	4,096
+144.202.16.0/20	 Vultr Holdings, LLC	4,096
+144.202.32.0/20	 Vultr Holdings, LLC	4,096
+144.202.48.0/20	 Vultr Holdings, LLC	4,096
+144.202.64.0/20	 Vultr Holdings, LLC	4,096
+144.202.80.0/20	 Vultr Holdings, LLC	4,096
+144.202.96.0/20	 Vultr Holdings, LLC	4,096
+145.249.108.0/24	 ANDREJS GUBA	256
+149.248.0.0/19	 Choopa, LLC	8,192
+149.248.32.0/20	 Choopa, LLC	4,096
+149.248.48.0/20	 Choopa, LLC	4,096
+149.28.112.0/20	 Vultr Holdings, LLC	4,096
+149.28.128.0/19	 Choopa, LLC	8,192
+149.28.160.0/19	 Choopa, LLC	8,192
+149.28.16.0/20	 Vultr Holdings, LLC	4,096
+149.28.192.0/19	 Choopa, LLC	8,192
+149.28.224.0/20	 Vultr Holdings, LLC	4,096
+149.28.240.0/20	 Vultr Holdings, LLC	4,096
+149.28.32.0/19	 Choopa, LLC	8,192
+149.28.64.0/19	 Choopa, LLC	8,192
+149.28.8.0/21	 Vultr Holdings, LLC	2,048
+149.28.96.0/20	 Vultr Holdings, LLC	4,096
+155.138.128.0/19	 Choopa, LLC	8,192
+155.138.160.0/20	 Vultr Holdings, LLC	4,096
+155.138.176.0/20	 Choopa, LLC	4,096
+155.138.192.0/19	 Choopa, LLC	8,192
+155.138.224.0/20	 Vultr Holdings, LLC	4,096
+155.138.240.0/20	 Vultr Holdings, LLC	4,096
+162.253.176.0/24	 Secure Dragon LLC.	256
+167.179.64.0/18	 Choopa, LLC	16,384
+168.151.29.0/24	 Edifice Group, Inc.	256
+172.86.144.0/24	 Choopa, LLC	256
+172.96.140.0/23	 ReliableSite.Net LLC	512
+173.199.100.0/24	 GameServers.com	256
+173.199.101.0/24	 GameServers.com	256
+173.199.103.0/24	 GameServers.com	256
+173.199.104.0/24	 GameServers.com	256
+173.199.105.0/24	 GameServers.com	256
+173.199.106.0/24	 3 YEO, Inc.	256
+173.199.107.0/24	 GameServers.com	256
+173.199.108.0/22	 GameServers.com	1,024
+173.199.112.0/23	 Vultr Holdings, LLC	512
+173.199.114.0/23	 Vultr Holdings, LLC	512
+173.199.116.0/22	 Vultr Holdings, LLC	1,024
+173.199.120.0/22	 Vultr Holdings, LLC	1,024
+173.199.124.0/22	 Vultr Holdings, LLC	1,024
+173.199.64.0/24	 GameServers.com	256
+173.199.65.0/24	 GameServers.com	256
+173.199.66.0/24	 GameServers.com	256
+173.199.67.0/24	 GameServers.com	256
+173.199.68.0/23	 GameServers.com	512
+173.199.70.0/23	 Vultr Holdings, LLC	512
+173.199.72.0/21	 GameServers.com	2,048
+173.199.80.0/24	 Vultr Holdings, LLC	256
+173.199.81.0/24	 Vultr Holdings, LLC	256
+173.199.82.0/24	 GameServers.com	256
+173.199.83.0/24	 GameServers.com	256
+173.199.84.0/22	 Choopa, LLC	1,024
+173.199.88.0/21	 GameServers.com	2,048
+173.199.88.0/24	 GameServers.com	256
+173.199.91.0/24	 GameServers.com	256
+173.199.92.0/24	 GameServers.com	256
+173.199.93.0/24	 GameServers.com	256
+173.199.94.0/24	 GameServers.com	256
+173.199.95.0/24	 GameServers.com	256
+173.199.96.0/21	 GameServers.com	2,048
+173.199.96.0/24	 Choopa, LLC	256
+173.199.98.0/24	 GameServers.com	256
+173.199.99.0/24	 GameServers.com	256
+173.239.241.0/24	 ONEWISP	256
+185.103.200.0/24	 Wanwire B.V.	256
+185.103.203.0/24	 Wanwire B.V.	256
+185.120.23.0/24	 https://bunnycdn.com	256
+185.175.156.0/24	 TheIDEAHosting /24 Subnet for US Datacenter	256
+185.211.148.0/24	 aldente brainworks GmbH	256
+185.211.50.0/24	 Redeye Ventures LLC	256
+185.35.78.0/24	 Corgi Tech Public Range	256
+185.69.120.0/22	 Sheik Mohammad Yacoob Edoo	1,024
+185.92.220.0/23	 JW Lucasweg 35	512
+185.92.222.0/23	 JW Lucasweg 35	512
+185.93.174.0/24	 Noroutine UG (haftungsbeschraenkt)	256
+188.116.50.0/24	 Noroutine UG (haftungsbeschraenkt)	256
+188.116.51.0/24	 Noroutine UG (haftungsbeschraenkt)	256
+190.112.202.0/24	 Velocom AR - SRVDCUY	256
+192.121.195.0/24	 Research and testing	256
+192.206.23.0/24	 Edifice Group, Inc.	256
+192.248.128.0/20	 Choopa, LLC	4,096
+192.248.144.0/20	 Choopa, LLC	4,096
+193.30.100.0/24	 Startia Operadora, S.L.	256
+193.38.251.0/24	 Kevin Dautermann	256
+194.50.198.0/24	 Casa Ejecutiva	256
+195.122.134.0/24	 CLANSERVERS-DE	256
+195.122.135.0/24	 CLANSERVERS-DE	256
+195.68.242.0/24	 Hedwig-Dransfeld-Allee 14	256
+195.68.243.0/24	 Hedwig-Dransfeld-Allee 14	256
+196.54.17.0/24	 LogicWeb Inc	256
+198.13.32.0/20	 Choopa, LLC	4,096
+198.13.48.0/20	 Choopa, LLC	4,096
+198.17.215.0/24	 Aesir Computing, Inc.	256
+198.252.96.0/24	 Hawk Host Inc.	256
+198.252.97.0/24	 Hawk Host Inc.	256
+198.51.98.0/24	 James M. Maenpaa	256
+199.115.193.0/24	 Delta Centric LLC	256
+199.184.245.0/24	 Technology Transfer Services	256
+199.247.0.0/21	 Hanauer Landstraße 302	2,048
+199.247.16.0/21	 Hanauer Landstraße 302	2,048
+199.247.24.0/21	 JW Lucasweg 35	2,048
+199.247.8.0/21	 20/22, Rue Des Gardinoux	2,048
+199.48.176.0/22	 Internex Solutions LLC	1,024
+199.48.183.0/24	 Internex Solutions LLC	256
+199.5.133.0/24	 Keystone Software, Inc.	256
+200.35.153.0/24	 VELOCOM Uruguay S.A.	256
+202.182.112.0/20	 TYO_VULTR_CUST	4,096
+202.182.96.0/20	 TYO_VULTR_CUST	4,096
+203.25.132.0/24	 Virtual Village	256
+203.34.235.0/24	 Arcadia Technology	256
+204.107.223.0/24	 Austin Software Foundry, Inc.	256
+204.107.246.0/24	 Austin Software Foundry, Inc.	256
+204.107.90.0/24	 The Telecom Security Group	256
+204.126.26.0/24	 ACISS Systems	256
+204.126.27.0/24	 ACISS Systems	256
+204.80.128.0/24	 ZeroTier, Inc.	256
+207.148.0.0/21	 Vultr Holdings, LLC	2,048
+207.148.112.0/22	 TYO_VULTR_CUST	1,024
+207.148.116.0/22	 SGP_VULTR_CUST	1,024
+207.148.120.0/21	 SGP_VULTR_CUST	2,048
+207.148.16.0/20	 Choopa, LLC	4,096
+207.148.64.0/20	 SGP_VULTR_CUST	4,096
+207.148.80.0/21	 AUS_VULTR_CUST	2,048
+207.148.8.0/21	 Vultr Holdings, LLC	2,048
+207.148.88.0/21	 TYO_VULTR_CUST	2,048
+207.148.96.0/20	 TYO_VULTR_CUST	4,096
+207.246.112.0/21	 Vultr Holdings, LLC	2,048
+207.246.120.0/21	 Vultr Holdings, LLC	2,048
+207.246.64.0/20	 Choopa, LLC	4,096
+207.246.80.0/20	 Choopa, LLC	4,096
+207.246.96.0/20	 Choopa, LLC	4,096
+208.167.224.0/19	 Choopa, LLC	8,192
+208.65.84.0/24	 Axedale	256
+208.65.85.0/24	 Axedale	256
+208.65.86.0/24	 Axedale	256
+208.65.87.0/24	 Axedale	256
+209.222.0.0/20	 Choopa, LLC	4,096
+209.222.16.0/22	 Choopa, LLC	1,024
+209.222.20.0/23	 Vultr Holdings, LLC	512
+209.222.22.0/24	 Choopa IRC	256
+209.222.23.0/24	 Verve Hosting, Inc.	256
+209.222.24.0/22	 Internex Solutions llc	1,024
+209.222.28.0/24	 Vultr Holdings, LLC	256
+209.222.29.0/24	 Nimble Solutions	256
+209.222.30.0/24	 Vultr Holdings, LLC	256
+209.222.31.0/24	 Vultr Holdings, LLC	256
+209.246.142.0/24	 Choopa, LLC	256
+209.246.143.0/24	 Choopa, LLC	256
+209.247.83.0/24	 Level 3 Parent, LLC	256
+209.250.224.0/21	 Choopa, LLC	2,048
+209.250.232.0/21	 Hanauer Landstraße 302	2,048
+209.250.240.0/21	 JW Lucasweg 35	2,048
+209.250.248.0/21	 Choopa, LLC	2,048
+212.187.208.0/23	 Clanservers.com (NCC#2005082449 Approved IP assignment)	512
+212.187.246.0/23	 Clanservers Hosting LLC	512
+213.190.23.0/24	 www.perfops.net	256
+216.128.128.0/20	 Choopa, LLC	4,096
+216.128.144.0/20	 Choopa, LLC	4,096
+216.128.160.0/20	 Choopa, LLC	4,096
+216.128.176.0/20	 Choopa, LLC	4,096
+216.155.128.0/19	 Choopa, LLC	8,192
+217.163.10.0/24	 Centurylink Communications UK Limited	256
+217.163.11.0/24	 Centurylink Communications UK Limited	256
+217.163.23.0/24	 Choopa LLC	256
+217.163.24.0/22	 Choopa LLC	1,024
+217.163.28.0/23	 Choopa LLC	512
+217.163.30.0/24	 Choopa LLC	256
+217.163.31.0/24	 Choopa LLC	256
+217.69.0.0/20	 Choopa, LLC	4,096
+43.224.32.0/22	 Choopa, LLC	1,024
+44.124.11.0/24	 Amateur Radio Digital Communications	256
+44.136.128.0/23	 Amateur Radio Digital Communications	512
+44.136.33.0/24	 Amateur Radio Digital Communications	256
+44.141.125.0/24	 Amateur Radio Digital Communications	256
+44.144.123.0/24	 Amateur Radio Digital Communications	256
+44.144.49.0/24	 Amateur Radio Digital Communications	256
+44.168.0.0/16	 Amateur Radio Digital Communications	65,536
+44.190.11.0/24	 Amateur Radio Digital Communications	256
+44.190.24.0/22	 Amateur Radio Digital Communications	1,024
+44.20.29.0/24	 Amateur Radio Digital Communications	256
+44.20.4.0/24	 Amateur Radio Digital Communications	256
+44.20.43.0/24	 Amateur Radio Digital Communications	256
+44.2.12.0/24	 Amateur Radio Digital Communications	256
+44.24.182.0/24	 Amateur Radio Digital Communications	256
+44.34.96.0/24	 Amateur Radio Digital Communications	256
+44.36.11.0/24	 Amateur Radio Digital Communications	256
+44.40.160.0/23	 Amateur Radio Digital Communications	512
+44.4.51.0/24	 Amateur Radio Digital Communications	256
+44.46.19.0/24	 Amateur Radio Digital Communications	256
+44.48.170.0/24	 Amateur Radio Digital Communications	256
+44.48.26.0/23	 Amateur Radio Digital Communications	512
+44.48.8.0/22	 Amateur Radio Digital Communications	1,024
+44.50.1.0/24	 Amateur Radio Digital Communications	256
+44.56.160.0/24	 Amateur Radio Digital Communications	256
+44.56.207.0/24	 Amateur Radio Digital Communications	256
+44.62.11.0/24	 Amateur Radio Digital Communications	256
+44.62.13.0/24	 Amateur Radio Digital Communications	256
+44.62.14.0/24	 Amateur Radio Digital Communications	256
+44.62.3.0/24	 Amateur Radio Digital Communications	256
+44.64.118.0/24	 Amateur Radio Digital Communications	256
+44.70.24.0/24	 Amateur Radio Digital Communications	256
+44.70.25.0/24	 Amateur Radio Digital Communications	256
+44.76.15.0/24	 Amateur Radio Digital Communications	256
+45.132.15.0/24	 Connex Carrier Services (Worldwide) Limited	256
+45.137.219.0/24	 www.olvps.com	256
+45.141.144.0/24	 Sytek ICT Diensten BV	256
+45.147.232.0/22	 Server LLC	1,024
+45.147.5.0/24	 Mo's Operations GmbH	256
+45.147.8.0/22	 Server LLC	1,024
+45.152.91.0/24	 All Simple - London	256
+45.156.1.0/24	 Erlivideo LLC	256
+45.202.11.0/24	 Choopa LLC	256
+45.249.221.0/24	 PT Exa Rekatek Prosolusi	256
+45.32.0.0/21	 Vultr Holdings, LLC	2,048
+45.32.128.0/20	 Vultr Holdings, LLC	4,096
+45.32.144.0/21	 Vultr Holdings, LLC	2,048
+45.32.152.0/21	 Vultr Holdings, LLC	2,048
+45.32.160.0/20	 Vultr Holdings, LLC	4,096
+45.32.16.0/21	 Vultr Holdings, LLC	2,048
+45.32.176.0/21	 Vultr Holdings, LLC	2,048
+45.32.184.0/22	 Vultr Holdings, LLC	1,024
+45.32.188.0/22	 Vultr Holdings, LLC	1,024
+45.32.192.0/20	 Vultr Holdings, LLC	4,096
+45.32.208.0/20	 Vultr Holdings, LLC	4,096
+45.32.224.0/21	 Vultr Holdings, LLC	2,048
+45.32.232.0/21	 Vultr Holdings, LLC	2,048
+45.32.240.0/21	 Vultr Holdings, LLC	2,048
+45.32.24.0/21	 Vultr Holdings, LLC	2,048
+45.32.248.0/21	 Vultr Holdings, LLC	2,048
+45.32.32.0/19	 Choopa, LLC	8,192
+45.32.64.0/19	 Choopa, LLC	8,192
+45.32.8.0/21	 Vultr Holdings, LLC	2,048
+45.32.96.0/19	 Choopa, LLC	8,192
+45.41.135.0/24	 VPN Consumer Network	256
+45.63.0.0/20	 Vultr Holdings, LLC	4,096
+45.63.104.0/21	 Vultr Holdings, LLC	2,048
+45.63.112.0/22	 Vultr Holdings, LLC	1,024
+45.63.116.0/22	 Vultr Holdings, LLC	1,024
+45.63.120.0/22	 Vultr Holdings, LLC	1,024
+45.63.124.0/22	 Vultr Holdings, LLC	1,024
+45.63.16.0/21	 Vultr Holdings, LLC	2,048
+45.63.24.0/21	 Vultr Holdings, LLC	2,048
+45.63.32.0/21	 Vultr Holdings, LLC	2,048
+45.63.40.0/22	 Vultr Holdings, LLC	1,024
+45.63.44.0/24	 Vultr Holdings, LLC	256
+45.63.45.0/24	 Vultr Holdings, LLC	256
+45.63.46.0/23	 GameServers.com	512
+45.63.48.0/20	 Vultr Holdings, LLC	4,096
+45.63.64.0/20	 Vultr Holdings, LLC	4,096
+45.63.80.0/20	 Vultr Holdings, LLC	4,096
+45.63.96.0/21	 Vultr Holdings, LLC	2,048
+45.76.0.0/20	 Vultr Holdings, LLC	4,096
+45.76.112.0/20	 Vultr Holdings, LLC	4,096
+45.76.128.0/20	 Vultr Holdings, LLC	4,096
+45.76.144.0/21	 Vultr Holdings, LLC	2,048
+45.76.152.0/21	 Vultr Holdings, LLC	2,048
+45.76.160.0/22	 Vultr Holdings, LLC	1,024
+45.76.16.0/20	 Vultr Holdings, LLC	4,096
+45.76.164.0/22	 Vultr Holdings, LLC	1,024
+45.76.168.0/21	 Vultr Holdings, LLC	2,048
+45.76.176.0/20	 Vultr Holdings, LLC	4,096
+45.76.192.0/19	 Choopa, LLC	8,192
+45.76.224.0/21	 Vultr Holdings, LLC	2,048
+45.76.232.0/21	 Vultr Holdings, LLC	2,048
+45.76.240.0/21	 Vultr Holdings, LLC	2,048
+45.76.248.0/21	 Vultr Holdings, LLC	2,048
+45.76.32.0/21	 Vultr Holdings, LLC	2,048
+45.76.40.0/22	 Vultr Holdings, LLC	1,024
+45.76.44.0/22	 Vultr Holdings, LLC	1,024
+45.76.48.0/21	 Vultr Holdings, LLC	2,048
+45.76.56.0/22	 Vultr Holdings, LLC	1,024
+45.76.60.0/22	 Vultr Holdings, LLC	1,024
+45.76.64.0/20	 Vultr Holdings, LLC	4,096
+45.76.80.0/20	 Vultr Holdings, LLC	4,096
+45.76.96.0/20	 Vultr Holdings, LLC	4,096
+45.77.0.0/21	 Vultr Holdings, LLC	2,048
+45.77.112.0/21	 Vultr Holdings, LLC	2,048
+45.77.120.0/21	 Vultr Holdings, LLC	2,048
+45.77.128.0/21	 Vultr Holdings, LLC	2,048
+45.77.136.0/22	 Vultr Holdings, LLC	1,024
+45.77.140.0/22	 Vultr Holdings, LLC	1,024
+45.77.144.0/20	 Vultr Holdings, LLC	4,096
+45.77.160.0/21	 Vultr Holdings, LLC	2,048
+45.77.16.0/20	 Vultr Holdings, LLC	4,096
+45.77.168.0/21	 Vultr Holdings, LLC	2,048
+45.77.176.0/21	 Vultr Holdings, LLC	2,048
+45.77.184.0/21	 Vultr Holdings, LLC	2,048
+45.77.192.0/21	 Vultr Holdings, LLC	2,048
+45.77.200.0/21	 Vultr Holdings, LLC	2,048
+45.77.208.0/21	 Vultr Holdings, LLC	2,048
+45.77.216.0/21	 Vultr Holdings, LLC	2,048
+45.77.224.0/21	 Vultr Holdings, LLC	2,048
+45.77.232.0/21	 Vultr Holdings, LLC	2,048
+45.77.240.0/20	 Vultr Holdings, LLC	4,096
+45.77.32.0/20	 Vultr Holdings, LLC	4,096
+45.77.48.0/22	 Vultr Holdings, LLC	1,024
+45.77.52.0/22	 Vultr Holdings, LLC	1,024
+45.77.56.0/22	 Vultr Holdings, LLC	1,024
+45.77.60.0/22	 Vultr Holdings, LLC	1,024
+45.77.64.0/22	 Vultr Holdings, LLC	1,024
+45.77.68.0/22	 Vultr Holdings, LLC	1,024
+45.77.72.0/22	 Vultr Holdings, LLC	1,024
+45.77.76.0/22	 Vultr Holdings, LLC	1,024
+45.77.80.0/22	 Vultr Holdings, LLC	1,024
+45.77.8.0/21	 Vultr Holdings, LLC	2,048
+45.77.84.0/22	 Vultr Holdings, LLC	1,024
+45.77.88.0/22	 Vultr Holdings, LLC	1,024
+45.77.92.0/22	 Vultr Holdings, LLC	1,024
+45.77.96.0/20	 Vultr Holdings, LLC	4,096
+45.80.157.0/24	 Legaco Networks B.V.	256
+4.79.145.0/24	 Choopa, LLC	256
+50.114.95.0/24	 Delta Centric LLC	256
+5.182.22.0/24	 Tool Domains OOD	256
+5.182.23.0/24	 Tool Domains OOD	256
+62.67.42.0/24	 Clanservers.com	256
+63.208.142.0/24	 Level 3 Parent, LLC	256
+63.209.32.0/23	 Choopa, LLC	512
+63.209.35.0/24	 Choopa, LLC	256
+63.209.36.0/24	 Choopa, LLC	256
+63.209.37.0/24	 Choopa, LLC	256
+63.210.145.0/24	 Choopa, LLC	256
+63.210.148.0/24	 Choopa, LLC	256
+63.210.149.0/24	 Level 3 Parent, LLC	256
+63.211.111.0/24	 Choopa, LLC	256
+63.211.221.0/24	 Level 3 Parent, LLC	256
+63.215.74.0/24	 Choopa, LLC	256
+64.154.38.0/24	 Choopa, LLC	256
+64.156.14.0/24	 Choopa, LLC	256
+64.237.32.0/19	 Choopa, LLC	8,192
+66.42.112.0/20	 Choopa, LLC	4,096
+66.42.32.0/20	 TYO_VULTR_CUST	4,096
+66.42.48.0/20	 SGP_VULTR_CUST	4,096
+66.42.64.0/20	 Choopa, LLC	4,096
+66.42.80.0/20	 Choopa, LLC	4,096
+66.42.96.0/20	 Choopa, LLC	4,096
+66.55.128.0/19	 Choopa, LLC	8,192
+66.55.143.0/24	 Vultr Holdings, LLC	256
+68.232.160.0/24	 GameServers.com	256
+68.232.161.0/24	 GameServers.com	256
+68.232.162.0/24	 GameServers.com	256
+68.232.163.0/24	 GameServers.com	256
+68.232.164.0/24	 GameServers.com	256
+68.232.165.0/24	 GameServers.com	256
+68.232.166.0/24	 GameServers.com	256
+68.232.167.0/24	 Choopa, LLC	256
+68.232.168.0/24	 GameServers.com	256
+68.232.169.0/24	 GameServers.com	256
+68.232.170.0/24	 GameServers.com	256
+68.232.171.0/24	 GameServers.com	256
+68.232.172.0/24	 GameServers.com	256
+68.232.173.0/24	 GameServers.com	256
+68.232.174.0/24	 GameServers.com	256
+68.232.175.0/24	 Vultr Holdings, LLC	256
+68.232.176.0/24	 GameServers.com	256
+68.232.177.0/24	 GameServers.com	256
+68.232.178.0/23	 GameServers.com	512
+68.232.180.0/24	 TEFINCOM S.A.	256
+68.232.181.0/24	 GameServers.com	256
+68.232.182.0/24	 GameServers.com	256
+68.232.183.0/24	 GameServers.com	256
+68.232.184.0/24	 GameServers.com	256
+68.232.185.0/24	 Budapest Holdings, LLC	256
+68.232.186.0/23	 GameServers.com	512
+68.232.188.0/23	 Choopa, LLC	512
+68.232.190.0/24	 Choopa, LLC	256
+68.232.191.0/24	 Choopa, LLC	256
+69.12.25.0/24	 Electro Nebula LLC	256
+78.141.192.0/20	 Choopa, LLC	4,096
+78.141.208.0/20	 Choopa, LLC	4,096
+80.240.16.0/20	 Choopa, LLC	4,096
+8.12.16.0/24	 Choopa, LLC	256
+8.12.17.0/24	 Choopa, LLC	256
+8.12.18.0/24	 Choopa, LLC	256
+8.12.20.0/23	 Choopa, LLC	512
+8.12.22.0/24	 Choopa, LLC	256
+8.12.23.0/24	 Choopa, LLC	256
+8.12.64.0/24	 Choopa, LLC	256
+8.12.65.0/24	 Choopa, LLC	256
+8.12.68.0/24	 Choopa, LLC	256
+8.18.93.0/24	 Choopa, LLC	256
+8.2.120.0/24	 Choopa, LLC	256
+8.2.121.0/24	 Choopa, LLC	256
+8.2.122.0/24	 Choopa, LLC	256
+8.3.28.0/24	 Choopa, LLC	256
+8.3.29.0/24	 Choopa, LLC	256
+8.3.5.0/24	 Choopa, LLC	256
+8.3.6.0/24	 Choopa, LLC	256
+8.3.7.0/24	 Choopa, LLC	256
+84.39.184.0/24	 Lycamthrope.com, LLC	256
+85.117.240.0/24	 BlackWonder	256
+85.203.21.0/24	 Express-Equinix-Tokyo	256
+8.6.15.0/24	 Level 3 Parent, LLC	256
+8.6.193.0/24	 Choopa, LLC	256
+8.6.2.0/24	 Choopa, LLC	256
+8.6.3.0/24	 Choopa, LLC	256
+8.6.8.0/24	 Choopa, LLC	256
+8.6.9.0/24	 Choopa, LLC	256
+8.7.233.0/24	 Level 3 Parent, LLC	256
+8.9.11.0/24	 Choopa, LLC	256
+8.9.15.0/24	 Choopa, LLC	256
+8.9.16.0/24	 Choopa, LLC	256
+89.167.134.0/24	 Choopa LLC	256
+8.9.30.0/23	 Choopa, LLC	512
+8.9.3.0/24	 Choopa, LLC	256
+8.9.36.0/23	 Choopa, LLC	512
+8.9.4.0/24	 Choopa, LLC	256
+8.9.5.0/24	 Choopa, LLC	256
+8.9.6.0/24	 Choopa, LLC	256
+8.9.8.0/24	 Choopa, LLC	256
+91.206.48.0/24	 SMShighway Limited	256
+91.220.186.0/24	 Express Courier LLC	256
+91.244.204.0/22	 UAB Muzita	1,024
+93.177.84.0/22	 Crisp IM SARL	1,024
+93.177.85.0/24	 Crisp IM SARL	256
+93.177.86.0/23	 Crisp IM SARL	512
+95.179.128.0/20	 JW Lucasweg 35	4,096
+95.179.144.0/20	 JW Lucasweg 35	4,096
+95.179.160.0/20	 Hanauer Landstraße 302	4,096
+95.179.176.0/20	 JW Lucasweg 35	4,096
+95.179.192.0/20	 11 Hanbury St	4,096
+95.179.208.0/20	 20/22, Rue Des Gardinoux	4,096
+95.179.224.0/20	 11 Hanbury St	4,096
+95.179.240.0/20	 Hanauer Landstraße 302	4,096
+95.214.48.0/24	 Kubus IT B.V.	256
+95.214.49.0/24	 Kubus IT B.V.	256
+95.214.50.0/24	 Kubus IT B.V.	256
+95.214.51.0/24	 Kubus IT B.V.	256
+96.30.192.0/20	 Choopa, LLC	4,096
+96.30.208.0/20	 Choopa, LLC	4,096

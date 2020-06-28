@@ -1,0 +1,211 @@
+102.133.0.0/16	 Microsoft (S.A.) (Proprietary) Limited	65,536
+102.133.0.0/17	 Microsoft	32,768
+102.133.128.0/17	 Microsoft	32,768
+102.37.0.0/16	 Microsoft (S.A.) (Proprietary) Limited	65,536
+102.37.0.0/17	 South Africa Allocations	32,768
+102.37.128.0/17	 Microsoft (S.A.) (Proprietary) Limited	32,768
+104.146.0.0/19	 Microsoft Corporation	8,192
+104.146.128.0/17	 Microsoft Corporation	32,768
+104.208.0.0/13	 Microsoft Corporation	524,288
+104.40.0.0/13	 Microsoft Corporation	524,288
+104.47.19.0/24	 Microsoft Corporation	256
+111.221.16.0/20	 Microsoft	4,096
+111.221.64.0/18	 Microsoft	16,384
+128.94.0.0/16	 Microsoft Singapore Pte. Ltd.	65,536
+13.104.0.0/14	 Microsoft Corporation	262,144
+13.107.14.0/24	 Microsoft Corporation	256
+131.253.1.0/24	 Microsoft Corp	256
+131.253.12.0/22	 Microsoft Corp	1,024
+131.253.128.0/17	 Microsoft Corp	32,768
+131.253.24.0/21	 Microsoft Corp	2,048
+131.253.32.0/20	 Microsoft Corp	4,096
+131.253.5.0/24	 Microsoft Corp	256
+131.253.6.0/24	 Microsoft Corp	256
+131.253.61.0/24	 Microsoft Corp	256
+131.253.62.0/23	 Microsoft Corp	512
+131.253.8.0/24	 Microsoft Corp	256
+132.245.0.0/16	 Microsoft Corp	65,536
+134.170.0.0/16	 Microsoft Corp	65,536
+135.149.0.0/16	 Microsoft Singapore Pte. Ltd.	65,536
+13.64.0.0/11	 Microsoft Corporation	2,097,152
+137.116.0.0/15	 Microsoft Corp	131,072
+137.135.0.0/16	 Microsoft Corp	65,536
+138.239.0.0/16	 Microsoft Singapore Pte. Ltd.	65,536
+138.91.0.0/16	 Microsoft Corp	65,536
+143.64.0.0/16	 Microsoft Singapore Pte. Ltd.	65,536
+147.145.0.0/16	 Microsoft Singapore Pte. Ltd.	65,536
+147.243.0.0/16	 Microsoft Limited UK	65,536
+148.7.0.0/16	 Microsoft Singapore Pte. Ltd.	65,536
+150.171.0.0/16	 Microsoft Corporation	65,536
+150.171.0.0/24	 Microsoft Corporation	256
+150.171.254.0/24	 Microsoft Corporation	256
+155.62.0.0/16	 Microsoft Singapore Pte. Ltd.	65,536
+157.55.0.0/16	 Microsoft Corporation	65,536
+157.55.0.0/17	 Microsoft Corporation	32,768
+157.55.128.0/17	 Microsoft Corporation	32,768
+157.56.0.0/16	 Microsoft Corporation	65,536
+158.158.0.0/16	 Microsoft Singapore Pte. Ltd.	65,536
+159.27.0.0/16	 Microsoft Singapore Pte. Ltd.	65,536
+163.228.0.0/16	 Microsoft Singapore Pte. Ltd.	65,536
+167.105.0.0/16	 Microsoft Singapore Pte. Ltd.	65,536
+168.61.0.0/16	 Microsoft Corp	65,536
+168.62.0.0/15	 Microsoft Corp	131,072
+169.138.0.0/16	 Microsoft Singapore Pte. Ltd.	65,536
+170.165.0.0/16	 Microsoft Singapore Pte. Ltd.	65,536
+191.232.0.0/13	 Microsoft do Brasil Imp. e Com. Software e Video G	524,288
+192.100.104.0/21	 Microsoft Limited UK	2,048
+192.100.112.0/21	 Microsoft Limited UK	2,048
+192.100.120.0/21	 Microsoft Limited UK	2,048
+192.100.128.0/22	 Microsoft Limited UK	1,024
+192.197.157.0/24	 Microsoft Corporation	256
+192.48.225.0/24	 Microsoft Corp	256
+192.84.160.0/23	 Microsoft Corp	512
+193.149.64.0/19	 To report suspected security issues specific to	8,192
+193.221.113.0/24	 Microsoft Limited	256
+194.41.16.0/20	 Microsoft Limited	4,096
+198.180.97.0/24	 Microsoft Corporation	256
+198.200.130.0/24	 Microsoft Corp	256
+198.206.164.0/24	 Microsoft Corp	256
+198.49.8.0/24	 Microsoft Corp	256
+199.103.122.0/24	 Microsoft Corporation	256
+199.103.90.0/23	 Microsoft Corporation	512
+199.242.32.0/20	 Microsoft Corp	4,096
+199.242.48.0/21	 Microsoft Corp	2,048
+199.30.16.0/20	 Microsoft Corp	4,096
+199.60.28.0/24	 Microsoft Corporation	256
+20.0.0.0/11	 Microsoft Corporation	2,097,152
+20.135.0.0/16	 Microsoft Corporation	65,536
+20.136.0.0/16	 Microsoft Corporation	65,536
+20.143.0.0/16	 Microsoft Corporation	65,536
+20.150.0.0/15	 Microsoft Corporation	131,072
+20.152.0.0/16	 Microsoft Corporation	65,536
+20.153.0.0/16	 Microsoft Corporation	65,536
+20.157.0.0/16	 Microsoft Corporation	65,536
+20.158.0.0/15	 Microsoft Corporation	131,072
+20.160.0.0/12	 Microsoft Corporation	1,048,576
+20.184.0.0/13	 Microsoft Corporation	524,288
+20.192.0.0/10	 Microsoft Corporation	4,194,304
+202.89.224.0/21	 Microsoft Corp, Tokyo	2,048
+20.33.0.0/16	 Microsoft Corporation	65,536
+20.36.0.0/14	 Microsoft Corporation	262,144
+20.37.64.0/19	 Microsoft Corporation	8,192
+20.40.0.0/13	 Microsoft Corporation	524,288
+204.152.140.0/23	 Microsoft Corp	512
+20.45.128.0/20	 Microsoft Corporation	4,096
+20.45.64.0/20	 Microsoft Corporation	4,096
+20.45.80.0/24	 Microsoft Corporation	256
+20.46.144.0/20	 Microsoft Corporation	4,096
+20.46.192.0/19	 Microsoft Corporation	8,192
+20.46.32.0/24	 Microsoft Corporation	256
+204.79.135.0/24	 Microsoft Corporation	256
+204.79.179.0/24	 Microsoft Corporation	256
+204.79.195.0/24	 Microsoft Corporation	256
+204.79.252.0/24	 Microsoft Corporation	256
+20.48.0.0/12	 Microsoft Corporation	1,048,576
+204.95.96.0/20	 Microsoft Corporation	4,096
+206.138.168.0/21	 Microsoft, Hotmail	2,048
+206.191.224.0/19	 Microsoft Corporation	8,192
+20.64.0.0/10	 Microsoft Corporation	4,194,304
+207.46.0.0/19	 Microsoft Corporation	8,192
+207.46.0.0/20	 Microsoft Corporation	4,096
+207.46.128.0/17	 Microsoft Corporation	32,768
+207.46.16.0/20	 Microsoft Corporation	4,096
+207.46.36.0/22	 Microsoft Corporation	1,024
+207.46.40.0/21	 Microsoft Corporation	2,048
+207.46.48.0/20	 Microsoft Corporation	4,096
+207.46.64.0/18	 Microsoft Corporation	16,384
+207.68.128.0/18	 Microsoft Corporation	16,384
+207.82.250.0/23	 CenturyLink Communications, LLC	512
+208.68.136.0/21	 Microsoft Corporation	2,048
+208.76.45.0/24	 Microsoft Corporation	256
+208.76.46.0/24	 Microsoft Corporation	256
+208.84.0.0/24	 Microsoft Corporation	256
+208.84.1.0/24	 Microsoft Corporation	256
+208.84.2.0/24	 Microsoft Corporation	256
+208.84.3.0/24	 Microsoft Corporation	256
+208.84.4.0/24	 Microsoft Corporation	256
+209.185.128.0/22	 Microsoft Corporation	1,024
+209.240.192.0/19	 Microsoft Corporation	8,192
+213.199.128.0/18	 Microsoft Limited	16,384
+216.220.208.0/20	 Microsoft Corporation	4,096
+216.32.180.0/22	 Microsoft Corporation	1,024
+216.32.240.0/22	 Microsoft Corporation	1,024
+216.33.240.0/22	 Microsoft Corporation	1,024
+23.100.0.0/15	 Microsoft Corporation	131,072
+23.102.0.0/16	 Microsoft Corporation	65,536
+23.103.128.0/17	 Microsoft Corporation	32,768
+23.103.160.0/20	 Microsoft Corporation	4,096
+23.103.64.0/18	 Microsoft Corporation	16,384
+23.96.0.0/14	 Microsoft Corporation	262,144
+40.104.0.0/14	 Microsoft Corporation	262,144
+40.104.0.0/15	 Microsoft Corporation	131,072
+40.107.142.0/23	 Microsoft Corporation	512
+40.107.18.0/23	 Microsoft Corporation	512
+40.108.0.0/19	 Microsoft Corporation	8,192
+40.108.128.0/17	 Microsoft Corporation	32,768
+40.110.0.0/15	 Microsoft Corporation	131,072
+40.112.0.0/13	 Microsoft Corporation	524,288
+40.119.160.0/19	 Microsoft Corporation	8,192
+40.120.0.0/14	 Microsoft Corporation	262,144
+40.120.0.0/20	 Microsoft Corporation	4,096
+40.123.192.0/19	 Microsoft Corporation	8,192
+40.124.0.0/16	 Microsoft Corporation	65,536
+40.125.0.0/17	 Microsoft Corporation	32,768
+40.126.0.0/18	 Microsoft Corporation	16,384
+40.126.128.0/17	 Microsoft Corporation	32,768
+40.126.192.0/23	 Microsoft Corporation	512
+40.127.0.0/16	 Microsoft Corporation	65,536
+40.127.0.0/19	 Microsoft Corporation	8,192
+40.64.0.0/10	 Microsoft Corporation	4,194,304
+40.64.0.0/15	 Microsoft Corporation	131,072
+40.66.0.0/17	 Microsoft Corporation	32,768
+40.66.166.0/24	 Microsoft Corporation	256
+40.67.0.0/16	 Microsoft Corporation	65,536
+40.68.0.0/14	 Microsoft Corporation	262,144
+40.74.0.0/15	 Microsoft Corporation	131,072
+40.76.0.0/14	 Microsoft Corporation	262,144
+40.76.0.0/15	 Microsoft Corporation	131,072
+40.78.0.0/15	 Microsoft Corporation	131,072
+40.80.0.0/12	 Microsoft Corporation	1,048,576
+40.95.238.0/23	 Microsoft Corporation	512
+40.95.86.0/23	 Microsoft Corporation	512
+40.96.0.0/13	 Microsoft Corporation	524,288
+51.10.0.0/15	 Microsoft Limited UK	131,072
+51.103.0.0/16	 Microsoft Limited UK	65,536
+51.104.0.0/15	 Microsoft Limited UK	131,072
+51.107.0.0/16	 Microsoft Limited UK	65,536
+51.116.0.0/16	 Microsoft Limited UK	65,536
+51.120.0.0/16	 Microsoft Limited UK	65,536
+51.12.0.0/15	 Microsoft Limited UK	131,072
+51.124.0.0/16	 Microsoft Limited UK	65,536
+51.132.0.0/16	 Microsoft Limited UK	65,536
+51.136.0.0/15	 Microsoft Limited UK	131,072
+51.138.0.0/16	 Microsoft Limited UK	65,536
+51.140.0.0/14	 Microsoft Limited UK	262,144
+51.144.0.0/15	 Microsoft Limited UK	131,072
+51.51.0.0/16	 Microsoft Limited UK	65,536
+51.53.0.0/16	 Microsoft Limited UK	65,536
+52.105.196.0/23	 Microsoft Corporation	512
+52.112.0.0/14	 Microsoft Corporation	262,144
+52.120.0.0/14	 Microsoft Corporation	262,144
+52.125.0.0/16	 Microsoft Corporation	65,536
+52.136.0.0/13	 Microsoft Corporation	524,288
+52.146.0.0/15	 Microsoft Corporation	131,072
+52.148.0.0/14	 Microsoft Corporation	262,144
+52.152.0.0/13	 Microsoft Corporation	524,288
+52.160.0.0/11	 Microsoft Corporation	2,097,152
+52.224.0.0/11	 Microsoft Corporation	2,097,152
+52.239.232.0/24	 Microsoft Corporation	256
+52.96.0.0/12	 Microsoft Corporation	1,048,576
+52.96.0.0/14	 Microsoft Corporation	262,144
+52.96.0.0/15	 Microsoft Corporation	131,072
+52.96.38.0/24	 Microsoft Corporation	256
+52.98.0.0/15	 Microsoft Corporation	131,072
+52.98.16.0/22	 Microsoft Corporation	1,024
+64.4.0.0/18	 Microsoft Corporation	16,384
+65.52.0.0/14	 Microsoft Corporation	262,144
+66.119.144.0/20	 Microsoft Corporation	4,096
+70.37.0.0/17	 Microsoft Corporation	32,768
+70.37.128.0/18	 Microsoft Corporation	16,384
+72.144.0.0/14	 Microsoft Corporation	262,144
+94.245.64.0/18	 Microsoft Limited	16,384

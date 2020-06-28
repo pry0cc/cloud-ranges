@@ -1,0 +1,315 @@
+
+Netblock	Description	Num IPs
+100.24.0.0/13	 Amazon Data Services NoVa	524,288
+103.150.46.0/24	 Enjin PTE LTD	256
+104.171.199.0/24	 Lumin Digital, LLC	256
+104.192.142.0/24	 Atlassian Network Services, Inc.	256
+104.193.187.0/24	 Snapchat, Inc	256
+104.193.204.0/24	 APEX INDUSTRIAL TECHNOLOGIES LLC	256
+104.238.246.0/24	 Blue Jeans Network, Inc.	256
+107.20.0.0/16	 Amazon.com, Inc.	65,536
+107.21.0.0/18	 Amazon.com, Inc.	16,384
+107.21.128.0/17	 Amazon.com, Inc.	32,768
+107.21.64.0/18	 Amazon.com, Inc.	16,384
+107.22.0.0/16	 Amazon.com, Inc.	65,536
+107.23.0.0/17	 Amazon.com, Inc.	32,768
+107.23.128.0/17	 Amazon.com, Inc.	32,768
+130.137.180.0/23	 Amazon Technologies Inc.	512
+130.137.82.0/24	 Amazon Technologies Inc.	256
+130.50.125.0/24	 Teledyne Technologies Incorporated	256
+131.226.191.0/24	 AQR CAPITAL MANAGEMENT LLC	256
+135.84.218.0/24	 MessageGears, LLC	256
+136.184.224.0/24	 Liberty Mutual Group	256
+136.184.225.0/24	 Liberty Mutual Group	256
+137.83.194.0/24	 Palo Alto Networks, Inc	256
+137.83.200.0/24	 Palo Alto Networks, Inc	256
+137.83.201.0/24	 Palo Alto Networks, Inc	256
+137.83.206.0/23	 Palo Alto Networks, Inc	512
+137.83.251.0/24	 Palo Alto Networks, Inc	256
+139.180.17.0/24	 HubSpot, Inc.	256
+139.180.244.0/23	 Palo Alto Networks, Inc	512
+139.60.0.0/24	 EMMA, Inc	256
+139.60.1.0/24	 EMMA, Inc	256
+139.60.3.0/24	 EMMA, Inc	256
+142.0.188.0/24	 SocketLabs	256
+142.0.191.0/24	 SocketLabs	256
+142.147.10.0/24	 OS33, Inc	256
+142.202.204.0/24	 Telzio, Inc.	256
+142.202.41.0/24	 Tychron Corporation	256
+142.54.38.0/24	 Epsilon Data Management LLC	256
+142.54.39.0/24	 Epsilon Data Management LLC	256
+142.54.41.0/24	 Epsilon Data Management LLC	256
+143.244.80.0/20	 HubSpot, Inc.	4,096
+147.160.167.0/24	 Knowbe4, Inc	256
+148.5.72.0/24	 Agilent Technologies	256
+151.148.1.0/24	 ACT, Inc.	256
+15.177.0.0/21	 Amazon Technologies Inc.	2,048
+15.177.64.0/23	 Amazon Technologies Inc.	512
+15.193.6.0/24	 Amazon Technologies Inc.	256
+155.46.135.0/24	 Thomson Reuters U.S. LLC	256
+158.247.16.0/20	 HubSpot, Inc.	4,096
+158.51.64.0/24	 Area 1 Security, Inc.	256
+161.38.192.0/22	 Mailgun Technologies Inc.	1,024
+162.215.224.0/23	 Unified Layer	512
+162.247.162.0/24	 iCIMS	256
+163.253.46.0/24	 Internet2	256
+164.153.128.0/24	 TELoIP Inc.	256
+164.153.129.0/24	 TELoIP Inc.	256
+168.149.240.0/24	 Palo Alto Networks, Inc	256
+168.149.241.0/24	 Palo Alto Networks, Inc	256
+168.149.246.0/24	 Palo Alto Networks, Inc	256
+168.151.30.0/24	 MediaMall Technologies, Inc.	256
+168.245.155.0/24	 MENLO SECURITY, INC.	256
+172.86.225.0/24	 Simwood Inc.	256
+173.195.208.0/24	 Rockyou Inc.	256
+173.199.16.0/24	 LogMeIn, Inc.	256
+173.199.29.0/24	 LogMeIn, Inc.	256
+173.199.8.0/23	 LogMeIn, Inc.	512
+173.213.62.0/24	 CHEETAHMAIL	256
+173.213.63.0/24	 CHEETAHMAIL	256
+174.129.0.0/16	 Amazon Data Services NoVa	65,536
+174.34.245.0/24	 Macquarie Global Services (USA) LLC	256
+18.204.0.0/14	 Amazon Technologies Inc.	262,144
+18.208.0.0/13	 Amazon Technologies Inc.	524,288
+18.232.0.0/14	 Amazon Technologies Inc.	262,144
+184.72.128.0/17	 Amazon Data Services NoVa	32,768
+184.72.64.0/19	 Amazon Data Services NoVa	8,192
+184.72.96.0/19	 Amazon Data Services NoVa	8,192
+184.73.0.0/16	 Amazon Data Services NoVa	65,536
+192.111.4.0/24	 Cisco Security	256
+192.135.64.0/24	 Florida State University	256
+192.146.118.0/24	 HostRocket Web Services	256
+192.149.210.0/24	 Online Datavault, LLC	256
+192.159.123.0/24	 Network Box USA	256
+192.161.148.0/24	 Zendesk, Inc.	256
+192.161.149.0/24	 Zendesk, Inc.	256
+192.161.150.0/24	 Zendesk, Inc.	256
+192.184.72.0/24	 Quantcast Corporation	256
+192.184.73.0/24	 Quantcast Corporation	256
+192.188.81.0/24	 Eligible Inc.	256
+192.190.134.0/24	 SkillSoft Corporation	256
+192.190.152.0/24	 HCL Software	256
+192.225.212.0/24	 Distil, Inc	256
+192.225.218.0/24	 Distil, Inc	256
+192.225.223.0/24	 Distil, Inc	256
+192.69.159.0/24	 Libera Inc.	256
+192.81.99.0/24	 Invaluable	256
+192.92.97.0/24	 ActiveCampaign, Inc.	256
+198.135.168.0/24	 USMatrix	256
+198.136.165.0/24	 InformAbility	256
+198.137.239.0/24	 Avaaz	256
+198.17.127.0/24	 Team Air Express, Inc.	256
+198.176.127.0/24	 RELX inc.	256
+198.177.255.0/24	 20-3191847	256
+198.178.114.0/24	 Dealer Marketing Services	256
+198.178.115.0/24	 Dealer Marketing Services	256
+199.188.156.0/24	 truelogic LLC	256
+199.19.192.0/24	 BroadSoft, Inc.	256
+199.201.127.0/24	 Bishop Fox	256
+199.30.176.0/24	 Desire2Learn Incorporated	256
+199.47.128.0/24	 Misk.com, Inc.	256
+199.47.129.0/24	 Misk.com, Inc.	256
+199.91.149.0/24	 TITLEMAX OF GEORGIA, INC.	256
+204.110.218.0/24	 Alert Logic, Inc.	256
+204.128.249.0/24	 HF Consulting	256
+204.153.219.0/24	 Telogis, Inc	256
+204.236.192.0/18	 Amazon Data Services NoVa	16,384
+204.236.224.0/19	 Amazon Data Services NoVa	8,192
+204.75.189.0/24	 NYK Business Systems Americas, Inc.	256
+204.77.194.0/24	 Digiroam, LLC	256
+204.8.28.0/24	 Multi Service	256
+204.8.29.0/24	 Multi Service	256
+204.8.30.0/24	 Multi Service	256
+205.157.216.0/24	 The Reynolds and Reynolds Company	256
+205.167.215.0/24	 WIREDRIVE	256
+205.201.40.0/24	 Informz Inc.	256
+205.201.41.0/24	 Informz Inc.	256
+205.201.42.0/24	 Informz Inc.	256
+205.201.43.0/24	 Informz Inc.	256
+205.201.59.0/24	 Southern Internet, Inc.	256
+205.220.189.0/24	 Proofpoint, Inc.	256
+206.126.254.0/24	 Lambeau Telecom Company LLC	256
+206.130.43.0/24	 OptiPub, LLC	256
+206.190.220.0/24	 auth-servers, LLC	256
+207.202.16.0/24	 IDT Corporation	256
+207.64.134.0/23	 University of Texas System	512
+208.70.208.0/24	 Reflexion Networks, Inc.	256
+208.70.209.0/24	 Reflexion Networks, Inc.	256
+208.71.23.0/24	 Advanced Networking and Communication Corporation	256
+208.75.220.0/22	 WebSolutions Technology	1,024
+208.78.4.0/23	 RedJack, LLC	512
+208.78.6.0/24	 RedJack, LLC	256
+208.78.7.0/24	 RedJack, LLC	256
+208.79.45.0/24	 SmugMug, Inc.	256
+208.79.47.0/24	 SmugMug, Inc.	256
+208.80.202.0/23	 Edgewave, Inc.	512
+208.84.160.0/24	 InfoDesk	256
+208.88.208.0/24	 Circuit ID	256
+208.93.103.0/24	 Devexperts Inc	256
+209.127.217.0/24	 ZenKey LLC	256
+209.94.74.0/24	 8x8, Inc.	256
+213.156.160.0/24	 NortonLifeLock Ireland Limited	256
+213.156.161.0/24	 NortonLifeLock Ireland Limited	256
+213.156.162.0/24	 NortonLifeLock Ireland Limited	256
+213.156.163.0/24	 NortonLifeLock Ireland Limited	256
+213.156.164.0/24	 NortonLifeLock Ireland Limited	256
+213.156.165.0/24	 NortonLifeLock Ireland Limited	256
+216.115.21.0/24	 Vonage Holdings, Inc.	256
+216.115.22.0/24	 Vonage Holdings, Inc.	256
+216.152.77.0/24	 JSCM Group, LLC	256
+216.169.147.0/24	 INTELITY, Inc.	256
+216.182.224.0/21	 Amazon.com, Inc.	2,048
+216.182.232.0/22	 Amazon.com, Inc.	1,024
+216.182.238.0/23	 Amazon.com, Inc.	512
+23.131.144.0/24	 Instadart, Inc.	256
+23.133.224.0/24	 Solve Advisors Inc	256
+23.136.176.0/24	 Misk.com, Inc.	256
+23.166.224.0/24	 Glexia, Inc.	256
+23.20.0.0/15	 Amazon Data Services NoVa	131,072
+23.22.0.0/15	 Amazon Data Services NoVa	131,072
+23.249.216.0/24	 Amazon Web Services, Inc.	256
+23.249.217.0/24	 Amazon Web Services, Inc.	256
+23.249.221.0/24	 Amazon Web Services, Inc.	256
+23.251.228.0/22	 Amazon Web Services, Inc.	1,024
+3.208.0.0/12	 Amazon Data Services NoVa	1,048,576
+3.224.0.0/12	 Amazon Data Services NoVa	1,048,576
+34.192.0.0/12	 Amazon Technologies Inc.	1,048,576
+34.224.0.0/12	 Amazon Technologies Inc.	1,048,576
+3.5.0.0/20	 Amazon Technologies Inc.	4,096
+3.5.0.0/24	 Amazon Technologies Inc.	256
+3.5.10.0/24	 Amazon Technologies Inc.	256
+3.5.1.0/24	 Amazon Technologies Inc.	256
+3.5.11.0/24	 Amazon Technologies Inc.	256
+35.153.0.0/16	 Amazon Data Services NoVa	65,536
+3.5.16.0/21	 Amazon Technologies Inc.	2,048
+3.5.16.0/24	 Amazon Technologies Inc.	256
+35.168.0.0/13	 Amazon Technologies Inc.	524,288
+3.5.17.0/24	 Amazon Technologies Inc.	256
+3.5.18.0/24	 Amazon Technologies Inc.	256
+3.5.19.0/24	 Amazon Technologies Inc.	256
+3.5.20.0/24	 Amazon Technologies Inc.	256
+3.5.2.0/24	 Amazon Technologies Inc.	256
+3.5.21.0/24	 Amazon Technologies Inc.	256
+3.5.3.0/24	 Amazon Technologies Inc.	256
+3.5.4.0/24	 Amazon Technologies Inc.	256
+3.5.5.0/24	 Amazon Technologies Inc.	256
+3.5.6.0/24	 Amazon Technologies Inc.	256
+3.5.7.0/24	 Amazon Technologies Inc.	256
+3.5.8.0/24	 Amazon Technologies Inc.	256
+3.5.9.0/24	 Amazon Technologies Inc.	256
+3.80.0.0/12	 Amazon Data Services NoVa	1,048,576
+44.192.0.0/11	 Amazon Data Services NoVa	2,097,152
+45.136.240.0/24	 SysAid US East (N. Virginia) DC	256
+45.223.13.0/24	 Incapsula Inc	256
+45.86.112.0/24	 Aidoc Medical Ltd.	256
+45.88.28.0/24	 Barrett Steel Ltd	256
+50.16.0.0/16	 Amazon Data Services NoVa	65,536
+50.17.0.0/16	 Amazon Data Services NoVa	65,536
+50.19.0.0/17	 Amazon Data Services NoVa	32,768
+50.19.128.0/17	 Amazon Data Services NoVa	32,768
+52.0.0.0/15	 Amazon Technologies Inc.	131,072
+52.128.40.0/24	 ActiveCampaign, Inc.	256
+52.128.41.0/24	 ActiveCampaign, Inc.	256
+52.128.42.0/24	 ActiveCampaign, Inc.	256
+52.128.43.0/24	 ActiveCampaign, Inc.	256
+52.200.0.0/13	 Amazon Technologies Inc.	524,288
+52.20.0.0/14	 Amazon Technologies Inc.	262,144
+52.2.0.0/15	 Amazon Technologies Inc.	131,072
+52.4.0.0/14	 Amazon Technologies Inc.	262,144
+52.44.0.0/15	 Amazon Technologies Inc.	131,072
+52.54.0.0/15	 Amazon Technologies Inc.	131,072
+52.70.0.0/15	 Amazon Technologies Inc.	131,072
+52.72.0.0/15	 Amazon Technologies Inc.	131,072
+52.86.0.0/15	 Amazon Technologies Inc.	131,072
+52.90.0.0/15	 Amazon Technologies Inc.	131,072
+52.95.231.0/24	 Amazon Technologies Inc.	256
+52.95.245.0/24	 Amazon Technologies Inc.	256
+54.144.0.0/14	 Amazon Data Services NoVa	262,144
+54.152.0.0/16	 Amazon Technologies Inc.	65,536
+54.156.0.0/14	 Amazon Technologies Inc.	262,144
+54.160.0.0/14	 Amazon Technologies Inc.	262,144
+54.164.0.0/15	 Amazon Technologies Inc.	131,072
+54.166.0.0/15	 Amazon Technologies Inc.	131,072
+54.172.0.0/15	 Amazon Technologies Inc.	131,072
+54.174.0.0/15	 Amazon Technologies Inc.	131,072
+54.196.0.0/15	 Amazon.com, Inc.	131,072
+54.198.0.0/16	 Amazon Data Services NoVa	65,536
+54.204.0.0/15	 Amazon.com, Inc.	131,072
+54.208.0.0/15	 Amazon.com, Inc.	131,072
+54.210.0.0/16	 Amazon.com, Inc.	65,536
+54.211.0.0/16	 Amazon.com, Inc.	65,536
+54.221.0.0/16	 Amazon Data Services NoVa	65,536
+54.224.0.0/15	 Amazon Technologies Inc.	131,072
+54.226.0.0/15	 Amazon Technologies Inc.	131,072
+54.234.0.0/15	 Amazon.com, Inc.	131,072
+54.236.0.0/18	 Amazon.com, Inc.	16,384
+54.236.128.0/17	 Amazon.com, Inc.	32,768
+54.236.64.0/18	 Amazon.com, Inc.	16,384
+54.237.0.0/16	 Amazon.com, Inc.	65,536
+54.240.30.0/23	 Amazon Web Services, Inc.	512
+54.240.32.0/20	 Amazon Web Services, Inc.	4,096
+54.240.48.0/23	 Amazon Web Services, Inc.	512
+54.240.8.0/21	 Amazon Web Services, Inc.	2,048
+54.242.0.0/15	 Amazon Data Services NoVa	131,072
+54.80.0.0/14	 Amazon Technologies Inc.	262,144
+54.84.0.0/15	 Amazon Technologies Inc.	131,072
+54.86.0.0/16	 Amazon Technologies Inc.	65,536
+54.87.0.0/16	 Amazon Technologies Inc.	65,536
+54.88.0.0/16	 Amazon.com, Inc.	65,536
+54.89.0.0/16	 Amazon Technologies Inc.	65,536
+54.90.0.0/15	 Amazon Data Services NoVa	131,072
+54.92.128.0/17	 Amazon Data Services NoVa	32,768
+64.238.3.0/24	 DELMARVA ONLINE	256
+64.238.7.0/24	 DELMARVA ONLINE	256
+64.238.8.0/24	 DELMARVA ONLINE	256
+64.252.64.0/24	 Amazon.com, Inc.	256
+64.252.66.0/24	 Amazon.com, Inc.	256
+64.252.67.0/24	 Amazon.com, Inc.	256
+64.252.68.0/24	 Amazon.com, Inc.	256
+64.252.69.0/24	 Amazon.com, Inc.	256
+64.35.169.0/24	 Brivo Systems, LLC	256
+64.45.128.0/24	 DELMARVA ONLINE	256
+64.45.132.0/24	 DELMARVA ONLINE	256
+64.57.15.0/24	 Tower Hill Insurance Group	256
+64.57.9.0/24	 Tower Hill Insurance Group	256
+64.66.45.0/24	 Fugh Refrigeration, Inc.	256
+64.71.238.0/24	 Webhosting.Net, Inc.	256
+66.59.61.0/24	 CROCKER COMMUNICATIONS	256
+66.59.62.0/24	 CROCKER COMMUNICATIONS	256
+67.202.0.0/18	 Amazon Data Services NoVa	16,384
+67.219.180.0/24	 Yipit, Inc.	256
+67.222.248.0/24	 Code 42 Software	256
+67.222.249.0/24	 Code 42 Software	256
+67.226.221.0/24	 Securly, Inc	256
+68.64.4.0/24	 LogMeIn, Inc.	256
+69.2.101.0/24	 Advance Publications Inc.	256
+69.59.249.0/24	 Vonage Holdings, Inc.	256
+69.72.40.0/24	 Mailgun Technologies Inc.	256
+69.72.41.0/24	 Mailgun Technologies Inc.	256
+69.72.42.0/24	 Mailgun Technologies Inc.	256
+69.72.43.0/24	 Mailgun Technologies Inc.	256
+72.13.123.0/24	 GHX	256
+72.13.78.0/24	 Cima Telecom, Inc.	256
+72.13.79.0/24	 Cima Telecom, Inc.	256
+72.44.32.0/19	 Amazon Data Services NoVa	8,192
+74.112.132.0/24	 Kickbox Inc	256
+74.112.133.0/24	 Kickbox Inc	256
+74.116.144.0/24	 Vonage Holdings, Inc.	256
+74.117.149.0/24	 IMPROCOM INC	256
+74.122.241.0/24	 Voiturio LLC	256
+74.221.131.0/24	 Palo Alto Networks, Inc	256
+75.101.128.0/17	 Amazon Data Services NoVa	32,768
+76.223.191.0/24	 Amazon Web Services, Inc.	256
+76.76.17.0/24	 Evercast	256
+82.115.214.0/24	 monday.com LTD	256
+85.115.38.0/24	 Forcepoint Cloud Ltd	256
+89.251.12.0/24	 Skyscanner Limited	256
+91.213.81.0/24	 Highbridge Capital Management (UK), Ltd.	256
+91.237.175.0/24	 NEUSTAR, INC	256
+98.142.176.0/24	 Strike Protocols, Inc.	256
+99.77.128.0/24	 Amazon.com, Inc.	256
+99.77.129.0/24	 Amazon.com, Inc.	256
+99.77.151.0/24	 Amazon.com, Inc.	256
+99.77.187.0/24	 Amazon.com, Inc.	256
+99.77.191.0/24	 Amazon.com, Inc.	256
+99.77.254.0/24	 Amazon.com, Inc.	256

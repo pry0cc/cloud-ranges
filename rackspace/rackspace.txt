@@ -1,0 +1,96 @@
+104.130.124.0/22	 Rackspace Cloud Servers	1,024
+104.130.128.0/19	 Rackspace Cloud Servers	8,192
+104.130.240.0/20	 Rackspace Cloud Servers	4,096
+104.239.128.0/19	 Rackspace Cloud Servers	8,192
+104.239.240.0/21	 Rackspace Cloud Servers	2,048
+108.166.64.0/20	 Slicehost	4,096
+108.166.80.0/20	 Slicehost	4,096
+108.171.176.0/20	 Rackspace Hosting	4,096
+148.62.0.0/16	 Rackspace Hosting	65,536
+155.108.248.0/23	 Global Network Services	512
+159.135.229.0/24	 Mailgun Technologies Inc.	256
+159.135.230.0/24	 Mailgun Technologies Inc.	256
+159.135.231.0/24	 Mailgun Technologies Inc.	256
+159.135.232.0/24	 Mailgun Technologies Inc.	256
+159.135.233.0/24	 Mailgun Technologies Inc.	256
+159.135.250.0/23	 Rackspace Hosting	512
+162.209.64.0/20	 Rackspace Cloud Servers	4,096
+162.242.128.0/19	 Rackspace Cloud Servers	8,192
+166.78.0.0/18	 Rackspace Cloud Servers	16,384
+166.78.128.0/18	 Rackspace Cloud Servers	16,384
+172.99.96.0/19	 Rackspace Hosting	8,192
+173.203.192.0/18	 Rackspace Cloud Servers	16,384
+173.45.248.0/21	 Rackspace	2,048
+174.143.0.0/16	 Rackspace Hosting	65,536
+192.237.192.0/19	 Rackspace Cloud Servers	8,192
+198.101.192.0/19	 Rackspace Cloud Servers	8,192
+198.101.224.0/20	 Rackspace Cloud Servers	4,096
+198.101.240.0/21	 Rackspace Cloud Servers	2,048
+198.101.248.0/21	 Rackspace Hosting	2,048
+198.254.64.0/21	 Cake Marketing	2,048
+198.61.192.0/19	 Rackspace Hosting	8,192
+204.107.168.0/24	 Coinstar	256
+204.232.192.0/19	 Rackspace Hosting	8,192
+204.63.38.0/24	 Capital One Financial Corporation	256
+204.63.39.0/24	 Capital One Financial Corporation	256
+209.114.32.0/20	 Rackspace	4,096
+209.114.48.0/20	 Rackspace Hosting	4,096
+209.163.232.0/21	 Rackspace.com, Ltd.	2,048
+209.163.248.0/22	 Rackspace.com, Ltd.	1,024
+209.177.66.0/23	 NCI Technologies, Inc.	512
+209.61.128.0/19	 Rackspace Hosting	8,192
+209.61.160.0/22	 Rackspace Cloud Servers	1,024
+209.61.164.0/23	 Net Solutions L.L.C.	512
+209.61.168.0/21	 Rackspace Hosting	2,048
+209.61.176.0/20	 Rackspace Hosting	4,096
+209.61.184.0/21	 Rackspace Hosting	2,048
+216.110.32.0/20	 Rackspace.com, Ltd.	4,096
+23.253.224.0/19	 Rackspace Cloud Servers	8,192
+23.253.64.0/18	 Rackspace Cloud Servers	16,384
+50.56.128.0/20	 Rackspace Backbone	4,096
+50.56.144.0/22	 Trademotion	1,024
+50.56.152.0/21	 Rackspace Cloud Servers	2,048
+50.56.160.0/19	 Rackspace Cloud Servers	8,192
+50.56.192.0/18	 Rackspace Hosting	16,384
+64.39.0.0/19	 Rackspace Hosting	8,192
+64.49.192.0/19	 Rackspace Hosting	8,192
+64.49.224.0/21	 Cloud Loadbalancing as a Service-LBaaS (DFW)	2,048
+64.49.234.0/23	 Rackspace Cloud Servers	512
+64.49.236.0/22	 Rackspace Cloud Servers	1,024
+64.49.240.0/20	 Rackspace Hosting	4,096
+65.61.128.0/21	 Rackspace Hosting	2,048
+65.61.136.0/22	 Rackspace Backbone Engineering	1,024
+65.61.140.0/24	 Rackspace Backbone Engineering	256
+65.61.144.0/23	 CORE One-Hour Servers	512
+65.61.148.0/22	 Rackspace Backbone Engineering	1,024
+65.61.153.0/24	 Rackspace Backbone Engineering	256
+65.61.154.0/23	 Cloud Loadbalancing as a Service-LBaaS (DFW)	512
+65.61.156.0/22	 Rackspace Backbone Engineering	1,024
+65.61.160.0/20	 Rackspace Hosting	4,096
+65.61.176.0/21	 Oracle Corporation	2,048
+65.61.184.0/23	 Rackspace Backbone Engineering	512
+65.61.188.0/22	 Rackspace Backbone Engineering	1,024
+66.216.112.0/22	 MonsterCommerce LLC	1,024
+66.216.118.0/23	 WebMail.us	512
+66.216.120.0/21	 Rackspace Hosting	2,048
+66.216.64.0/19	 Rackspace Hosting	8,192
+66.216.96.0/20	 Rackspace Hosting	4,096
+67.192.0.0/16	 Rackspace Hosting	65,536
+67.23.0.0/19	 Rackspace Hosting	8,192
+67.23.32.0/20	 Rackspace Cloud Servers	4,096
+69.20.95.0/24	 Rackspace Hosting	256
+72.232.0.0/16	 DataPipe, Inc.	65,536
+72.233.0.0/17	 DataPipe, Inc.	32,768
+72.3.128.0/17	 Rackspace Hosting	32,768
+72.32.0.0/16	 Rackspace Hosting	65,536
+72.36.247.0/24	 DataPipe, Inc.	256
+74.205.32.0/19	 Rackspace Hosting	8,192
+74.205.64.0/18	 Rackspace Hosting	16,384
+98.129.0.0/17	 Rackspace Hosting	32,768
+98.129.128.0/18	 Rackspace Hosting	16,384
+98.129.192.0/19	 Rackspace Hosting	8,192
+98.129.224.0/22	 AmeriCommerce, L.P.	1,024
+98.129.228.0/24	 Rackspace Hosting	256
+98.129.230.0/23	 Mosso - DFW	512
+98.129.232.0/21	 Rackspace Cloud Servers	2,048
+98.129.240.0/20	 Rackspace Hosting	4,096

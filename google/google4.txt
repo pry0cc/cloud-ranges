@@ -1,0 +1,5 @@
+104.132.0.0/14	 Google LLC	262,144
+104.134.94.0/24	 Google LLC	256
+104.134.95.0/24	 Google LLC	256
+89.207.224.0/24	 Google CWB PNI-1	256
+89.207.229.0/24	 Google Switzerland GmbH	256

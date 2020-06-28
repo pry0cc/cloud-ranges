@@ -1,0 +1,9 @@
+131.253.112.0/21	 Microsoft Corp	2,048
+131.253.120.0/22	 Microsoft Corp	1,024
+131.253.72.0/22	 Microsoft Corp	1,024
+131.253.80.0/20	 Microsoft Corp	4,096
+195.134.224.0/19	 Microsoft Public Network	8,192
+20.140.0.0/15	 Microsoft Corporation	131,072
+20.34.0.0/15	 Microsoft Corporation	131,072
+204.13.120.0/21	 Microsoft Corporation	2,048
+52.126.0.0/15	 Microsoft Corporation	131,072
