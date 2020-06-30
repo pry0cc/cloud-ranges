@@ -111,6 +111,10 @@ companies = {
   "telefonica"=>{
     "glob"=>"telefonica",
     "asn"=>{}
+  },
+  "bt"=>{
+    "glob"=>"British Telecommunications",
+    "asn"=>{}
   }
 }
 
