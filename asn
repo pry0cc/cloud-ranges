@@ -113,7 +113,7 @@ companies = {
     "asn"=>{}
   },
   "bt"=>{
-    "glob"=>"British Telecommunications",
+    "glob"=>"british telecommunications",
     "asn"=>{}
   }
 }
