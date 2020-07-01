@@ -9,7 +9,7 @@ do
         proxychains4 -q ./asn
         echo "companies/" > index.html && for i in $(bash -c "ls -l companies/ | cut -d ' ' -f 9"); do echo " - $i/ranges.txt" >> index.html; done
         git add .
-        git commit -m "Updated $company at $(date +%D-%T) EST"
+        git commit -m "Updated $company at $(date +%D-%T)"
         git pull
         git push
         sleep 120
